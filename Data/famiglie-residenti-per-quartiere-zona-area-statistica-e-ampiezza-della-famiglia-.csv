@@ -1,0 +1,2179 @@
+﻿Anno;Codice Area;Descrizione Area;Quartiere;Zona;Dimensione Familiare;Numero Famiglie;Zona di prossimità
+2016;01;Lavino di Mezzo;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;61;BIRRA - BARGELLINO - LAVINO
+2016;03;Bargellino;Borgo Panigale - Reno;Borgo Panigale;1;20;BIRRA - BARGELLINO - LAVINO
+2016;03;Bargellino;Borgo Panigale - Reno;Borgo Panigale;2;9;BIRRA - BARGELLINO - LAVINO
+2016;03;Bargellino;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;14;BIRRA - BARGELLINO - LAVINO
+2016;04;Aeroporto;Borgo Panigale - Reno;Borgo Panigale;1;101;BIRRA - BARGELLINO - LAVINO
+2016;05;La Birra;Borgo Panigale - Reno;Borgo Panigale;1;460;BIRRA - BARGELLINO - LAVINO
+2016;06;Lungo Reno;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;2;BIRRA - BARGELLINO - LAVINO
+2016;08;Borgo Centro;Borgo Panigale - Reno;Borgo Panigale;1;1929;BORGO PANIGALE
+2016;10;Rigosa;Borgo Panigale - Reno;Borgo Panigale;2;120;BORGO PANIGALE
+2016;12;Caserme Rosse-Manifattura;Navile;Bolognina;2;296;CORTICELLA - DOZZA
+2016;14;Arcoveggio;Navile;Bolognina;1;3256;BOLOGNINA
+2016;15;Via Ferrarese;Navile;Bolognina;1;3427;BOLOGNINA
+2016;16;Ex Mercato Ortofrutticolo;Navile;Bolognina;2;79;BOLOGNINA
+2016;16;Ex Mercato Ortofrutticolo;Navile;Bolognina;3 e oltre;79;BOLOGNINA
+2016;17;Piazza dell'Unita';Navile;Bolognina;2;1188;BOLOGNINA
+2016;18;San Savino;Navile;Corticella;1;2020;CORTICELLA - DOZZA
+2016;18;San Savino;Navile;Corticella;2;1327;CORTICELLA - DOZZA
+2016;19;Savena Abbandonato;Navile;Corticella;3 e oltre;130;CORTICELLA - DOZZA
+2016;20;Croce Coperta;Navile;Corticella;2;824;CORTICELLA - DOZZA
+2016;21;Mulino del Gomito;Navile;Corticella;1;78;CORTICELLA - DOZZA
+2016;21;Mulino del Gomito;Navile;Corticella;2;46;CORTICELLA - DOZZA
+2016;21;Mulino del Gomito;Navile;Corticella;3 e oltre;56;CORTICELLA - DOZZA
+2016;22;La Dozza;Navile;Corticella;3 e oltre;236;CORTICELLA - DOZZA
+2016;24;La Noce;Navile;Lame;2;219;BERTALIA - NOCE
+2016;24;La Noce;Navile;Lame;3 e oltre;229;BERTALIA - NOCE
+2016;25;Tiro A Segno;Navile;Lame;3 e oltre;17;BERTALIA - NOCE
+2016;26;Pescarola;Navile;Lame;1;913;BERTALIA - NOCE
+2016;27;Lazzaretto;Navile;Lame;1;141;BERTALIA - NOCE
+2016;29;Marconi-2;Porto - Saragozza;Marconi;2;1514;MARCONI
+2016;30;Marconi-1;Porto - Saragozza;Marconi;2;253;MALPIGHI
+2016;33;Zanardi;Porto - Saragozza;Saffi;1;2004;SAFFI
+2016;34;Velodromo;Porto - Saragozza;Saffi;1;1664;SAFFI
+2016;34;Velodromo;Porto - Saragozza;Saffi;2;850;SAFFI
+2016;35;Via Vittorio Veneto;Porto - Saragozza;Saffi;1;1871;SAFFI
+2016;35;Via Vittorio Veneto;Porto - Saragozza;Saffi;2;698;SAFFI
+2016;36;Villaggio della Barca;Borgo Panigale - Reno;Barca;2;842;BARCA
+2016;37;Battindarno;Borgo Panigale - Reno;Barca;3 e oltre;1141;BARCA
+2016;38;Canale di Reno;Borgo Panigale - Reno;Barca;2;972;BARCA
+2016;39;Agucchi;Borgo Panigale - Reno;Santa Viola;3 e oltre;566;SANTA VIOLA
+2016;41;Cadriano-Calamosco;San Donato - San Vitale;San Donato;1;149;SAN DONATO NUOVO
+2016;42;Fiera;San Donato - San Vitale;San Donato;1;4;SAN DONATO VECCHIO
+2016;43;San Donnino;San Donato - San Vitale;San Donato;2;467;SAN DONATO VECCHIO
+2016;45;CAAB;San Donato - San Vitale;San Donato;3 e oltre;41;SAN DONATO NUOVO
+2016;46;Scalo Merci San Donato;San Donato - San Vitale;San Donato;3 e oltre;2;SAN DONATO NUOVO
+2016;47;Via del Lavoro;San Donato - San Vitale;San Donato;2;1048;SAN DONATO VECCHIO
+2016;48;Michelino;San Donato - San Vitale;San Donato;2;597;SAN DONATO VECCHIO
+2016;50;Osservanza;Santo Stefano;Colli;3 e oltre;591;OSSERVANZA - PADERNO
+2016;51;San Michele in Bosco;Santo Stefano;Colli;1;530;OSSERVANZA - PADERNO
+2016;52;Paderno;Santo Stefano;Colli;3 e oltre;238;OSSERVANZA - PADERNO
+2016;53;Galvani-1;Santo Stefano;Galvani;1;651;GALVANI
+2016;54;Galvani-2;Santo Stefano;Galvani;2;1344;GALVANI
+2016;58;Dagnini;Santo Stefano;Murri;1;2710;MURRI
+2016;59;Chiesanuova;Santo Stefano;Murri;2;1014;MURRI
+2016;59;Chiesanuova;Santo Stefano;Murri;3 e oltre;907;MURRI
+2016;60;Irnerio-1;Santo Stefano;Irnerio;2;427;IRNERIO
+2016;60;Irnerio-1;Santo Stefano;Irnerio;3 e oltre;350;IRNERIO
+2016;61;Irnerio-2;Santo Stefano;Irnerio;1;4100;IRNERIO
+2016;62;Cirenaica;San Donato - San Vitale;San Vitale;3 e oltre;998;CIRENAICA - MASSARENTI - SCANDELLARA
+2016;64;Via Larga;San Donato - San Vitale;San Vitale;1;364;CIRENAICA - MASSARENTI - SCANDELLARA
+2016;64;Via Larga;San Donato - San Vitale;San Vitale;3 e oltre;340;CIRENAICA - MASSARENTI - SCANDELLARA
+2016;65;Roveri;San Donato - San Vitale;San Vitale;2;72;CROCE DEL BIACCO - ROVERI
+2016;65;Roveri;San Donato - San Vitale;San Vitale;3 e oltre;89;CROCE DEL BIACCO - ROVERI
+2016;67;Mengoli;San Donato - San Vitale;San Vitale;1;3179;CIRENAICA - MASSARENTI - SCANDELLARA
+2016;68;Guelfa;San Donato - San Vitale;San Vitale;2;959;CIRENAICA - MASSARENTI - SCANDELLARA
+2016;68;Guelfa;San Donato - San Vitale;San Vitale;3 e oltre;818;CIRENAICA - MASSARENTI - SCANDELLARA
+2016;69;Croce del Biacco;San Donato - San Vitale;San Vitale;1;890;CROCE DEL BIACCO - ROVERI
+2016;70;Stradelli Guelfi;San Donato - San Vitale;San Vitale;3 e oltre;41;CROCE DEL BIACCO - ROVERI
+2016;71;Stadio-Meloncello;Porto - Saragozza;Costa Saragozza;1;1086;SARAGOZZA - SAN LUCA
+2016;71;Stadio-Meloncello;Porto - Saragozza;Costa Saragozza;2;473;SARAGOZZA - SAN LUCA
+2016;72;XXI Aprile;Porto - Saragozza;Costa Saragozza;3 e oltre;1585;SARAGOZZA - SAN LUCA
+2016;73;San Giuseppe;Porto - Saragozza;Costa Saragozza;1;1674;SARAGOZZA - SAN LUCA
+2016;74;Ravone;Porto - Saragozza;Costa Saragozza;1;254;SARAGOZZA - SAN LUCA
+2016;74;Ravone;Porto - Saragozza;Costa Saragozza;3 e oltre;162;SARAGOZZA - SAN LUCA
+2016;75;Via del Genio;Porto - Saragozza;Costa Saragozza;2;2;SARAGOZZA - SAN LUCA
+2016;76;San Luca;Porto - Saragozza;Costa Saragozza;1;109;SARAGOZZA - SAN LUCA
+2016;77;Malpighi-2;Porto - Saragozza;Malpighi;3 e oltre;1039;MALPIGHI
+2016;79;Fossolo;Savena;Mazzini;2;1411;FOSSOLO - DUE MADONNE
+2016;81;Lungo Savena;Savena;Mazzini;1;6;FOSSOLO - DUE MADONNE
+2016;83;Bitone;Savena;Mazzini;3 e oltre;1348;PONTEVECCHIO - MAZZINI
+2016;84;Cavedone;Savena;Mazzini;3 e oltre;446;PONTEVECCHIO - MAZZINI
+2016;85;Via Arno;Savena;Mazzini;1;1477;PONTEVECCHIO - MAZZINI
+2016;85;Via Arno;Savena;Mazzini;2;1159;PONTEVECCHIO - MAZZINI
+2016;85;Via Arno;Savena;Mazzini;3 e oltre;943;PONTEVECCHIO - MAZZINI
+2016;87;Monte Donato;Savena;San Ruffillo;3 e oltre;206;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2016;88;Via Toscana;Savena;San Ruffillo;1;2559;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2016;88;Via Toscana;Savena;San Ruffillo;2;1343;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2016;88;Via Toscana;Savena;San Ruffillo;3 e oltre;1234;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2016;90;Ponte Savena-La Bastia;Savena;San Ruffillo;1;261;LUNGO SAVENA
+2016;90;Ponte Savena-La Bastia;Savena;San Ruffillo;2;192;LUNGO SAVENA
+2016;99;non indicata;Senza fissa dimora;Senza fissa dimora;3 e oltre;6;
+2017;01;Lavino di Mezzo;Borgo Panigale - Reno;Borgo Panigale;1;112;BIRRA - BARGELLINO - LAVINO
+2017;01;Lavino di Mezzo;Borgo Panigale - Reno;Borgo Panigale;2;68;BIRRA - BARGELLINO - LAVINO
+2017;01;Lavino di Mezzo;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;64;BIRRA - BARGELLINO - LAVINO
+2017;02;Via del Vivaio;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;140;BIRRA - BARGELLINO - LAVINO
+2017;03;Bargellino;Borgo Panigale - Reno;Borgo Panigale;2;8;BIRRA - BARGELLINO - LAVINO
+2017;03;Bargellino;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;13;BIRRA - BARGELLINO - LAVINO
+2017;04;Aeroporto;Borgo Panigale - Reno;Borgo Panigale;1;104;BIRRA - BARGELLINO - LAVINO
+2017;04;Aeroporto;Borgo Panigale - Reno;Borgo Panigale;2;59;BIRRA - BARGELLINO - LAVINO
+2017;05;La Birra;Borgo Panigale - Reno;Borgo Panigale;1;483;BIRRA - BARGELLINO - LAVINO
+2017;05;La Birra;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;239;BIRRA - BARGELLINO - LAVINO
+2017;06;Lungo Reno;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;2;BIRRA - BARGELLINO - LAVINO
+2017;07;Ducati-Villaggio Ina;Borgo Panigale - Reno;Borgo Panigale;1;714;BORGO PANIGALE
+2017;07;Ducati-Villaggio Ina;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;410;BORGO PANIGALE
+2017;08;Borgo Centro;Borgo Panigale - Reno;Borgo Panigale;2;1052;BORGO PANIGALE
+2017;08;Borgo Centro;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;1067;BORGO PANIGALE
+2017;10;Rigosa;Borgo Panigale - Reno;Borgo Panigale;1;195;BORGO PANIGALE
+2017;12;Caserme Rosse-Manifattura;Navile;Bolognina;3 e oltre;280;CORTICELLA - DOZZA
+2017;13;CNR;Navile;Bolognina;1;20;BEVERARA
+2017;14;Arcoveggio;Navile;Bolognina;1;3197;BOLOGNINA
+2017;14;Arcoveggio;Navile;Bolognina;2;1368;BOLOGNINA
+2017;14;Arcoveggio;Navile;Bolognina;3 e oltre;1270;BOLOGNINA
+2017;18;San Savino;Navile;Corticella;2;1312;CORTICELLA - DOZZA
+2017;19;Savena Abbandonato;Navile;Corticella;2;92;CORTICELLA - DOZZA
+2017;20;Croce Coperta;Navile;Corticella;3 e oltre;852;CORTICELLA - DOZZA
+2017;21;Mulino del Gomito;Navile;Corticella;2;44;CORTICELLA - DOZZA
+2017;22;La Dozza;Navile;Corticella;3 e oltre;233;CORTICELLA - DOZZA
+2017;24;La Noce;Navile;Lame;1;254;BERTALIA - NOCE
+2017;25;Tiro A Segno;Navile;Lame;3 e oltre;19;BERTALIA - NOCE
+2017;26;Pescarola;Navile;Lame;3 e oltre;613;BERTALIA - NOCE
+2017;27;Lazzaretto;Navile;Lame;3 e oltre;77;BERTALIA - NOCE
+2017;28;Beverara;Navile;Lame;1;1686;BEVERARA
+2017;28;Beverara;Navile;Lame;3 e oltre;931;BEVERARA
+2017;29;Marconi-2;Porto - Saragozza;Marconi;3 e oltre;1339;MARCONI
+2017;30;Marconi-1;Porto - Saragozza;Marconi;3 e oltre;257;MALPIGHI
+2017;31;Prati di Caprara-Ospedale Maggiore;Porto - Saragozza;Saffi;1;104;SAFFI
+2017;31;Prati di Caprara-Ospedale Maggiore;Porto - Saragozza;Saffi;3 e oltre;67;SAFFI
+2017;33;Zanardi;Porto - Saragozza;Saffi;1;2027;SAFFI
+2017;33;Zanardi;Porto - Saragozza;Saffi;2;797;SAFFI
+2017;34;Velodromo;Porto - Saragozza;Saffi;3 e oltre;732;SAFFI
+2017;36;Villaggio della Barca;Borgo Panigale - Reno;Barca;3 e oltre;817;BARCA
+2017;38;Canale di Reno;Borgo Panigale - Reno;Barca;2;963;BARCA
+2017;40;Emilia Ponente;Borgo Panigale - Reno;Santa Viola;3 e oltre;1188;SANTA VIOLA
+2017;41;Cadriano-Calamosco;San Donato - San Vitale;San Donato;1;156;SAN DONATO NUOVO
+2017;42;Fiera;San Donato - San Vitale;San Donato;1;9;SAN DONATO VECCHIO
+2017;43;San Donnino;San Donato - San Vitale;San Donato;1;681;SAN DONATO VECCHIO
+2017;44;Pilastro;San Donato - San Vitale;San Donato;1;1222;SAN DONATO NUOVO
+2017;44;Pilastro;San Donato - San Vitale;San Donato;3 e oltre;923;SAN DONATO NUOVO
+2017;46;Scalo Merci San Donato;San Donato - San Vitale;San Donato;1;4;SAN DONATO NUOVO
+2017;49;Via Mondo;San Donato - San Vitale;San Donato;2;1140;SAN DONATO VECCHIO
+2017;50;Osservanza;Santo Stefano;Colli;1;1050;OSSERVANZA - PADERNO
+2017;53;Galvani-1;Santo Stefano;Galvani;3 e oltre;206;GALVANI
+2017;56;Mezzofanti;Santo Stefano;Murri;3 e oltre;988;MURRI
+2017;57;Siepelunga;Santo Stefano;Murri;2;558;MURRI
+2017;58;Dagnini;Santo Stefano;Murri;1;2733;MURRI
+2017;59;Chiesanuova;Santo Stefano;Murri;1;2108;MURRI
+2017;60;Irnerio-1;Santo Stefano;Irnerio;1;1431;IRNERIO
+2017;60;Irnerio-1;Santo Stefano;Irnerio;2;419;IRNERIO
+2017;61;Irnerio-2;Santo Stefano;Irnerio;3 e oltre;1022;IRNERIO
+2017;62;Cirenaica;San Donato - San Vitale;San Vitale;1;3011;CIRENAICA - MASSARENTI - SCANDELLARA
+2017;62;Cirenaica;San Donato - San Vitale;San Vitale;3 e oltre;1014;CIRENAICA - MASSARENTI - SCANDELLARA
+2017;63;Scandellara;San Donato - San Vitale;San Vitale;1;156;CIRENAICA - MASSARENTI - SCANDELLARA
+2017;63;Scandellara;San Donato - San Vitale;San Vitale;2;92;CIRENAICA - MASSARENTI - SCANDELLARA
+2017;65;Roveri;San Donato - San Vitale;San Vitale;2;72;CROCE DEL BIACCO - ROVERI
+2017;66;Ospedale Sant'Orsola;San Donato - San Vitale;San Vitale;1;30;CIRENAICA - MASSARENTI - SCANDELLARA
+2017;66;Ospedale Sant'Orsola;San Donato - San Vitale;San Vitale;2;2;CIRENAICA - MASSARENTI - SCANDELLARA
+2017;66;Ospedale Sant'Orsola;San Donato - San Vitale;San Vitale;3 e oltre;3;CIRENAICA - MASSARENTI - SCANDELLARA
+2017;68;Guelfa;San Donato - San Vitale;San Vitale;3 e oltre;845;CIRENAICA - MASSARENTI - SCANDELLARA
+2017;69;Croce del Biacco;San Donato - San Vitale;San Vitale;1;895;CROCE DEL BIACCO - ROVERI
+2017;69;Croce del Biacco;San Donato - San Vitale;San Vitale;2;538;CROCE DEL BIACCO - ROVERI
+2017;69;Croce del Biacco;San Donato - San Vitale;San Vitale;3 e oltre;609;CROCE DEL BIACCO - ROVERI
+2017;70;Stradelli Guelfi;San Donato - San Vitale;San Vitale;3 e oltre;43;CROCE DEL BIACCO - ROVERI
+2017;71;Stadio-Meloncello;Porto - Saragozza;Costa Saragozza;2;464;SARAGOZZA - SAN LUCA
+2017;72;XXI Aprile;Porto - Saragozza;Costa Saragozza;1;3905;SARAGOZZA - SAN LUCA
+2017;72;XXI Aprile;Porto - Saragozza;Costa Saragozza;3 e oltre;1588;SARAGOZZA - SAN LUCA
+2017;73;San Giuseppe;Porto - Saragozza;Costa Saragozza;1;1670;SARAGOZZA - SAN LUCA
+2017;73;San Giuseppe;Porto - Saragozza;Costa Saragozza;2;798;SARAGOZZA - SAN LUCA
+2017;74;Ravone;Porto - Saragozza;Costa Saragozza;2;162;SARAGOZZA - SAN LUCA
+2017;74;Ravone;Porto - Saragozza;Costa Saragozza;3 e oltre;168;SARAGOZZA - SAN LUCA
+2017;75;Via del Genio;Porto - Saragozza;Costa Saragozza;2;1;SARAGOZZA - SAN LUCA
+2017;77;Malpighi-2;Porto - Saragozza;Malpighi;1;3933;MALPIGHI
+2017;78;Malpighi-1;Porto - Saragozza;Malpighi;2;215;MALPIGHI
+2017;79;Fossolo;Savena;Mazzini;3 e oltre;1147;FOSSOLO - DUE MADONNE
+2017;80;Due Madonne;Savena;Mazzini;1;625;FOSSOLO - DUE MADONNE
+2017;81;Lungo Savena;Savena;Mazzini;2;4;FOSSOLO - DUE MADONNE
+2017;82;Pontevecchio;Savena;Mazzini;1;1623;PONTEVECCHIO - MAZZINI
+2017;82;Pontevecchio;Savena;Mazzini;3 e oltre;635;PONTEVECCHIO - MAZZINI
+2017;83;Bitone;Savena;Mazzini;1;2857;PONTEVECCHIO - MAZZINI
+2017;83;Bitone;Savena;Mazzini;3 e oltre;1375;PONTEVECCHIO - MAZZINI
+2017;85;Via Arno;Savena;Mazzini;3 e oltre;966;PONTEVECCHIO - MAZZINI
+2017;86;Ospedale Bellaria;Savena;Mazzini;3 e oltre;11;LUNGO SAVENA
+2017;87;Monte Donato;Savena;San Ruffillo;1;320;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2017;87;Monte Donato;Savena;San Ruffillo;2;175;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2017;88;Via Toscana;Savena;San Ruffillo;2;1293;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2017;88;Via Toscana;Savena;San Ruffillo;3 e oltre;1256;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2017;90;Ponte Savena-La Bastia;Savena;San Ruffillo;1;266;LUNGO SAVENA
+2017;90;Ponte Savena-La Bastia;Savena;San Ruffillo;2;186;LUNGO SAVENA
+2017;90;Ponte Savena-La Bastia;Savena;San Ruffillo;3 e oltre;180;LUNGO SAVENA
+2017;99;non indicata;Senza fissa dimora;Senza fissa dimora;2;7;
+2018;01;Lavino di Mezzo;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;61;BIRRA - BARGELLINO - LAVINO
+2018;06;Lungo Reno;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;2;BIRRA - BARGELLINO - LAVINO
+2018;07;Ducati-Villaggio Ina;Borgo Panigale - Reno;Borgo Panigale;1;716;BORGO PANIGALE
+2018;07;Ducati-Villaggio Ina;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;407;BORGO PANIGALE
+2018;08;Borgo Centro;Borgo Panigale - Reno;Borgo Panigale;1;2006;BORGO PANIGALE
+2018;11;Casteldebole;Borgo Panigale - Reno;Borgo Panigale;2;791;CASTELDEBOLE - PONTELUNGO
+2018;11;Casteldebole;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;683;CASTELDEBOLE - PONTELUNGO
+2018;12;Caserme Rosse-Manifattura;Navile;Bolognina;2;265;CORTICELLA - DOZZA
+2018;12;Caserme Rosse-Manifattura;Navile;Bolognina;3 e oltre;281;CORTICELLA - DOZZA
+2018;14;Arcoveggio;Navile;Bolognina;3 e oltre;1290;BOLOGNINA
+2018;15;Via Ferrarese;Navile;Bolognina;1;3391;BOLOGNINA
+2018;15;Via Ferrarese;Navile;Bolognina;2;1362;BOLOGNINA
+2018;15;Via Ferrarese;Navile;Bolognina;3 e oltre;1454;BOLOGNINA
+2018;16;Ex Mercato Ortofrutticolo;Navile;Bolognina;3 e oltre;84;BOLOGNINA
+2018;17;Piazza dell'Unita';Navile;Bolognina;2;1156;BOLOGNINA
+2018;18;San Savino;Navile;Corticella;2;1294;CORTICELLA - DOZZA
+2018;19;Savena Abbandonato;Navile;Corticella;2;100;CORTICELLA - DOZZA
+2018;20;Croce Coperta;Navile;Corticella;3 e oltre;843;CORTICELLA - DOZZA
+2018;21;Mulino del Gomito;Navile;Corticella;1;68;CORTICELLA - DOZZA
+2018;21;Mulino del Gomito;Navile;Corticella;2;48;CORTICELLA - DOZZA
+2018;22;La Dozza;Navile;Corticella;1;212;CORTICELLA - DOZZA
+2018;22;La Dozza;Navile;Corticella;2;203;CORTICELLA - DOZZA
+2018;22;La Dozza;Navile;Corticella;3 e oltre;237;CORTICELLA - DOZZA
+2018;23;Laghetti del Rosario;Navile;Lame;3 e oltre;72;BERTALIA - NOCE
+2018;24;La Noce;Navile;Lame;2;213;BERTALIA - NOCE
+2018;26;Pescarola;Navile;Lame;2;679;BERTALIA - NOCE
+2018;27;Lazzaretto;Navile;Lame;2;76;BERTALIA - NOCE
+2018;28;Beverara;Navile;Lame;1;1661;BEVERARA
+2018;28;Beverara;Navile;Lame;2;1016;BEVERARA
+2018;30;Marconi-1;Porto - Saragozza;Marconi;3 e oltre;254;MALPIGHI
+2018;31;Prati di Caprara-Ospedale Maggiore;Porto - Saragozza;Saffi;3 e oltre;70;SAFFI
+2018;32;Scalo Ravone;Porto - Saragozza;Saffi;1;21;SAFFI
+2018;32;Scalo Ravone;Porto - Saragozza;Saffi;2;18;SAFFI
+2018;33;Zanardi;Porto - Saragozza;Saffi;2;795;SAFFI
+2018;35;Via Vittorio Veneto;Porto - Saragozza;Saffi;3 e oltre;569;SAFFI
+2018;38;Canale di Reno;Borgo Panigale - Reno;Barca;3 e oltre;841;BARCA
+2018;39;Agucchi;Borgo Panigale - Reno;Santa Viola;1;1159;SANTA VIOLA
+2018;39;Agucchi;Borgo Panigale - Reno;Santa Viola;2;578;SANTA VIOLA
+2018;41;Cadriano-Calamosco;San Donato - San Vitale;San Donato;2;101;SAN DONATO NUOVO
+2018;41;Cadriano-Calamosco;San Donato - San Vitale;San Donato;3 e oltre;100;SAN DONATO NUOVO
+2018;42;Fiera;San Donato - San Vitale;San Donato;1;9;SAN DONATO VECCHIO
+2018;42;Fiera;San Donato - San Vitale;San Donato;2;2;SAN DONATO VECCHIO
+2018;44;Pilastro;San Donato - San Vitale;San Donato;2;991;SAN DONATO NUOVO
+2018;45;CAAB;San Donato - San Vitale;San Donato;2;28;SAN DONATO NUOVO
+2018;45;CAAB;San Donato - San Vitale;San Donato;3 e oltre;52;SAN DONATO NUOVO
+2018;46;Scalo Merci San Donato;San Donato - San Vitale;San Donato;2;7;SAN DONATO NUOVO
+2018;49;Via Mondo;San Donato - San Vitale;San Donato;2;1141;SAN DONATO VECCHIO
+2018;49;Via Mondo;San Donato - San Vitale;San Donato;3 e oltre;886;SAN DONATO VECCHIO
+2018;50;Osservanza;Santo Stefano;Colli;3 e oltre;576;OSSERVANZA - PADERNO
+2018;51;San Michele in Bosco;Santo Stefano;Colli;1;522;OSSERVANZA - PADERNO
+2018;52;Paderno;Santo Stefano;Colli;2;173;OSSERVANZA - PADERNO
+2018;55;Giardini Margherita;Santo Stefano;Murri;2;5;MURRI
+2018;56;Mezzofanti;Santo Stefano;Murri;1;1947;MURRI
+2018;57;Siepelunga;Santo Stefano;Murri;1;1108;MURRI
+2018;58;Dagnini;Santo Stefano;Murri;1;2805;MURRI
+2018;59;Chiesanuova;Santo Stefano;Murri;2;925;MURRI
+2018;59;Chiesanuova;Santo Stefano;Murri;3 e oltre;925;MURRI
+2018;60;Irnerio-1;Santo Stefano;Irnerio;1;1449;IRNERIO
+2018;60;Irnerio-1;Santo Stefano;Irnerio;2;407;IRNERIO
+2018;60;Irnerio-1;Santo Stefano;Irnerio;3 e oltre;372;IRNERIO
+2018;62;Cirenaica;San Donato - San Vitale;San Vitale;2;1172;CIRENAICA - MASSARENTI - SCANDELLARA
+2018;63;Scandellara;San Donato - San Vitale;San Vitale;2;81;CIRENAICA - MASSARENTI - SCANDELLARA
+2018;65;Roveri;San Donato - San Vitale;San Vitale;1;123;CROCE DEL BIACCO - ROVERI
+2018;65;Roveri;San Donato - San Vitale;San Vitale;2;67;CROCE DEL BIACCO - ROVERI
+2018;68;Guelfa;San Donato - San Vitale;San Vitale;1;2177;CIRENAICA - MASSARENTI - SCANDELLARA
+2018;69;Croce del Biacco;San Donato - San Vitale;San Vitale;2;533;CROCE DEL BIACCO - ROVERI
+2018;69;Croce del Biacco;San Donato - San Vitale;San Vitale;3 e oltre;609;CROCE DEL BIACCO - ROVERI
+2018;70;Stradelli Guelfi;San Donato - San Vitale;San Vitale;3 e oltre;39;CROCE DEL BIACCO - ROVERI
+2018;72;XXI Aprile;Porto - Saragozza;Costa Saragozza;2;1632;SARAGOZZA - SAN LUCA
+2018;75;Via del Genio;Porto - Saragozza;Costa Saragozza;3 e oltre;4;SARAGOZZA - SAN LUCA
+2018;76;San Luca;Porto - Saragozza;Costa Saragozza;1;120;SARAGOZZA - SAN LUCA
+2018;76;San Luca;Porto - Saragozza;Costa Saragozza;3 e oltre;92;SARAGOZZA - SAN LUCA
+2018;77;Malpighi-2;Porto - Saragozza;Malpighi;1;3946;MALPIGHI
+2018;77;Malpighi-2;Porto - Saragozza;Malpighi;3 e oltre;997;MALPIGHI
+2018;80;Due Madonne;Savena;Mazzini;1;637;FOSSOLO - DUE MADONNE
+2018;81;Lungo Savena;Savena;Mazzini;1;6;FOSSOLO - DUE MADONNE
+2018;82;Pontevecchio;Savena;Mazzini;2;698;PONTEVECCHIO - MAZZINI
+2018;84;Cavedone;Savena;Mazzini;2;412;PONTEVECCHIO - MAZZINI
+2018;85;Via Arno;Savena;Mazzini;1;1518;PONTEVECCHIO - MAZZINI
+2018;86;Ospedale Bellaria;Savena;Mazzini;2;9;LUNGO SAVENA
+2018;87;Monte Donato;Savena;San Ruffillo;2;165;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2018;88;Via Toscana;Savena;San Ruffillo;2;1286;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2018;90;Ponte Savena-La Bastia;Savena;San Ruffillo;2;198;LUNGO SAVENA
+2018;90;Ponte Savena-La Bastia;Savena;San Ruffillo;3 e oltre;183;LUNGO SAVENA
+2018;99;non indicata;Senza fissa dimora;Senza fissa dimora;1;449;
+2019;01;Lavino di Mezzo;Borgo Panigale - Reno;Borgo Panigale;1;113;BIRRA - BARGELLINO - LAVINO
+2019;01;Lavino di Mezzo;Borgo Panigale - Reno;Borgo Panigale;2;68;BIRRA - BARGELLINO - LAVINO
+2019;02;Via del Vivaio;Borgo Panigale - Reno;Borgo Panigale;1;152;BIRRA - BARGELLINO - LAVINO
+2019;02;Via del Vivaio;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;145;BIRRA - BARGELLINO - LAVINO
+2019;03;Bargellino;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;13;BIRRA - BARGELLINO - LAVINO
+2019;04;Aeroporto;Borgo Panigale - Reno;Borgo Panigale;2;65;BIRRA - BARGELLINO - LAVINO
+2019;04;Aeroporto;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;64;BIRRA - BARGELLINO - LAVINO
+2019;05;La Birra;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;248;BIRRA - BARGELLINO - LAVINO
+2019;06;Lungo Reno;Borgo Panigale - Reno;Borgo Panigale;1;4;BIRRA - BARGELLINO - LAVINO
+2019;06;Lungo Reno;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;2;BIRRA - BARGELLINO - LAVINO
+2019;07;Ducati-Villaggio Ina;Borgo Panigale - Reno;Borgo Panigale;2;472;BORGO PANIGALE
+2019;09;Triumvirato-Pietra;Borgo Panigale - Reno;Borgo Panigale;2;725;CASTELDEBOLE - PONTELUNGO
+2019;11;Casteldebole;Borgo Panigale - Reno;Borgo Panigale;1;1038;CASTELDEBOLE - PONTELUNGO
+2019;11;Casteldebole;Borgo Panigale - Reno;Borgo Panigale;2;794;CASTELDEBOLE - PONTELUNGO
+2019;11;Casteldebole;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;688;CASTELDEBOLE - PONTELUNGO
+2019;12;Caserme Rosse-Manifattura;Navile;Bolognina;3 e oltre;284;CORTICELLA - DOZZA
+2019;13;CNR;Navile;Bolognina;2;7;BEVERARA
+2019;15;Via Ferrarese;Navile;Bolognina;1;3407;BOLOGNINA
+2019;15;Via Ferrarese;Navile;Bolognina;2;1349;BOLOGNINA
+2019;15;Via Ferrarese;Navile;Bolognina;3 e oltre;1461;BOLOGNINA
+2019;16;Ex Mercato Ortofrutticolo;Navile;Bolognina;1;248;BOLOGNINA
+2019;16;Ex Mercato Ortofrutticolo;Navile;Bolognina;2;80;BOLOGNINA
+2019;16;Ex Mercato Ortofrutticolo;Navile;Bolognina;3 e oltre;93;BOLOGNINA
+2019;19;Savena Abbandonato;Navile;Corticella;2;100;CORTICELLA - DOZZA
+2019;20;Croce Coperta;Navile;Corticella;1;1334;CORTICELLA - DOZZA
+2019;20;Croce Coperta;Navile;Corticella;2;851;CORTICELLA - DOZZA
+2019;20;Croce Coperta;Navile;Corticella;3 e oltre;847;CORTICELLA - DOZZA
+2019;21;Mulino del Gomito;Navile;Corticella;1;79;CORTICELLA - DOZZA
+2019;22;La Dozza;Navile;Corticella;1;213;CORTICELLA - DOZZA
+2019;22;La Dozza;Navile;Corticella;2;208;CORTICELLA - DOZZA
+2019;22;La Dozza;Navile;Corticella;3 e oltre;228;CORTICELLA - DOZZA
+2019;23;Laghetti del Rosario;Navile;Lame;1;98;BERTALIA - NOCE
+2019;23;Laghetti del Rosario;Navile;Lame;3 e oltre;73;BERTALIA - NOCE
+2019;24;La Noce;Navile;Lame;1;279;BERTALIA - NOCE
+2019;25;Tiro A Segno;Navile;Lame;1;44;BERTALIA - NOCE
+2019;25;Tiro A Segno;Navile;Lame;2;18;BERTALIA - NOCE
+2019;26;Pescarola;Navile;Lame;1;953;BERTALIA - NOCE
+2019;26;Pescarola;Navile;Lame;2;666;BERTALIA - NOCE
+2019;26;Pescarola;Navile;Lame;3 e oltre;584;BERTALIA - NOCE
+2019;27;Lazzaretto;Navile;Lame;1;173;BERTALIA - NOCE
+2019;28;Beverara;Navile;Lame;1;1694;BEVERARA
+2019;31;Prati di Caprara-Ospedale Maggiore;Porto - Saragozza;Saffi;2;52;SAFFI
+2019;32;Scalo Ravone;Porto - Saragozza;Saffi;2;17;SAFFI
+2019;32;Scalo Ravone;Porto - Saragozza;Saffi;3 e oltre;13;SAFFI
+2019;33;Zanardi;Porto - Saragozza;Saffi;2;790;SAFFI
+2019;34;Velodromo;Porto - Saragozza;Saffi;3 e oltre;720;SAFFI
+2019;37;Battindarno;Borgo Panigale - Reno;Barca;3 e oltre;1134;BARCA
+2019;41;Cadriano-Calamosco;San Donato - San Vitale;San Donato;2;101;SAN DONATO NUOVO
+2019;42;Fiera;San Donato - San Vitale;San Donato;1;8;SAN DONATO VECCHIO
+2019;43;San Donnino;San Donato - San Vitale;San Donato;1;720;SAN DONATO VECCHIO
+2019;43;San Donnino;San Donato - San Vitale;San Donato;3 e oltre;374;SAN DONATO VECCHIO
+2019;44;Pilastro;San Donato - San Vitale;San Donato;2;971;SAN DONATO NUOVO
+2019;44;Pilastro;San Donato - San Vitale;San Donato;3 e oltre;928;SAN DONATO NUOVO
+2019;45;CAAB;San Donato - San Vitale;San Donato;1;86;SAN DONATO NUOVO
+2019;45;CAAB;San Donato - San Vitale;San Donato;2;27;SAN DONATO NUOVO
+2019;47;Via del Lavoro;San Donato - San Vitale;San Donato;1;2441;SAN DONATO VECCHIO
+2019;47;Via del Lavoro;San Donato - San Vitale;San Donato;2;985;SAN DONATO VECCHIO
+2019;48;Michelino;San Donato - San Vitale;San Donato;2;597;SAN DONATO VECCHIO
+2019;48;Michelino;San Donato - San Vitale;San Donato;3 e oltre;541;SAN DONATO VECCHIO
+2019;49;Via Mondo;San Donato - San Vitale;San Donato;1;2629;SAN DONATO VECCHIO
+2019;49;Via Mondo;San Donato - San Vitale;San Donato;2;1089;SAN DONATO VECCHIO
+2019;49;Via Mondo;San Donato - San Vitale;San Donato;3 e oltre;873;SAN DONATO VECCHIO
+2019;50;Osservanza;Santo Stefano;Colli;3 e oltre;568;OSSERVANZA - PADERNO
+2019;51;San Michele in Bosco;Santo Stefano;Colli;1;538;OSSERVANZA - PADERNO
+2019;52;Paderno;Santo Stefano;Colli;2;176;OSSERVANZA - PADERNO
+2019;53;Galvani-1;Santo Stefano;Galvani;3 e oltre;215;GALVANI
+2019;55;Giardini Margherita;Santo Stefano;Murri;1;6;MURRI
+2019;55;Giardini Margherita;Santo Stefano;Murri;2;4;MURRI
+2019;59;Chiesanuova;Santo Stefano;Murri;1;2171;MURRI
+2019;59;Chiesanuova;Santo Stefano;Murri;2;930;MURRI
+2019;59;Chiesanuova;Santo Stefano;Murri;3 e oltre;919;MURRI
+2019;60;Irnerio-1;Santo Stefano;Irnerio;3 e oltre;366;IRNERIO
+2019;61;Irnerio-2;Santo Stefano;Irnerio;2;1156;IRNERIO
+2019;62;Cirenaica;San Donato - San Vitale;San Vitale;1;3219;CIRENAICA - MASSARENTI - SCANDELLARA
+2019;62;Cirenaica;San Donato - San Vitale;San Vitale;2;1167;CIRENAICA - MASSARENTI - SCANDELLARA
+2019;63;Scandellara;San Donato - San Vitale;San Vitale;3 e oltre;92;CIRENAICA - MASSARENTI - SCANDELLARA
+2019;65;Roveri;San Donato - San Vitale;San Vitale;1;120;CROCE DEL BIACCO - ROVERI
+2019;65;Roveri;San Donato - San Vitale;San Vitale;3 e oltre;91;CROCE DEL BIACCO - ROVERI
+2019;66;Ospedale Sant'Orsola;San Donato - San Vitale;San Vitale;3 e oltre;1;CIRENAICA - MASSARENTI - SCANDELLARA
+2019;67;Mengoli;San Donato - San Vitale;San Vitale;1;3272;CIRENAICA - MASSARENTI - SCANDELLARA
+2019;67;Mengoli;San Donato - San Vitale;San Vitale;2;1299;CIRENAICA - MASSARENTI - SCANDELLARA
+2019;67;Mengoli;San Donato - San Vitale;San Vitale;3 e oltre;1169;CIRENAICA - MASSARENTI - SCANDELLARA
+2019;68;Guelfa;San Donato - San Vitale;San Vitale;3 e oltre;844;CIRENAICA - MASSARENTI - SCANDELLARA
+2019;70;Stradelli Guelfi;San Donato - San Vitale;San Vitale;3 e oltre;44;CROCE DEL BIACCO - ROVERI
+2019;72;XXI Aprile;Porto - Saragozza;Costa Saragozza;2;1613;SARAGOZZA - SAN LUCA
+2019;73;San Giuseppe;Porto - Saragozza;Costa Saragozza;1;1701;SARAGOZZA - SAN LUCA
+2019;74;Ravone;Porto - Saragozza;Costa Saragozza;3 e oltre;171;SARAGOZZA - SAN LUCA
+2019;76;San Luca;Porto - Saragozza;Costa Saragozza;1;116;SARAGOZZA - SAN LUCA
+2019;76;San Luca;Porto - Saragozza;Costa Saragozza;3 e oltre;102;SARAGOZZA - SAN LUCA
+2019;77;Malpighi-2;Porto - Saragozza;Malpighi;1;3990;MALPIGHI
+2019;78;Malpighi-1;Porto - Saragozza;Malpighi;1;607;MALPIGHI
+2019;79;Fossolo;Savena;Mazzini;1;1914;FOSSOLO - DUE MADONNE
+2019;79;Fossolo;Savena;Mazzini;2;1351;FOSSOLO - DUE MADONNE
+2019;81;Lungo Savena;Savena;Mazzini;3 e oltre;19;FOSSOLO - DUE MADONNE
+2019;85;Via Arno;Savena;Mazzini;1;1555;PONTEVECCHIO - MAZZINI
+2019;87;Monte Donato;Savena;San Ruffillo;2;181;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2019;87;Monte Donato;Savena;San Ruffillo;3 e oltre;205;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2019;88;Via Toscana;Savena;San Ruffillo;3 e oltre;1271;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2019;89;Corelli;Savena;San Ruffillo;3 e oltre;1191;LUNGO SAVENA
+2019;90;Ponte Savena-La Bastia;Savena;San Ruffillo;2;212;LUNGO SAVENA
+2019;99;non indicata;Senza fissa dimora;Senza fissa dimora;1;494;
+2019;99;non indicata;Senza fissa dimora;Senza fissa dimora;2;12;
+2020;01;Lavino di Mezzo;Borgo Panigale - Reno;Borgo Panigale;2;71;BIRRA - BARGELLINO - LAVINO
+2020;02;Via del Vivaio;Borgo Panigale - Reno;Borgo Panigale;1;163;BIRRA - BARGELLINO - LAVINO
+2020;02;Via del Vivaio;Borgo Panigale - Reno;Borgo Panigale;2;96;BIRRA - BARGELLINO - LAVINO
+2020;02;Via del Vivaio;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;137;BIRRA - BARGELLINO - LAVINO
+2020;03;Bargellino;Borgo Panigale - Reno;Borgo Panigale;1;19;BIRRA - BARGELLINO - LAVINO
+2020;04;Aeroporto;Borgo Panigale - Reno;Borgo Panigale;1;104;BIRRA - BARGELLINO - LAVINO
+2020;04;Aeroporto;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;61;BIRRA - BARGELLINO - LAVINO
+2020;05;La Birra;Borgo Panigale - Reno;Borgo Panigale;1;487;BIRRA - BARGELLINO - LAVINO
+2020;05;La Birra;Borgo Panigale - Reno;Borgo Panigale;2;265;BIRRA - BARGELLINO - LAVINO
+2020;05;La Birra;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;253;BIRRA - BARGELLINO - LAVINO
+2020;06;Lungo Reno;Borgo Panigale - Reno;Borgo Panigale;2;2;BIRRA - BARGELLINO - LAVINO
+2020;09;Triumvirato-Pietra;Borgo Panigale - Reno;Borgo Panigale;2;707;CASTELDEBOLE - PONTELUNGO
+2020;10;Rigosa;Borgo Panigale - Reno;Borgo Panigale;1;202;BORGO PANIGALE
+2020;10;Rigosa;Borgo Panigale - Reno;Borgo Panigale;2;116;BORGO PANIGALE
+2020;11;Casteldebole;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;689;CASTELDEBOLE - PONTELUNGO
+2020;12;Caserme Rosse-Manifattura;Navile;Bolognina;3 e oltre;291;CORTICELLA - DOZZA
+2020;13;CNR;Navile;Bolognina;3 e oltre;9;BEVERARA
+2020;14;Arcoveggio;Navile;Bolognina;1;3237;BOLOGNINA
+2020;15;Via Ferrarese;Navile;Bolognina;1;3420;BOLOGNINA
+2020;17;Piazza dell'Unita';Navile;Bolognina;1;3189;BOLOGNINA
+2020;17;Piazza dell'Unita';Navile;Bolognina;2;1194;BOLOGNINA
+2020;18;San Savino;Navile;Corticella;3 e oltre;1259;CORTICELLA - DOZZA
+2020;19;Savena Abbandonato;Navile;Corticella;2;95;CORTICELLA - DOZZA
+2020;20;Croce Coperta;Navile;Corticella;1;1358;CORTICELLA - DOZZA
+2020;20;Croce Coperta;Navile;Corticella;2;833;CORTICELLA - DOZZA
+2020;20;Croce Coperta;Navile;Corticella;3 e oltre;850;CORTICELLA - DOZZA
+2020;22;La Dozza;Navile;Corticella;3 e oltre;224;CORTICELLA - DOZZA
+2020;23;Laghetti del Rosario;Navile;Lame;1;98;BERTALIA - NOCE
+2020;25;Tiro A Segno;Navile;Lame;3 e oltre;18;BERTALIA - NOCE
+2020;29;Marconi-2;Porto - Saragozza;Marconi;3 e oltre;1317;MARCONI
+2020;30;Marconi-1;Porto - Saragozza;Marconi;3 e oltre;244;MALPIGHI
+2020;33;Zanardi;Porto - Saragozza;Saffi;2;792;SAFFI
+2020;34;Velodromo;Porto - Saragozza;Saffi;1;1743;SAFFI
+2020;34;Velodromo;Porto - Saragozza;Saffi;3 e oltre;714;SAFFI
+2020;35;Via Vittorio Veneto;Porto - Saragozza;Saffi;3 e oltre;576;SAFFI
+2020;36;Villaggio della Barca;Borgo Panigale - Reno;Barca;1;1094;BARCA
+2020;37;Battindarno;Borgo Panigale - Reno;Barca;1;2059;BARCA
+2020;37;Battindarno;Borgo Panigale - Reno;Barca;3 e oltre;1141;BARCA
+2020;38;Canale di Reno;Borgo Panigale - Reno;Barca;1;1501;BARCA
+2020;38;Canale di Reno;Borgo Panigale - Reno;Barca;2;888;BARCA
+2020;39;Agucchi;Borgo Panigale - Reno;Santa Viola;2;581;SANTA VIOLA
+2020;40;Emilia Ponente;Borgo Panigale - Reno;Santa Viola;1;2384;SANTA VIOLA
+2020;43;San Donnino;San Donato - San Vitale;San Donato;2;413;SAN DONATO VECCHIO
+2020;43;San Donnino;San Donato - San Vitale;San Donato;3 e oltre;377;SAN DONATO VECCHIO
+2020;44;Pilastro;San Donato - San Vitale;San Donato;2;961;SAN DONATO NUOVO
+2020;46;Scalo Merci San Donato;San Donato - San Vitale;San Donato;1;5;SAN DONATO NUOVO
+2020;46;Scalo Merci San Donato;San Donato - San Vitale;San Donato;2;5;SAN DONATO NUOVO
+2020;47;Via del Lavoro;San Donato - San Vitale;San Donato;3 e oltre;936;SAN DONATO VECCHIO
+2020;48;Michelino;San Donato - San Vitale;San Donato;1;1348;SAN DONATO VECCHIO
+2020;48;Michelino;San Donato - San Vitale;San Donato;3 e oltre;527;SAN DONATO VECCHIO
+2020;49;Via Mondo;San Donato - San Vitale;San Donato;1;2667;SAN DONATO VECCHIO
+2020;50;Osservanza;Santo Stefano;Colli;2;524;OSSERVANZA - PADERNO
+2020;50;Osservanza;Santo Stefano;Colli;3 e oltre;585;OSSERVANZA - PADERNO
+2020;51;San Michele in Bosco;Santo Stefano;Colli;1;552;OSSERVANZA - PADERNO
+2020;51;San Michele in Bosco;Santo Stefano;Colli;2;279;OSSERVANZA - PADERNO
+2020;53;Galvani-1;Santo Stefano;Galvani;1;623;GALVANI
+2020;55;Giardini Margherita;Santo Stefano;Murri;2;3;MURRI
+2020;55;Giardini Margherita;Santo Stefano;Murri;3 e oltre;8;MURRI
+2020;57;Siepelunga;Santo Stefano;Murri;1;1094;MURRI
+2020;58;Dagnini;Santo Stefano;Murri;1;2870;MURRI
+2020;59;Chiesanuova;Santo Stefano;Murri;2;938;MURRI
+2020;60;Irnerio-1;Santo Stefano;Irnerio;3 e oltre;370;IRNERIO
+2020;61;Irnerio-2;Santo Stefano;Irnerio;3 e oltre;965;IRNERIO
+2020;63;Scandellara;San Donato - San Vitale;San Vitale;2;82;CIRENAICA - MASSARENTI - SCANDELLARA
+2020;65;Roveri;San Donato - San Vitale;San Vitale;2;66;CROCE DEL BIACCO - ROVERI
+2020;67;Mengoli;San Donato - San Vitale;San Vitale;1;3243;CIRENAICA - MASSARENTI - SCANDELLARA
+2020;69;Croce del Biacco;San Donato - San Vitale;San Vitale;1;935;CROCE DEL BIACCO - ROVERI
+2020;70;Stradelli Guelfi;San Donato - San Vitale;San Vitale;2;33;CROCE DEL BIACCO - ROVERI
+2020;71;Stadio-Meloncello;Porto - Saragozza;Costa Saragozza;3 e oltre;439;SARAGOZZA - SAN LUCA
+2020;72;XXI Aprile;Porto - Saragozza;Costa Saragozza;1;4031;SARAGOZZA - SAN LUCA
+2020;73;San Giuseppe;Porto - Saragozza;Costa Saragozza;1;1715;SARAGOZZA - SAN LUCA
+2020;73;San Giuseppe;Porto - Saragozza;Costa Saragozza;3 e oltre;808;SARAGOZZA - SAN LUCA
+2020;74;Ravone;Porto - Saragozza;Costa Saragozza;2;172;SARAGOZZA - SAN LUCA
+2020;76;San Luca;Porto - Saragozza;Costa Saragozza;1;113;SARAGOZZA - SAN LUCA
+2020;80;Due Madonne;Savena;Mazzini;2;401;FOSSOLO - DUE MADONNE
+2020;82;Pontevecchio;Savena;Mazzini;2;670;PONTEVECCHIO - MAZZINI
+2020;83;Bitone;Savena;Mazzini;1;2995;PONTEVECCHIO - MAZZINI
+2020;83;Bitone;Savena;Mazzini;3 e oltre;1387;PONTEVECCHIO - MAZZINI
+2020;84;Cavedone;Savena;Mazzini;3 e oltre;449;PONTEVECCHIO - MAZZINI
+2020;85;Via Arno;Savena;Mazzini;2;1079;PONTEVECCHIO - MAZZINI
+2020;85;Via Arno;Savena;Mazzini;3 e oltre;947;PONTEVECCHIO - MAZZINI
+2020;89;Corelli;Savena;San Ruffillo;1;1908;LUNGO SAVENA
+2020;90;Ponte Savena-La Bastia;Savena;San Ruffillo;2;210;LUNGO SAVENA
+2021;01;Lavino di Mezzo;Borgo Panigale - Reno;Borgo Panigale;1;124;BIRRA - BARGELLINO - LAVINO
+2021;04;Aeroporto;Borgo Panigale - Reno;Borgo Panigale;1;114;BIRRA - BARGELLINO - LAVINO
+2021;04;Aeroporto;Borgo Panigale - Reno;Borgo Panigale;2;64;BIRRA - BARGELLINO - LAVINO
+2021;04;Aeroporto;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;56;BIRRA - BARGELLINO - LAVINO
+2021;05;La Birra;Borgo Panigale - Reno;Borgo Panigale;1;490;BIRRA - BARGELLINO - LAVINO
+2021;05;La Birra;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;257;BIRRA - BARGELLINO - LAVINO
+2021;06;Lungo Reno;Borgo Panigale - Reno;Borgo Panigale;2;3;BIRRA - BARGELLINO - LAVINO
+2021;07;Ducati-Villaggio Ina;Borgo Panigale - Reno;Borgo Panigale;2;456;BORGO PANIGALE
+2021;10;Rigosa;Borgo Panigale - Reno;Borgo Panigale;1;199;BORGO PANIGALE
+2021;10;Rigosa;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;183;BORGO PANIGALE
+2021;11;Casteldebole;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;678;CASTELDEBOLE - PONTELUNGO
+2021;12;Caserme Rosse-Manifattura;Navile;Bolognina;1;464;CORTICELLA - DOZZA
+2021;12;Caserme Rosse-Manifattura;Navile;Bolognina;3 e oltre;298;CORTICELLA - DOZZA
+2021;13;CNR;Navile;Bolognina;2;8;BEVERARA
+2021;14;Arcoveggio;Navile;Bolognina;1;3246;BOLOGNINA
+2021;14;Arcoveggio;Navile;Bolognina;3 e oltre;1282;BOLOGNINA
+2021;16;Ex Mercato Ortofrutticolo;Navile;Bolognina;2;94;BOLOGNINA
+2021;17;Piazza dell'Unita';Navile;Bolognina;1;3251;BOLOGNINA
+2021;18;San Savino;Navile;Corticella;1;2039;CORTICELLA - DOZZA
+2021;18;San Savino;Navile;Corticella;2;1295;CORTICELLA - DOZZA
+2021;20;Croce Coperta;Navile;Corticella;2;839;CORTICELLA - DOZZA
+2021;20;Croce Coperta;Navile;Corticella;3 e oltre;834;CORTICELLA - DOZZA
+2021;23;Laghetti del Rosario;Navile;Lame;2;51;BERTALIA - NOCE
+2021;24;La Noce;Navile;Lame;3 e oltre;212;BERTALIA - NOCE
+2021;25;Tiro A Segno;Navile;Lame;2;18;BERTALIA - NOCE
+2021;27;Lazzaretto;Navile;Lame;1;172;BERTALIA - NOCE
+2021;29;Marconi-2;Porto - Saragozza;Marconi;1;4728;MARCONI
+2021;33;Zanardi;Porto - Saragozza;Saffi;3 e oltre;701;SAFFI
+2021;34;Velodromo;Porto - Saragozza;Saffi;1;1756;SAFFI
+2021;34;Velodromo;Porto - Saragozza;Saffi;2;785;SAFFI
+2021;35;Via Vittorio Veneto;Porto - Saragozza;Saffi;1;1917;SAFFI
+2021;36;Villaggio della Barca;Borgo Panigale - Reno;Barca;1;1104;BARCA
+2021;37;Battindarno;Borgo Panigale - Reno;Barca;2;1266;BARCA
+2021;38;Canale di Reno;Borgo Panigale - Reno;Barca;2;874;BARCA
+2021;39;Agucchi;Borgo Panigale - Reno;Santa Viola;1;1157;SANTA VIOLA
+2021;40;Emilia Ponente;Borgo Panigale - Reno;Santa Viola;1;2391;SANTA VIOLA
+2021;41;Cadriano-Calamosco;San Donato - San Vitale;San Donato;3 e oltre;101;SAN DONATO NUOVO
+2021;42;Fiera;San Donato - San Vitale;San Donato;2;2;SAN DONATO VECCHIO
+2021;45;CAAB;San Donato - San Vitale;San Donato;2;36;SAN DONATO NUOVO
+2021;45;CAAB;San Donato - San Vitale;San Donato;3 e oltre;47;SAN DONATO NUOVO
+2021;46;Scalo Merci San Donato;San Donato - San Vitale;San Donato;2;3;SAN DONATO NUOVO
+2021;49;Via Mondo;San Donato - San Vitale;San Donato;3 e oltre;838;SAN DONATO VECCHIO
+2021;50;Osservanza;Santo Stefano;Colli;1;1122;OSSERVANZA - PADERNO
+2021;50;Osservanza;Santo Stefano;Colli;2;540;OSSERVANZA - PADERNO
+2021;50;Osservanza;Santo Stefano;Colli;3 e oltre;588;OSSERVANZA - PADERNO
+2021;52;Paderno;Santo Stefano;Colli;2;175;OSSERVANZA - PADERNO
+2021;53;Galvani-1;Santo Stefano;Galvani;1;624;GALVANI
+2021;54;Galvani-2;Santo Stefano;Galvani;3 e oltre;1209;GALVANI
+2021;55;Giardini Margherita;Santo Stefano;Murri;1;4;MURRI
+2021;55;Giardini Margherita;Santo Stefano;Murri;2;3;MURRI
+2021;56;Mezzofanti;Santo Stefano;Murri;1;1990;MURRI
+2021;56;Mezzofanti;Santo Stefano;Murri;3 e oltre;1020;MURRI
+2021;57;Siepelunga;Santo Stefano;Murri;1;1098;MURRI
+2021;59;Chiesanuova;Santo Stefano;Murri;1;2215;MURRI
+2021;59;Chiesanuova;Santo Stefano;Murri;3 e oltre;915;MURRI
+2021;61;Irnerio-2;Santo Stefano;Irnerio;1;4305;IRNERIO
+2021;61;Irnerio-2;Santo Stefano;Irnerio;3 e oltre;974;IRNERIO
+2021;62;Cirenaica;San Donato - San Vitale;San Vitale;2;1174;CIRENAICA - MASSARENTI - SCANDELLARA
+2021;63;Scandellara;San Donato - San Vitale;San Vitale;1;189;CIRENAICA - MASSARENTI - SCANDELLARA
+2021;63;Scandellara;San Donato - San Vitale;San Vitale;3 e oltre;99;CIRENAICA - MASSARENTI - SCANDELLARA
+2021;64;Via Larga;San Donato - San Vitale;San Vitale;1;435;CIRENAICA - MASSARENTI - SCANDELLARA
+2021;65;Roveri;San Donato - San Vitale;San Vitale;3 e oltre;87;CROCE DEL BIACCO - ROVERI
+2021;66;Ospedale Sant'Orsola;San Donato - San Vitale;San Vitale;2;1;CIRENAICA - MASSARENTI - SCANDELLARA
+2021;67;Mengoli;San Donato - San Vitale;San Vitale;3 e oltre;1187;CIRENAICA - MASSARENTI - SCANDELLARA
+2021;68;Guelfa;San Donato - San Vitale;San Vitale;1;2260;CIRENAICA - MASSARENTI - SCANDELLARA
+2021;69;Croce del Biacco;San Donato - San Vitale;San Vitale;3 e oltre;587;CROCE DEL BIACCO - ROVERI
+2021;72;XXI Aprile;Porto - Saragozza;Costa Saragozza;3 e oltre;1565;SARAGOZZA - SAN LUCA
+2021;73;San Giuseppe;Porto - Saragozza;Costa Saragozza;2;805;SARAGOZZA - SAN LUCA
+2021;74;Ravone;Porto - Saragozza;Costa Saragozza;1;271;SARAGOZZA - SAN LUCA
+2021;74;Ravone;Porto - Saragozza;Costa Saragozza;2;169;SARAGOZZA - SAN LUCA
+2021;74;Ravone;Porto - Saragozza;Costa Saragozza;3 e oltre;167;SARAGOZZA - SAN LUCA
+2021;75;Via del Genio;Porto - Saragozza;Costa Saragozza;3 e oltre;3;SARAGOZZA - SAN LUCA
+2021;76;San Luca;Porto - Saragozza;Costa Saragozza;1;118;SARAGOZZA - SAN LUCA
+2021;78;Malpighi-1;Porto - Saragozza;Malpighi;1;656;MALPIGHI
+2021;78;Malpighi-1;Porto - Saragozza;Malpighi;3 e oltre;209;MALPIGHI
+2021;79;Fossolo;Savena;Mazzini;3 e oltre;1131;FOSSOLO - DUE MADONNE
+2021;81;Lungo Savena;Savena;Mazzini;3 e oltre;21;FOSSOLO - DUE MADONNE
+2021;82;Pontevecchio;Savena;Mazzini;1;1738;PONTEVECCHIO - MAZZINI
+2021;82;Pontevecchio;Savena;Mazzini;2;669;PONTEVECCHIO - MAZZINI
+2021;82;Pontevecchio;Savena;Mazzini;3 e oltre;621;PONTEVECCHIO - MAZZINI
+2021;85;Via Arno;Savena;Mazzini;2;1095;PONTEVECCHIO - MAZZINI
+2021;85;Via Arno;Savena;Mazzini;3 e oltre;943;PONTEVECCHIO - MAZZINI
+2021;87;Monte Donato;Savena;San Ruffillo;2;177;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2021;88;Via Toscana;Savena;San Ruffillo;2;1260;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2021;89;Corelli;Savena;San Ruffillo;2;1327;LUNGO SAVENA
+2021;90;Ponte Savena-La Bastia;Savena;San Ruffillo;3 e oltre;166;LUNGO SAVENA
+2021;99;non indicata;Senza fissa dimora;Senza fissa dimora;1;494;
+2021;99;non indicata;Senza fissa dimora;Senza fissa dimora;2;8;
+2022;01;Lavino di Mezzo;Borgo Panigale - Reno;Borgo Panigale;1;126;BIRRA - BARGELLINO - LAVINO
+2022;02;Via del Vivaio;Borgo Panigale - Reno;Borgo Panigale;1;176;BIRRA - BARGELLINO - LAVINO
+2022;02;Via del Vivaio;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;138;BIRRA - BARGELLINO - LAVINO
+2022;04;Aeroporto;Borgo Panigale - Reno;Borgo Panigale;1;110;BIRRA - BARGELLINO - LAVINO
+2022;05;La Birra;Borgo Panigale - Reno;Borgo Panigale;2;263;BIRRA - BARGELLINO - LAVINO
+2022;05;La Birra;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;251;BIRRA - BARGELLINO - LAVINO
+2022;08;Borgo Centro;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;1021;BORGO PANIGALE
+2022;09;Triumvirato-Pietra;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;687;CASTELDEBOLE - PONTELUNGO
+2022;10;Rigosa;Borgo Panigale - Reno;Borgo Panigale;2;121;BORGO PANIGALE
+2022;11;Casteldebole;Borgo Panigale - Reno;Borgo Panigale;1;1048;CASTELDEBOLE - PONTELUNGO
+2022;11;Casteldebole;Borgo Panigale - Reno;Borgo Panigale;2;763;CASTELDEBOLE - PONTELUNGO
+2022;12;Caserme Rosse-Manifattura;Navile;Bolognina;2;254;CORTICELLA - DOZZA
+2022;15;Via Ferrarese;Navile;Bolognina;3 e oltre;1429;BOLOGNINA
+2022;16;Ex Mercato Ortofrutticolo;Navile;Bolognina;3 e oltre;118;BOLOGNINA
+2022;17;Piazza dell'Unita';Navile;Bolognina;1;3273;BOLOGNINA
+2022;18;San Savino;Navile;Corticella;1;2022;CORTICELLA - DOZZA
+2022;18;San Savino;Navile;Corticella;2;1306;CORTICELLA - DOZZA
+2022;20;Croce Coperta;Navile;Corticella;2;841;CORTICELLA - DOZZA
+2022;21;Mulino del Gomito;Navile;Corticella;1;106;CORTICELLA - DOZZA
+2022;21;Mulino del Gomito;Navile;Corticella;3 e oltre;56;CORTICELLA - DOZZA
+2022;22;La Dozza;Navile;Corticella;1;236;CORTICELLA - DOZZA
+2022;23;Laghetti del Rosario;Navile;Lame;2;52;BERTALIA - NOCE
+2022;24;La Noce;Navile;Lame;2;210;BERTALIA - NOCE
+2022;25;Tiro A Segno;Navile;Lame;1;46;BERTALIA - NOCE
+2022;25;Tiro A Segno;Navile;Lame;2;18;BERTALIA - NOCE
+2022;25;Tiro A Segno;Navile;Lame;3 e oltre;15;BERTALIA - NOCE
+2022;27;Lazzaretto;Navile;Lame;1;201;BERTALIA - NOCE
+2022;27;Lazzaretto;Navile;Lame;2;90;BERTALIA - NOCE
+2022;32;Scalo Ravone;Porto - Saragozza;Saffi;1;19;SAFFI
+2022;32;Scalo Ravone;Porto - Saragozza;Saffi;3 e oltre;12;SAFFI
+2022;33;Zanardi;Porto - Saragozza;Saffi;3 e oltre;679;SAFFI
+2022;34;Velodromo;Porto - Saragozza;Saffi;2;764;SAFFI
+2022;35;Via Vittorio Veneto;Porto - Saragozza;Saffi;3 e oltre;570;SAFFI
+2022;36;Villaggio della Barca;Borgo Panigale - Reno;Barca;2;735;BARCA
+2022;37;Battindarno;Borgo Panigale - Reno;Barca;1;2094;BARCA
+2022;37;Battindarno;Borgo Panigale - Reno;Barca;3 e oltre;1135;BARCA
+2022;38;Canale di Reno;Borgo Panigale - Reno;Barca;2;877;BARCA
+2022;39;Agucchi;Borgo Panigale - Reno;Santa Viola;1;1167;SANTA VIOLA
+2022;39;Agucchi;Borgo Panigale - Reno;Santa Viola;2;582;SANTA VIOLA
+2022;40;Emilia Ponente;Borgo Panigale - Reno;Santa Viola;1;2373;SANTA VIOLA
+2022;40;Emilia Ponente;Borgo Panigale - Reno;Santa Viola;2;1203;SANTA VIOLA
+2022;40;Emilia Ponente;Borgo Panigale - Reno;Santa Viola;3 e oltre;1177;SANTA VIOLA
+2022;41;Cadriano-Calamosco;San Donato - San Vitale;San Donato;1;160;SAN DONATO NUOVO
+2022;41;Cadriano-Calamosco;San Donato - San Vitale;San Donato;2;106;SAN DONATO NUOVO
+2022;42;Fiera;San Donato - San Vitale;San Donato;1;8;SAN DONATO VECCHIO
+2022;42;Fiera;San Donato - San Vitale;San Donato;3 e oltre;2;SAN DONATO VECCHIO
+2022;43;San Donnino;San Donato - San Vitale;San Donato;1;736;SAN DONATO VECCHIO
+2022;43;San Donnino;San Donato - San Vitale;San Donato;2;399;SAN DONATO VECCHIO
+2022;44;Pilastro;San Donato - San Vitale;San Donato;3 e oltre;921;SAN DONATO NUOVO
+2022;46;Scalo Merci San Donato;San Donato - San Vitale;San Donato;1;5;SAN DONATO NUOVO
+2022;49;Via Mondo;San Donato - San Vitale;San Donato;2;1049;SAN DONATO VECCHIO
+2022;50;Osservanza;Santo Stefano;Colli;2;548;OSSERVANZA - PADERNO
+2022;51;San Michele in Bosco;Santo Stefano;Colli;1;551;OSSERVANZA - PADERNO
+2022;51;San Michele in Bosco;Santo Stefano;Colli;2;296;OSSERVANZA - PADERNO
+2022;51;San Michele in Bosco;Santo Stefano;Colli;3 e oltre;466;OSSERVANZA - PADERNO
+2022;52;Paderno;Santo Stefano;Colli;3 e oltre;227;OSSERVANZA - PADERNO
+2022;55;Giardini Margherita;Santo Stefano;Murri;1;7;MURRI
+2022;55;Giardini Margherita;Santo Stefano;Murri;2;2;MURRI
+2022;56;Mezzofanti;Santo Stefano;Murri;2;865;MURRI
+2022;57;Siepelunga;Santo Stefano;Murri;1;1086;MURRI
+2022;58;Dagnini;Santo Stefano;Murri;2;1193;MURRI
+2022;59;Chiesanuova;Santo Stefano;Murri;1;2240;MURRI
+2022;59;Chiesanuova;Santo Stefano;Murri;2;944;MURRI
+2022;63;Scandellara;San Donato - San Vitale;San Vitale;2;100;CIRENAICA - MASSARENTI - SCANDELLARA
+2022;64;Via Larga;San Donato - San Vitale;San Vitale;1;433;CIRENAICA - MASSARENTI - SCANDELLARA
+2022;66;Ospedale Sant'Orsola;San Donato - San Vitale;San Vitale;1;35;CIRENAICA - MASSARENTI - SCANDELLARA
+2022;67;Mengoli;San Donato - San Vitale;San Vitale;1;3256;CIRENAICA - MASSARENTI - SCANDELLARA
+2022;67;Mengoli;San Donato - San Vitale;San Vitale;3 e oltre;1146;CIRENAICA - MASSARENTI - SCANDELLARA
+2022;68;Guelfa;San Donato - San Vitale;San Vitale;1;2285;CIRENAICA - MASSARENTI - SCANDELLARA
+2022;68;Guelfa;San Donato - San Vitale;San Vitale;2;854;CIRENAICA - MASSARENTI - SCANDELLARA
+2022;69;Croce del Biacco;San Donato - San Vitale;San Vitale;1;948;CROCE DEL BIACCO - ROVERI
+2022;69;Croce del Biacco;San Donato - San Vitale;San Vitale;3 e oltre;603;CROCE DEL BIACCO - ROVERI
+2022;71;Stadio-Meloncello;Porto - Saragozza;Costa Saragozza;2;457;SARAGOZZA - SAN LUCA
+2022;73;San Giuseppe;Porto - Saragozza;Costa Saragozza;1;1759;SARAGOZZA - SAN LUCA
+2022;73;San Giuseppe;Porto - Saragozza;Costa Saragozza;3 e oltre;823;SARAGOZZA - SAN LUCA
+2022;74;Ravone;Porto - Saragozza;Costa Saragozza;1;270;SARAGOZZA - SAN LUCA
+2022;76;San Luca;Porto - Saragozza;Costa Saragozza;2;77;SARAGOZZA - SAN LUCA
+2022;77;Malpighi-2;Porto - Saragozza;Malpighi;1;3909;MALPIGHI
+2022;77;Malpighi-2;Porto - Saragozza;Malpighi;3 e oltre;976;MALPIGHI
+2022;79;Fossolo;Savena;Mazzini;1;2044;FOSSOLO - DUE MADONNE
+2022;79;Fossolo;Savena;Mazzini;3 e oltre;1121;FOSSOLO - DUE MADONNE
+2022;80;Due Madonne;Savena;Mazzini;3 e oltre;404;FOSSOLO - DUE MADONNE
+2022;81;Lungo Savena;Savena;Mazzini;1;19;FOSSOLO - DUE MADONNE
+2022;81;Lungo Savena;Savena;Mazzini;2;6;FOSSOLO - DUE MADONNE
+2022;82;Pontevecchio;Savena;Mazzini;2;648;PONTEVECCHIO - MAZZINI
+2022;84;Cavedone;Savena;Mazzini;2;382;PONTEVECCHIO - MAZZINI
+2022;84;Cavedone;Savena;Mazzini;3 e oltre;462;PONTEVECCHIO - MAZZINI
+2022;85;Via Arno;Savena;Mazzini;2;1082;PONTEVECCHIO - MAZZINI
+2022;86;Ospedale Bellaria;Savena;Mazzini;2;10;LUNGO SAVENA
+2022;87;Monte Donato;Savena;San Ruffillo;3 e oltre;206;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2022;88;Via Toscana;Savena;San Ruffillo;1;2646;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2022;90;Ponte Savena-La Bastia;Savena;San Ruffillo;2;203;LUNGO SAVENA
+2023;04;Aeroporto;Borgo Panigale - Reno;Borgo Panigale;1;111;BIRRA - BARGELLINO - LAVINO
+2023;04;Aeroporto;Borgo Panigale - Reno;Borgo Panigale;2;55;BIRRA - BARGELLINO - LAVINO
+2023;05;La Birra;Borgo Panigale - Reno;Borgo Panigale;1;507;BIRRA - BARGELLINO - LAVINO
+2023;06;Lungo Reno;Borgo Panigale - Reno;Borgo Panigale;1;4;BIRRA - BARGELLINO - LAVINO
+2023;06;Lungo Reno;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;1;BIRRA - BARGELLINO - LAVINO
+2023;08;Borgo Centro;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;1032;BORGO PANIGALE
+2023;11;Casteldebole;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;674;CASTELDEBOLE - PONTELUNGO
+2023;12;Caserme Rosse-Manifattura;Navile;Bolognina;3 e oltre;295;CORTICELLA - DOZZA
+2023;13;CNR;Navile;Bolognina;2;5;BEVERARA
+2023;15;Via Ferrarese;Navile;Bolognina;2;1396;BOLOGNINA
+2023;15;Via Ferrarese;Navile;Bolognina;3 e oltre;1448;BOLOGNINA
+2023;16;Ex Mercato Ortofrutticolo;Navile;Bolognina;3 e oltre;128;BOLOGNINA
+2023;18;San Savino;Navile;Corticella;1;2035;CORTICELLA - DOZZA
+2023;18;San Savino;Navile;Corticella;2;1290;CORTICELLA - DOZZA
+2023;19;Savena Abbandonato;Navile;Corticella;1;252;CORTICELLA - DOZZA
+2023;20;Croce Coperta;Navile;Corticella;1;1424;CORTICELLA - DOZZA
+2023;21;Mulino del Gomito;Navile;Corticella;3 e oltre;60;CORTICELLA - DOZZA
+2023;22;La Dozza;Navile;Corticella;1;251;CORTICELLA - DOZZA
+2023;22;La Dozza;Navile;Corticella;2;199;CORTICELLA - DOZZA
+2023;27;Lazzaretto;Navile;Lame;1;212;BERTALIA - NOCE
+2023;28;Beverara;Navile;Lame;1;1757;BEVERARA
+2023;28;Beverara;Navile;Lame;2;990;BEVERARA
+2023;28;Beverara;Navile;Lame;3 e oltre;903;BEVERARA
+2023;29;Marconi-2;Porto - Saragozza;Marconi;1;4776;MARCONI
+2023;31;Prati di Caprara-Ospedale Maggiore;Porto - Saragozza;Saffi;3 e oltre;62;SAFFI
+2023;32;Scalo Ravone;Porto - Saragozza;Saffi;1;22;SAFFI
+2023;32;Scalo Ravone;Porto - Saragozza;Saffi;2;13;SAFFI
+2023;33;Zanardi;Porto - Saragozza;Saffi;3 e oltre;687;SAFFI
+2023;34;Velodromo;Porto - Saragozza;Saffi;1;1798;SAFFI
+2023;35;Via Vittorio Veneto;Porto - Saragozza;Saffi;1;1957;SAFFI
+2023;35;Via Vittorio Veneto;Porto - Saragozza;Saffi;2;664;SAFFI
+2023;36;Villaggio della Barca;Borgo Panigale - Reno;Barca;3 e oltre;867;BARCA
+2023;40;Emilia Ponente;Borgo Panigale - Reno;Santa Viola;1;2435;SANTA VIOLA
+2023;40;Emilia Ponente;Borgo Panigale - Reno;Santa Viola;2;1190;SANTA VIOLA
+2023;40;Emilia Ponente;Borgo Panigale - Reno;Santa Viola;3 e oltre;1172;SANTA VIOLA
+2023;42;Fiera;San Donato - San Vitale;San Donato;3 e oltre;2;SAN DONATO VECCHIO
+2023;43;San Donnino;San Donato - San Vitale;San Donato;1;752;SAN DONATO VECCHIO
+2023;44;Pilastro;San Donato - San Vitale;San Donato;1;1374;SAN DONATO NUOVO
+2023;45;CAAB;San Donato - San Vitale;San Donato;1;85;SAN DONATO NUOVO
+2023;46;Scalo Merci San Donato;San Donato - San Vitale;San Donato;1;5;SAN DONATO NUOVO
+2023;46;Scalo Merci San Donato;San Donato - San Vitale;San Donato;2;7;SAN DONATO NUOVO
+2023;50;Osservanza;Santo Stefano;Colli;1;1149;OSSERVANZA - PADERNO
+2023;50;Osservanza;Santo Stefano;Colli;2;539;OSSERVANZA - PADERNO
+2023;51;San Michele in Bosco;Santo Stefano;Colli;2;298;OSSERVANZA - PADERNO
+2023;53;Galvani-1;Santo Stefano;Galvani;1;611;GALVANI
+2023;54;Galvani-2;Santo Stefano;Galvani;1;4005;GALVANI
+2023;54;Galvani-2;Santo Stefano;Galvani;2;1367;GALVANI
+2023;55;Giardini Margherita;Santo Stefano;Murri;1;7;MURRI
+2023;55;Giardini Margherita;Santo Stefano;Murri;2;3;MURRI
+2023;56;Mezzofanti;Santo Stefano;Murri;1;2022;MURRI
+2023;58;Dagnini;Santo Stefano;Murri;1;2940;MURRI
+2023;58;Dagnini;Santo Stefano;Murri;3 e oltre;1155;MURRI
+2023;60;Irnerio-1;Santo Stefano;Irnerio;3 e oltre;364;IRNERIO
+2023;61;Irnerio-2;Santo Stefano;Irnerio;2;1175;IRNERIO
+2023;62;Cirenaica;San Donato - San Vitale;San Vitale;1;3284;CIRENAICA - MASSARENTI - SCANDELLARA
+2023;62;Cirenaica;San Donato - San Vitale;San Vitale;3 e oltre;953;CIRENAICA - MASSARENTI - SCANDELLARA
+2023;63;Scandellara;San Donato - San Vitale;San Vitale;2;105;CIRENAICA - MASSARENTI - SCANDELLARA
+2023;64;Via Larga;San Donato - San Vitale;San Vitale;2;299;CIRENAICA - MASSARENTI - SCANDELLARA
+2023;65;Roveri;San Donato - San Vitale;San Vitale;1;121;CROCE DEL BIACCO - ROVERI
+2023;65;Roveri;San Donato - San Vitale;San Vitale;3 e oltre;95;CROCE DEL BIACCO - ROVERI
+2023;66;Ospedale Sant'Orsola;San Donato - San Vitale;San Vitale;1;30;CIRENAICA - MASSARENTI - SCANDELLARA
+2023;66;Ospedale Sant'Orsola;San Donato - San Vitale;San Vitale;2;2;CIRENAICA - MASSARENTI - SCANDELLARA
+2023;66;Ospedale Sant'Orsola;San Donato - San Vitale;San Vitale;3 e oltre;1;CIRENAICA - MASSARENTI - SCANDELLARA
+2023;67;Mengoli;San Donato - San Vitale;San Vitale;1;3308;CIRENAICA - MASSARENTI - SCANDELLARA
+2023;67;Mengoli;San Donato - San Vitale;San Vitale;3 e oltre;1134;CIRENAICA - MASSARENTI - SCANDELLARA
+2023;68;Guelfa;San Donato - San Vitale;San Vitale;1;2382;CIRENAICA - MASSARENTI - SCANDELLARA
+2023;74;Ravone;Porto - Saragozza;Costa Saragozza;2;156;SARAGOZZA - SAN LUCA
+2023;75;Via del Genio;Porto - Saragozza;Costa Saragozza;3 e oltre;3;SARAGOZZA - SAN LUCA
+2023;76;San Luca;Porto - Saragozza;Costa Saragozza;2;76;SARAGOZZA - SAN LUCA
+2023;76;San Luca;Porto - Saragozza;Costa Saragozza;3 e oltre;102;SARAGOZZA - SAN LUCA
+2023;78;Malpighi-1;Porto - Saragozza;Malpighi;1;681;MALPIGHI
+2023;81;Lungo Savena;Savena;Mazzini;3 e oltre;23;FOSSOLO - DUE MADONNE
+2023;83;Bitone;Savena;Mazzini;2;1438;PONTEVECCHIO - MAZZINI
+2023;83;Bitone;Savena;Mazzini;3 e oltre;1380;PONTEVECCHIO - MAZZINI
+2023;85;Via Arno;Savena;Mazzini;2;1051;PONTEVECCHIO - MAZZINI
+2023;86;Ospedale Bellaria;Savena;Mazzini;3 e oltre;7;LUNGO SAVENA
+2023;88;Via Toscana;Savena;San Ruffillo;1;2629;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2023;89;Corelli;Savena;San Ruffillo;1;1963;LUNGO SAVENA
+2023;89;Corelli;Savena;San Ruffillo;2;1273;LUNGO SAVENA
+2023;90;Ponte Savena-La Bastia;Savena;San Ruffillo;1;281;LUNGO SAVENA
+2023;99;non indicata;Senza fissa dimora;Senza fissa dimora;1;585;
+2023;99;non indicata;Senza fissa dimora;Senza fissa dimora;3 e oltre;4;
+2016;01;Lavino di Mezzo;Borgo Panigale - Reno;Borgo Panigale;1;125;BIRRA - BARGELLINO - LAVINO
+2016;01;Lavino di Mezzo;Borgo Panigale - Reno;Borgo Panigale;2;70;BIRRA - BARGELLINO - LAVINO
+2016;02;Via del Vivaio;Borgo Panigale - Reno;Borgo Panigale;1;146;BIRRA - BARGELLINO - LAVINO
+2016;02;Via del Vivaio;Borgo Panigale - Reno;Borgo Panigale;2;81;BIRRA - BARGELLINO - LAVINO
+2016;02;Via del Vivaio;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;141;BIRRA - BARGELLINO - LAVINO
+2016;04;Aeroporto;Borgo Panigale - Reno;Borgo Panigale;2;59;BIRRA - BARGELLINO - LAVINO
+2016;04;Aeroporto;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;71;BIRRA - BARGELLINO - LAVINO
+2016;05;La Birra;Borgo Panigale - Reno;Borgo Panigale;2;274;BIRRA - BARGELLINO - LAVINO
+2016;05;La Birra;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;236;BIRRA - BARGELLINO - LAVINO
+2016;08;Borgo Centro;Borgo Panigale - Reno;Borgo Panigale;2;1079;BORGO PANIGALE
+2016;08;Borgo Centro;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;1041;BORGO PANIGALE
+2016;09;Triumvirato-Pietra;Borgo Panigale - Reno;Borgo Panigale;1;1184;CASTELDEBOLE - PONTELUNGO
+2016;09;Triumvirato-Pietra;Borgo Panigale - Reno;Borgo Panigale;2;725;CASTELDEBOLE - PONTELUNGO
+2016;09;Triumvirato-Pietra;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;697;CASTELDEBOLE - PONTELUNGO
+2016;10;Rigosa;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;179;BORGO PANIGALE
+2016;11;Casteldebole;Borgo Panigale - Reno;Borgo Panigale;1;1000;CASTELDEBOLE - PONTELUNGO
+2016;11;Casteldebole;Borgo Panigale - Reno;Borgo Panigale;2;800;CASTELDEBOLE - PONTELUNGO
+2016;12;Caserme Rosse-Manifattura;Navile;Bolognina;3 e oltre;275;CORTICELLA - DOZZA
+2016;13;CNR;Navile;Bolognina;3 e oltre;12;BEVERARA
+2016;14;Arcoveggio;Navile;Bolognina;3 e oltre;1283;BOLOGNINA
+2016;15;Via Ferrarese;Navile;Bolognina;2;1361;BOLOGNINA
+2016;20;Croce Coperta;Navile;Corticella;3 e oltre;860;CORTICELLA - DOZZA
+2016;22;La Dozza;Navile;Corticella;1;218;CORTICELLA - DOZZA
+2016;22;La Dozza;Navile;Corticella;2;202;CORTICELLA - DOZZA
+2016;23;Laghetti del Rosario;Navile;Lame;1;104;BERTALIA - NOCE
+2016;25;Tiro A Segno;Navile;Lame;1;41;BERTALIA - NOCE
+2016;25;Tiro A Segno;Navile;Lame;2;22;BERTALIA - NOCE
+2016;26;Pescarola;Navile;Lame;2;688;BERTALIA - NOCE
+2016;27;Lazzaretto;Navile;Lame;2;62;BERTALIA - NOCE
+2016;27;Lazzaretto;Navile;Lame;3 e oltre;69;BERTALIA - NOCE
+2016;28;Beverara;Navile;Lame;3 e oltre;932;BEVERARA
+2016;30;Marconi-1;Porto - Saragozza;Marconi;3 e oltre;257;MALPIGHI
+2016;32;Scalo Ravone;Porto - Saragozza;Saffi;3 e oltre;11;SAFFI
+2016;33;Zanardi;Porto - Saragozza;Saffi;3 e oltre;688;SAFFI
+2016;35;Via Vittorio Veneto;Porto - Saragozza;Saffi;3 e oltre;578;SAFFI
+2016;36;Villaggio della Barca;Borgo Panigale - Reno;Barca;3 e oltre;808;BARCA
+2016;38;Canale di Reno;Borgo Panigale - Reno;Barca;3 e oltre;838;BARCA
+2016;39;Agucchi;Borgo Panigale - Reno;Santa Viola;1;1145;SANTA VIOLA
+2016;39;Agucchi;Borgo Panigale - Reno;Santa Viola;2;572;SANTA VIOLA
+2016;40;Emilia Ponente;Borgo Panigale - Reno;Santa Viola;1;2264;SANTA VIOLA
+2016;40;Emilia Ponente;Borgo Panigale - Reno;Santa Viola;2;1209;SANTA VIOLA
+2016;40;Emilia Ponente;Borgo Panigale - Reno;Santa Viola;3 e oltre;1212;SANTA VIOLA
+2016;41;Cadriano-Calamosco;San Donato - San Vitale;San Donato;3 e oltre;112;SAN DONATO NUOVO
+2016;44;Pilastro;San Donato - San Vitale;San Donato;1;1188;SAN DONATO NUOVO
+2016;45;CAAB;San Donato - San Vitale;San Donato;1;71;SAN DONATO NUOVO
+2016;45;CAAB;San Donato - San Vitale;San Donato;2;27;SAN DONATO NUOVO
+2016;47;Via del Lavoro;San Donato - San Vitale;San Donato;1;2331;SAN DONATO VECCHIO
+2016;47;Via del Lavoro;San Donato - San Vitale;San Donato;3 e oltre;914;SAN DONATO VECCHIO
+2016;49;Via Mondo;San Donato - San Vitale;San Donato;1;2477;SAN DONATO VECCHIO
+2016;49;Via Mondo;San Donato - San Vitale;San Donato;2;1138;SAN DONATO VECCHIO
+2016;53;Galvani-1;Santo Stefano;Galvani;3 e oltre;211;GALVANI
+2016;54;Galvani-2;Santo Stefano;Galvani;3 e oltre;1228;GALVANI
+2016;56;Mezzofanti;Santo Stefano;Murri;3 e oltre;986;MURRI
+2016;57;Siepelunga;Santo Stefano;Murri;1;1115;MURRI
+2016;58;Dagnini;Santo Stefano;Murri;2;1289;MURRI
+2016;58;Dagnini;Santo Stefano;Murri;3 e oltre;1151;MURRI
+2016;62;Cirenaica;San Donato - San Vitale;San Vitale;2;1180;CIRENAICA - MASSARENTI - SCANDELLARA
+2016;63;Scandellara;San Donato - San Vitale;San Vitale;2;82;CIRENAICA - MASSARENTI - SCANDELLARA
+2016;63;Scandellara;San Donato - San Vitale;San Vitale;3 e oltre;90;CIRENAICA - MASSARENTI - SCANDELLARA
+2016;65;Roveri;San Donato - San Vitale;San Vitale;1;109;CROCE DEL BIACCO - ROVERI
+2016;66;Ospedale Sant'Orsola;San Donato - San Vitale;San Vitale;1;33;CIRENAICA - MASSARENTI - SCANDELLARA
+2016;69;Croce del Biacco;San Donato - San Vitale;San Vitale;2;543;CROCE DEL BIACCO - ROVERI
+2016;70;Stradelli Guelfi;San Donato - San Vitale;San Vitale;1;50;CROCE DEL BIACCO - ROVERI
+2016;70;Stradelli Guelfi;San Donato - San Vitale;San Vitale;2;31;CROCE DEL BIACCO - ROVERI
+2016;73;San Giuseppe;Porto - Saragozza;Costa Saragozza;2;799;SARAGOZZA - SAN LUCA
+2016;73;San Giuseppe;Porto - Saragozza;Costa Saragozza;3 e oltre;812;SARAGOZZA - SAN LUCA
+2016;75;Via del Genio;Porto - Saragozza;Costa Saragozza;3 e oltre;3;SARAGOZZA - SAN LUCA
+2016;77;Malpighi-2;Porto - Saragozza;Malpighi;1;3946;MALPIGHI
+2016;78;Malpighi-1;Porto - Saragozza;Malpighi;1;637;MALPIGHI
+2016;78;Malpighi-1;Porto - Saragozza;Malpighi;3 e oltre;206;MALPIGHI
+2016;79;Fossolo;Savena;Mazzini;3 e oltre;1133;FOSSOLO - DUE MADONNE
+2016;80;Due Madonne;Savena;Mazzini;2;405;FOSSOLO - DUE MADONNE
+2016;80;Due Madonne;Savena;Mazzini;3 e oltre;376;FOSSOLO - DUE MADONNE
+2016;81;Lungo Savena;Savena;Mazzini;3 e oltre;15;FOSSOLO - DUE MADONNE
+2016;83;Bitone;Savena;Mazzini;2;1585;PONTEVECCHIO - MAZZINI
+2016;84;Cavedone;Savena;Mazzini;2;410;PONTEVECCHIO - MAZZINI
+2016;86;Ospedale Bellaria;Savena;Mazzini;2;9;LUNGO SAVENA
+2016;86;Ospedale Bellaria;Savena;Mazzini;3 e oltre;12;LUNGO SAVENA
+2016;87;Monte Donato;Savena;San Ruffillo;1;324;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2016;87;Monte Donato;Savena;San Ruffillo;2;177;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2016;89;Corelli;Savena;San Ruffillo;1;1771;LUNGO SAVENA
+2016;89;Corelli;Savena;San Ruffillo;3 e oltre;1223;LUNGO SAVENA
+2016;99;non indicata;Senza fissa dimora;Senza fissa dimora;1;353;
+2017;03;Bargellino;Borgo Panigale - Reno;Borgo Panigale;1;20;BIRRA - BARGELLINO - LAVINO
+2017;05;La Birra;Borgo Panigale - Reno;Borgo Panigale;2;273;BIRRA - BARGELLINO - LAVINO
+2017;06;Lungo Reno;Borgo Panigale - Reno;Borgo Panigale;1;3;BIRRA - BARGELLINO - LAVINO
+2017;08;Borgo Centro;Borgo Panigale - Reno;Borgo Panigale;1;1950;BORGO PANIGALE
+2017;09;Triumvirato-Pietra;Borgo Panigale - Reno;Borgo Panigale;1;1242;CASTELDEBOLE - PONTELUNGO
+2017;09;Triumvirato-Pietra;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;711;CASTELDEBOLE - PONTELUNGO
+2017;10;Rigosa;Borgo Panigale - Reno;Borgo Panigale;2;116;BORGO PANIGALE
+2017;11;Casteldebole;Borgo Panigale - Reno;Borgo Panigale;1;1022;CASTELDEBOLE - PONTELUNGO
+2017;11;Casteldebole;Borgo Panigale - Reno;Borgo Panigale;2;801;CASTELDEBOLE - PONTELUNGO
+2017;11;Casteldebole;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;676;CASTELDEBOLE - PONTELUNGO
+2017;12;Caserme Rosse-Manifattura;Navile;Bolognina;1;457;CORTICELLA - DOZZA
+2017;12;Caserme Rosse-Manifattura;Navile;Bolognina;2;274;CORTICELLA - DOZZA
+2017;13;CNR;Navile;Bolognina;2;7;BEVERARA
+2017;13;CNR;Navile;Bolognina;3 e oltre;13;BEVERARA
+2017;15;Via Ferrarese;Navile;Bolognina;2;1339;BOLOGNINA
+2017;15;Via Ferrarese;Navile;Bolognina;3 e oltre;1418;BOLOGNINA
+2017;16;Ex Mercato Ortofrutticolo;Navile;Bolognina;1;203;BOLOGNINA
+2017;16;Ex Mercato Ortofrutticolo;Navile;Bolognina;2;81;BOLOGNINA
+2017;17;Piazza dell'Unita';Navile;Bolognina;1;3213;BOLOGNINA
+2017;17;Piazza dell'Unita';Navile;Bolognina;2;1147;BOLOGNINA
+2017;18;San Savino;Navile;Corticella;3 e oltre;1299;CORTICELLA - DOZZA
+2017;19;Savena Abbandonato;Navile;Corticella;1;243;CORTICELLA - DOZZA
+2017;20;Croce Coperta;Navile;Corticella;1;1333;CORTICELLA - DOZZA
+2017;21;Mulino del Gomito;Navile;Corticella;1;75;CORTICELLA - DOZZA
+2017;22;La Dozza;Navile;Corticella;1;223;CORTICELLA - DOZZA
+2017;22;La Dozza;Navile;Corticella;2;205;CORTICELLA - DOZZA
+2017;23;Laghetti del Rosario;Navile;Lame;2;44;BERTALIA - NOCE
+2017;24;La Noce;Navile;Lame;2;217;BERTALIA - NOCE
+2017;25;Tiro A Segno;Navile;Lame;2;20;BERTALIA - NOCE
+2017;30;Marconi-1;Porto - Saragozza;Marconi;2;260;MALPIGHI
+2017;34;Velodromo;Porto - Saragozza;Saffi;1;1696;SAFFI
+2017;35;Via Vittorio Veneto;Porto - Saragozza;Saffi;2;690;SAFFI
+2017;36;Villaggio della Barca;Borgo Panigale - Reno;Barca;1;1027;BARCA
+2017;36;Villaggio della Barca;Borgo Panigale - Reno;Barca;2;843;BARCA
+2017;37;Battindarno;Borgo Panigale - Reno;Barca;2;1341;BARCA
+2017;38;Canale di Reno;Borgo Panigale - Reno;Barca;1;1432;BARCA
+2017;38;Canale di Reno;Borgo Panigale - Reno;Barca;3 e oltre;837;BARCA
+2017;39;Agucchi;Borgo Panigale - Reno;Santa Viola;1;1146;SANTA VIOLA
+2017;39;Agucchi;Borgo Panigale - Reno;Santa Viola;3 e oltre;575;SANTA VIOLA
+2017;40;Emilia Ponente;Borgo Panigale - Reno;Santa Viola;1;2331;SANTA VIOLA
+2017;41;Cadriano-Calamosco;San Donato - San Vitale;San Donato;2;95;SAN DONATO NUOVO
+2017;41;Cadriano-Calamosco;San Donato - San Vitale;San Donato;3 e oltre;109;SAN DONATO NUOVO
+2017;42;Fiera;San Donato - San Vitale;San Donato;2;2;SAN DONATO VECCHIO
+2017;42;Fiera;San Donato - San Vitale;San Donato;3 e oltre;3;SAN DONATO VECCHIO
+2017;43;San Donnino;San Donato - San Vitale;San Donato;3 e oltre;380;SAN DONATO VECCHIO
+2017;44;Pilastro;San Donato - San Vitale;San Donato;2;1024;SAN DONATO NUOVO
+2017;45;CAAB;San Donato - San Vitale;San Donato;2;29;SAN DONATO NUOVO
+2017;45;CAAB;San Donato - San Vitale;San Donato;3 e oltre;49;SAN DONATO NUOVO
+2017;46;Scalo Merci San Donato;San Donato - San Vitale;San Donato;2;7;SAN DONATO NUOVO
+2017;48;Michelino;San Donato - San Vitale;San Donato;1;1367;SAN DONATO VECCHIO
+2017;50;Osservanza;Santo Stefano;Colli;2;512;OSSERVANZA - PADERNO
+2017;51;San Michele in Bosco;Santo Stefano;Colli;1;514;OSSERVANZA - PADERNO
+2017;52;Paderno;Santo Stefano;Colli;1;284;OSSERVANZA - PADERNO
+2017;53;Galvani-1;Santo Stefano;Galvani;2;202;GALVANI
+2017;54;Galvani-2;Santo Stefano;Galvani;1;3865;GALVANI
+2017;55;Giardini Margherita;Santo Stefano;Murri;2;5;MURRI
+2017;55;Giardini Margherita;Santo Stefano;Murri;3 e oltre;5;MURRI
+2017;56;Mezzofanti;Santo Stefano;Murri;1;1927;MURRI
+2017;59;Chiesanuova;Santo Stefano;Murri;2;978;MURRI
+2017;59;Chiesanuova;Santo Stefano;Murri;3 e oltre;911;MURRI
+2017;61;Irnerio-2;Santo Stefano;Irnerio;1;4108;IRNERIO
+2017;62;Cirenaica;San Donato - San Vitale;San Vitale;2;1159;CIRENAICA - MASSARENTI - SCANDELLARA
+2017;63;Scandellara;San Donato - San Vitale;San Vitale;3 e oltre;85;CIRENAICA - MASSARENTI - SCANDELLARA
+2017;68;Guelfa;San Donato - San Vitale;San Vitale;1;2124;CIRENAICA - MASSARENTI - SCANDELLARA
+2017;72;XXI Aprile;Porto - Saragozza;Costa Saragozza;2;1642;SARAGOZZA - SAN LUCA
+2017;74;Ravone;Porto - Saragozza;Costa Saragozza;1;257;SARAGOZZA - SAN LUCA
+2017;75;Via del Genio;Porto - Saragozza;Costa Saragozza;1;1;SARAGOZZA - SAN LUCA
+2017;75;Via del Genio;Porto - Saragozza;Costa Saragozza;3 e oltre;4;SARAGOZZA - SAN LUCA
+2017;76;San Luca;Porto - Saragozza;Costa Saragozza;1;120;SARAGOZZA - SAN LUCA
+2017;76;San Luca;Porto - Saragozza;Costa Saragozza;2;71;SARAGOZZA - SAN LUCA
+2017;77;Malpighi-2;Porto - Saragozza;Malpighi;2;1131;MALPIGHI
+2017;79;Fossolo;Savena;Mazzini;1;1867;FOSSOLO - DUE MADONNE
+2017;79;Fossolo;Savena;Mazzini;2;1371;FOSSOLO - DUE MADONNE
+2017;80;Due Madonne;Savena;Mazzini;3 e oltre;384;FOSSOLO - DUE MADONNE
+2017;81;Lungo Savena;Savena;Mazzini;1;7;FOSSOLO - DUE MADONNE
+2017;81;Lungo Savena;Savena;Mazzini;3 e oltre;15;FOSSOLO - DUE MADONNE
+2017;82;Pontevecchio;Savena;Mazzini;2;692;PONTEVECCHIO - MAZZINI
+2017;84;Cavedone;Savena;Mazzini;1;563;PONTEVECCHIO - MAZZINI
+2017;84;Cavedone;Savena;Mazzini;2;417;PONTEVECCHIO - MAZZINI
+2017;84;Cavedone;Savena;Mazzini;3 e oltre;445;PONTEVECCHIO - MAZZINI
+2017;85;Via Arno;Savena;Mazzini;1;1500;PONTEVECCHIO - MAZZINI
+2017;86;Ospedale Bellaria;Savena;Mazzini;1;9;LUNGO SAVENA
+2017;88;Via Toscana;Savena;San Ruffillo;1;2592;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2017;89;Corelli;Savena;San Ruffillo;1;1797;LUNGO SAVENA
+2017;89;Corelli;Savena;San Ruffillo;2;1361;LUNGO SAVENA
+2018;01;Lavino di Mezzo;Borgo Panigale - Reno;Borgo Panigale;1;110;BIRRA - BARGELLINO - LAVINO
+2018;02;Via del Vivaio;Borgo Panigale - Reno;Borgo Panigale;2;92;BIRRA - BARGELLINO - LAVINO
+2018;03;Bargellino;Borgo Panigale - Reno;Borgo Panigale;1;18;BIRRA - BARGELLINO - LAVINO
+2018;03;Bargellino;Borgo Panigale - Reno;Borgo Panigale;2;7;BIRRA - BARGELLINO - LAVINO
+2018;04;Aeroporto;Borgo Panigale - Reno;Borgo Panigale;2;60;BIRRA - BARGELLINO - LAVINO
+2018;04;Aeroporto;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;67;BIRRA - BARGELLINO - LAVINO
+2018;05;La Birra;Borgo Panigale - Reno;Borgo Panigale;1;497;BIRRA - BARGELLINO - LAVINO
+2018;05;La Birra;Borgo Panigale - Reno;Borgo Panigale;2;270;BIRRA - BARGELLINO - LAVINO
+2018;07;Ducati-Villaggio Ina;Borgo Panigale - Reno;Borgo Panigale;2;476;BORGO PANIGALE
+2018;08;Borgo Centro;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;1080;BORGO PANIGALE
+2018;09;Triumvirato-Pietra;Borgo Panigale - Reno;Borgo Panigale;2;712;CASTELDEBOLE - PONTELUNGO
+2018;09;Triumvirato-Pietra;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;718;CASTELDEBOLE - PONTELUNGO
+2018;10;Rigosa;Borgo Panigale - Reno;Borgo Panigale;1;199;BORGO PANIGALE
+2018;10;Rigosa;Borgo Panigale - Reno;Borgo Panigale;2;113;BORGO PANIGALE
+2018;10;Rigosa;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;183;BORGO PANIGALE
+2018;12;Caserme Rosse-Manifattura;Navile;Bolognina;1;475;CORTICELLA - DOZZA
+2018;13;CNR;Navile;Bolognina;2;7;BEVERARA
+2018;14;Arcoveggio;Navile;Bolognina;2;1340;BOLOGNINA
+2018;16;Ex Mercato Ortofrutticolo;Navile;Bolognina;1;230;BOLOGNINA
+2018;17;Piazza dell'Unita';Navile;Bolognina;1;3143;BOLOGNINA
+2018;17;Piazza dell'Unita';Navile;Bolognina;3 e oltre;1338;BOLOGNINA
+2018;18;San Savino;Navile;Corticella;3 e oltre;1300;CORTICELLA - DOZZA
+2018;19;Savena Abbandonato;Navile;Corticella;3 e oltre;128;CORTICELLA - DOZZA
+2018;20;Croce Coperta;Navile;Corticella;1;1338;CORTICELLA - DOZZA
+2018;20;Croce Coperta;Navile;Corticella;2;853;CORTICELLA - DOZZA
+2018;25;Tiro A Segno;Navile;Lame;1;42;BERTALIA - NOCE
+2018;25;Tiro A Segno;Navile;Lame;2;21;BERTALIA - NOCE
+2018;26;Pescarola;Navile;Lame;3 e oltre;602;BERTALIA - NOCE
+2018;27;Lazzaretto;Navile;Lame;1;172;BERTALIA - NOCE
+2018;27;Lazzaretto;Navile;Lame;3 e oltre;78;BERTALIA - NOCE
+2018;28;Beverara;Navile;Lame;3 e oltre;920;BEVERARA
+2018;29;Marconi-2;Porto - Saragozza;Marconi;1;4495;MARCONI
+2018;29;Marconi-2;Porto - Saragozza;Marconi;3 e oltre;1330;MARCONI
+2018;30;Marconi-1;Porto - Saragozza;Marconi;1;857;MALPIGHI
+2018;30;Marconi-1;Porto - Saragozza;Marconi;2;260;MALPIGHI
+2018;34;Velodromo;Porto - Saragozza;Saffi;2;832;SAFFI
+2018;35;Via Vittorio Veneto;Porto - Saragozza;Saffi;1;1906;SAFFI
+2018;36;Villaggio della Barca;Borgo Panigale - Reno;Barca;1;1056;BARCA
+2018;36;Villaggio della Barca;Borgo Panigale - Reno;Barca;3 e oltre;831;BARCA
+2018;37;Battindarno;Borgo Panigale - Reno;Barca;1;2046;BARCA
+2018;37;Battindarno;Borgo Panigale - Reno;Barca;2;1346;BARCA
+2018;40;Emilia Ponente;Borgo Panigale - Reno;Santa Viola;2;1154;SANTA VIOLA
+2018;41;Cadriano-Calamosco;San Donato - San Vitale;San Donato;1;165;SAN DONATO NUOVO
+2018;43;San Donnino;San Donato - San Vitale;San Donato;2;429;SAN DONATO VECCHIO
+2018;44;Pilastro;San Donato - San Vitale;San Donato;1;1261;SAN DONATO NUOVO
+2018;45;CAAB;San Donato - San Vitale;San Donato;1;77;SAN DONATO NUOVO
+2018;46;Scalo Merci San Donato;San Donato - San Vitale;San Donato;3 e oltre;1;SAN DONATO NUOVO
+2018;47;Via del Lavoro;San Donato - San Vitale;San Donato;1;2385;SAN DONATO VECCHIO
+2018;48;Michelino;San Donato - San Vitale;San Donato;2;589;SAN DONATO VECCHIO
+2018;50;Osservanza;Santo Stefano;Colli;2;528;OSSERVANZA - PADERNO
+2018;51;San Michele in Bosco;Santo Stefano;Colli;2;268;OSSERVANZA - PADERNO
+2018;51;San Michele in Bosco;Santo Stefano;Colli;3 e oltre;458;OSSERVANZA - PADERNO
+2018;52;Paderno;Santo Stefano;Colli;1;294;OSSERVANZA - PADERNO
+2018;53;Galvani-1;Santo Stefano;Galvani;3 e oltre;218;GALVANI
+2018;55;Giardini Margherita;Santo Stefano;Murri;1;7;MURRI
+2018;56;Mezzofanti;Santo Stefano;Murri;2;892;MURRI
+2018;57;Siepelunga;Santo Stefano;Murri;2;550;MURRI
+2018;58;Dagnini;Santo Stefano;Murri;2;1285;MURRI
+2018;58;Dagnini;Santo Stefano;Murri;3 e oltre;1144;MURRI
+2018;59;Chiesanuova;Santo Stefano;Murri;1;2141;MURRI
+2018;61;Irnerio-2;Santo Stefano;Irnerio;2;1149;IRNERIO
+2018;62;Cirenaica;San Donato - San Vitale;San Vitale;3 e oltre;1005;CIRENAICA - MASSARENTI - SCANDELLARA
+2018;64;Via Larga;San Donato - San Vitale;San Vitale;2;278;CIRENAICA - MASSARENTI - SCANDELLARA
+2018;65;Roveri;San Donato - San Vitale;San Vitale;3 e oltre;86;CROCE DEL BIACCO - ROVERI
+2018;66;Ospedale Sant'Orsola;San Donato - San Vitale;San Vitale;3 e oltre;2;CIRENAICA - MASSARENTI - SCANDELLARA
+2018;68;Guelfa;San Donato - San Vitale;San Vitale;2;933;CIRENAICA - MASSARENTI - SCANDELLARA
+2018;68;Guelfa;San Donato - San Vitale;San Vitale;3 e oltre;846;CIRENAICA - MASSARENTI - SCANDELLARA
+2018;70;Stradelli Guelfi;San Donato - San Vitale;San Vitale;1;59;CROCE DEL BIACCO - ROVERI
+2018;70;Stradelli Guelfi;San Donato - San Vitale;San Vitale;2;29;CROCE DEL BIACCO - ROVERI
+2018;73;San Giuseppe;Porto - Saragozza;Costa Saragozza;2;806;SARAGOZZA - SAN LUCA
+2018;74;Ravone;Porto - Saragozza;Costa Saragozza;1;254;SARAGOZZA - SAN LUCA
+2018;77;Malpighi-2;Porto - Saragozza;Malpighi;2;1124;MALPIGHI
+2018;78;Malpighi-1;Porto - Saragozza;Malpighi;1;606;MALPIGHI
+2018;78;Malpighi-1;Porto - Saragozza;Malpighi;2;208;MALPIGHI
+2018;79;Fossolo;Savena;Mazzini;1;1889;FOSSOLO - DUE MADONNE
+2018;79;Fossolo;Savena;Mazzini;3 e oltre;1144;FOSSOLO - DUE MADONNE
+2018;81;Lungo Savena;Savena;Mazzini;3 e oltre;19;FOSSOLO - DUE MADONNE
+2018;85;Via Arno;Savena;Mazzini;3 e oltre;952;PONTEVECCHIO - MAZZINI
+2018;86;Ospedale Bellaria;Savena;Mazzini;3 e oltre;11;LUNGO SAVENA
+2018;87;Monte Donato;Savena;San Ruffillo;3 e oltre;221;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2018;88;Via Toscana;Savena;San Ruffillo;1;2589;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2018;88;Via Toscana;Savena;San Ruffillo;3 e oltre;1262;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2018;89;Corelli;Savena;San Ruffillo;2;1373;LUNGO SAVENA
+2018;89;Corelli;Savena;San Ruffillo;3 e oltre;1185;LUNGO SAVENA
+2018;90;Ponte Savena-La Bastia;Savena;San Ruffillo;1;266;LUNGO SAVENA
+2019;01;Lavino di Mezzo;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;62;BIRRA - BARGELLINO - LAVINO
+2019;03;Bargellino;Borgo Panigale - Reno;Borgo Panigale;2;10;BIRRA - BARGELLINO - LAVINO
+2019;08;Borgo Centro;Borgo Panigale - Reno;Borgo Panigale;2;1045;BORGO PANIGALE
+2019;08;Borgo Centro;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;1084;BORGO PANIGALE
+2019;10;Rigosa;Borgo Panigale - Reno;Borgo Panigale;1;201;BORGO PANIGALE
+2019;10;Rigosa;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;190;BORGO PANIGALE
+2019;12;Caserme Rosse-Manifattura;Navile;Bolognina;1;480;CORTICELLA - DOZZA
+2019;13;CNR;Navile;Bolognina;1;27;BEVERARA
+2019;17;Piazza dell'Unita';Navile;Bolognina;2;1166;BOLOGNINA
+2019;18;San Savino;Navile;Corticella;1;2051;CORTICELLA - DOZZA
+2019;18;San Savino;Navile;Corticella;3 e oltre;1276;CORTICELLA - DOZZA
+2019;19;Savena Abbandonato;Navile;Corticella;1;247;CORTICELLA - DOZZA
+2019;19;Savena Abbandonato;Navile;Corticella;3 e oltre;125;CORTICELLA - DOZZA
+2019;21;Mulino del Gomito;Navile;Corticella;2;55;CORTICELLA - DOZZA
+2019;21;Mulino del Gomito;Navile;Corticella;3 e oltre;59;CORTICELLA - DOZZA
+2019;23;Laghetti del Rosario;Navile;Lame;2;45;BERTALIA - NOCE
+2019;24;La Noce;Navile;Lame;2;210;BERTALIA - NOCE
+2019;24;La Noce;Navile;Lame;3 e oltre;228;BERTALIA - NOCE
+2019;27;Lazzaretto;Navile;Lame;2;83;BERTALIA - NOCE
+2019;28;Beverara;Navile;Lame;2;1000;BEVERARA
+2019;28;Beverara;Navile;Lame;3 e oltre;919;BEVERARA
+2019;29;Marconi-2;Porto - Saragozza;Marconi;1;4611;MARCONI
+2019;29;Marconi-2;Porto - Saragozza;Marconi;2;1493;MARCONI
+2019;30;Marconi-1;Porto - Saragozza;Marconi;1;860;MALPIGHI
+2019;30;Marconi-1;Porto - Saragozza;Marconi;2;271;MALPIGHI
+2019;30;Marconi-1;Porto - Saragozza;Marconi;3 e oltre;244;MALPIGHI
+2019;31;Prati di Caprara-Ospedale Maggiore;Porto - Saragozza;Saffi;1;121;SAFFI
+2019;32;Scalo Ravone;Porto - Saragozza;Saffi;1;20;SAFFI
+2019;33;Zanardi;Porto - Saragozza;Saffi;3 e oltre;680;SAFFI
+2019;34;Velodromo;Porto - Saragozza;Saffi;1;1746;SAFFI
+2019;36;Villaggio della Barca;Borgo Panigale - Reno;Barca;2;799;BARCA
+2019;36;Villaggio della Barca;Borgo Panigale - Reno;Barca;3 e oltre;841;BARCA
+2019;37;Battindarno;Borgo Panigale - Reno;Barca;2;1332;BARCA
+2019;38;Canale di Reno;Borgo Panigale - Reno;Barca;2;925;BARCA
+2019;38;Canale di Reno;Borgo Panigale - Reno;Barca;3 e oltre;857;BARCA
+2019;39;Agucchi;Borgo Panigale - Reno;Santa Viola;1;1164;SANTA VIOLA
+2019;39;Agucchi;Borgo Panigale - Reno;Santa Viola;2;588;SANTA VIOLA
+2019;40;Emilia Ponente;Borgo Panigale - Reno;Santa Viola;2;1201;SANTA VIOLA
+2019;40;Emilia Ponente;Borgo Panigale - Reno;Santa Viola;3 e oltre;1203;SANTA VIOLA
+2019;41;Cadriano-Calamosco;San Donato - San Vitale;San Donato;1;171;SAN DONATO NUOVO
+2019;41;Cadriano-Calamosco;San Donato - San Vitale;San Donato;3 e oltre;104;SAN DONATO NUOVO
+2019;44;Pilastro;San Donato - San Vitale;San Donato;1;1248;SAN DONATO NUOVO
+2019;45;CAAB;San Donato - San Vitale;San Donato;3 e oltre;45;SAN DONATO NUOVO
+2019;46;Scalo Merci San Donato;San Donato - San Vitale;San Donato;2;6;SAN DONATO NUOVO
+2019;48;Michelino;San Donato - San Vitale;San Donato;1;1345;SAN DONATO VECCHIO
+2019;51;San Michele in Bosco;Santo Stefano;Colli;3 e oltre;459;OSSERVANZA - PADERNO
+2019;52;Paderno;Santo Stefano;Colli;1;302;OSSERVANZA - PADERNO
+2019;52;Paderno;Santo Stefano;Colli;3 e oltre;236;OSSERVANZA - PADERNO
+2019;53;Galvani-1;Santo Stefano;Galvani;2;201;GALVANI
+2019;54;Galvani-2;Santo Stefano;Galvani;2;1344;GALVANI
+2019;54;Galvani-2;Santo Stefano;Galvani;3 e oltre;1249;GALVANI
+2019;55;Giardini Margherita;Santo Stefano;Murri;3 e oltre;7;MURRI
+2019;57;Siepelunga;Santo Stefano;Murri;2;557;MURRI
+2019;58;Dagnini;Santo Stefano;Murri;2;1264;MURRI
+2019;58;Dagnini;Santo Stefano;Murri;3 e oltre;1135;MURRI
+2019;62;Cirenaica;San Donato - San Vitale;San Vitale;3 e oltre;1014;CIRENAICA - MASSARENTI - SCANDELLARA
+2019;63;Scandellara;San Donato - San Vitale;San Vitale;1;171;CIRENAICA - MASSARENTI - SCANDELLARA
+2019;64;Via Larga;San Donato - San Vitale;San Vitale;1;424;CIRENAICA - MASSARENTI - SCANDELLARA
+2019;64;Via Larga;San Donato - San Vitale;San Vitale;2;285;CIRENAICA - MASSARENTI - SCANDELLARA
+2019;64;Via Larga;San Donato - San Vitale;San Vitale;3 e oltre;327;CIRENAICA - MASSARENTI - SCANDELLARA
+2019;68;Guelfa;San Donato - San Vitale;San Vitale;1;2237;CIRENAICA - MASSARENTI - SCANDELLARA
+2019;68;Guelfa;San Donato - San Vitale;San Vitale;2;893;CIRENAICA - MASSARENTI - SCANDELLARA
+2019;69;Croce del Biacco;San Donato - San Vitale;San Vitale;2;536;CROCE DEL BIACCO - ROVERI
+2019;69;Croce del Biacco;San Donato - San Vitale;San Vitale;3 e oltre;606;CROCE DEL BIACCO - ROVERI
+2019;71;Stadio-Meloncello;Porto - Saragozza;Costa Saragozza;1;1127;SARAGOZZA - SAN LUCA
+2019;71;Stadio-Meloncello;Porto - Saragozza;Costa Saragozza;2;474;SARAGOZZA - SAN LUCA
+2019;72;XXI Aprile;Porto - Saragozza;Costa Saragozza;3 e oltre;1577;SARAGOZZA - SAN LUCA
+2019;73;San Giuseppe;Porto - Saragozza;Costa Saragozza;3 e oltre;808;SARAGOZZA - SAN LUCA
+2019;74;Ravone;Porto - Saragozza;Costa Saragozza;2;168;SARAGOZZA - SAN LUCA
+2019;75;Via del Genio;Porto - Saragozza;Costa Saragozza;2;1;SARAGOZZA - SAN LUCA
+2019;75;Via del Genio;Porto - Saragozza;Costa Saragozza;3 e oltre;3;SARAGOZZA - SAN LUCA
+2019;78;Malpighi-1;Porto - Saragozza;Malpighi;3 e oltre;232;MALPIGHI
+2019;80;Due Madonne;Savena;Mazzini;2;404;FOSSOLO - DUE MADONNE
+2019;80;Due Madonne;Savena;Mazzini;3 e oltre;386;FOSSOLO - DUE MADONNE
+2019;81;Lungo Savena;Savena;Mazzini;1;6;FOSSOLO - DUE MADONNE
+2019;81;Lungo Savena;Savena;Mazzini;2;5;FOSSOLO - DUE MADONNE
+2019;82;Pontevecchio;Savena;Mazzini;1;1676;PONTEVECCHIO - MAZZINI
+2019;82;Pontevecchio;Savena;Mazzini;3 e oltre;652;PONTEVECCHIO - MAZZINI
+2019;84;Cavedone;Savena;Mazzini;1;599;PONTEVECCHIO - MAZZINI
+2019;84;Cavedone;Savena;Mazzini;2;401;PONTEVECCHIO - MAZZINI
+2019;84;Cavedone;Savena;Mazzini;3 e oltre;441;PONTEVECCHIO - MAZZINI
+2019;88;Via Toscana;Savena;San Ruffillo;2;1266;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2019;89;Corelli;Savena;San Ruffillo;1;1887;LUNGO SAVENA
+2019;89;Corelli;Savena;San Ruffillo;2;1354;LUNGO SAVENA
+2019;90;Ponte Savena-La Bastia;Savena;San Ruffillo;3 e oltre;179;LUNGO SAVENA
+2019;99;non indicata;Senza fissa dimora;Senza fissa dimora;3 e oltre;4;
+2020;03;Bargellino;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;13;BIRRA - BARGELLINO - LAVINO
+2020;07;Ducati-Villaggio Ina;Borgo Panigale - Reno;Borgo Panigale;2;479;BORGO PANIGALE
+2020;07;Ducati-Villaggio Ina;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;398;BORGO PANIGALE
+2020;08;Borgo Centro;Borgo Panigale - Reno;Borgo Panigale;1;1978;BORGO PANIGALE
+2020;08;Borgo Centro;Borgo Panigale - Reno;Borgo Panigale;2;1052;BORGO PANIGALE
+2020;08;Borgo Centro;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;1053;BORGO PANIGALE
+2020;09;Triumvirato-Pietra;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;725;CASTELDEBOLE - PONTELUNGO
+2020;10;Rigosa;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;184;BORGO PANIGALE
+2020;13;CNR;Navile;Bolognina;1;27;BEVERARA
+2020;14;Arcoveggio;Navile;Bolognina;2;1322;BOLOGNINA
+2020;15;Via Ferrarese;Navile;Bolognina;3 e oltre;1450;BOLOGNINA
+2020;16;Ex Mercato Ortofrutticolo;Navile;Bolognina;1;259;BOLOGNINA
+2020;16;Ex Mercato Ortofrutticolo;Navile;Bolognina;2;88;BOLOGNINA
+2020;16;Ex Mercato Ortofrutticolo;Navile;Bolognina;3 e oltre;90;BOLOGNINA
+2020;18;San Savino;Navile;Corticella;2;1339;CORTICELLA - DOZZA
+2020;19;Savena Abbandonato;Navile;Corticella;1;257;CORTICELLA - DOZZA
+2020;22;La Dozza;Navile;Corticella;2;202;CORTICELLA - DOZZA
+2020;23;Laghetti del Rosario;Navile;Lame;3 e oltre;72;BERTALIA - NOCE
+2020;24;La Noce;Navile;Lame;2;208;BERTALIA - NOCE
+2020;24;La Noce;Navile;Lame;3 e oltre;221;BERTALIA - NOCE
+2020;25;Tiro A Segno;Navile;Lame;1;43;BERTALIA - NOCE
+2020;26;Pescarola;Navile;Lame;2;671;BERTALIA - NOCE
+2020;26;Pescarola;Navile;Lame;3 e oltre;577;BERTALIA - NOCE
+2020;27;Lazzaretto;Navile;Lame;1;179;BERTALIA - NOCE
+2020;27;Lazzaretto;Navile;Lame;3 e oltre;92;BERTALIA - NOCE
+2020;28;Beverara;Navile;Lame;1;1676;BEVERARA
+2020;28;Beverara;Navile;Lame;2;998;BEVERARA
+2020;29;Marconi-2;Porto - Saragozza;Marconi;1;4649;MARCONI
+2020;29;Marconi-2;Porto - Saragozza;Marconi;2;1518;MARCONI
+2020;30;Marconi-1;Porto - Saragozza;Marconi;1;886;MALPIGHI
+2020;30;Marconi-1;Porto - Saragozza;Marconi;2;280;MALPIGHI
+2020;31;Prati di Caprara-Ospedale Maggiore;Porto - Saragozza;Saffi;3 e oltre;68;SAFFI
+2020;32;Scalo Ravone;Porto - Saragozza;Saffi;2;16;SAFFI
+2020;33;Zanardi;Porto - Saragozza;Saffi;1;2200;SAFFI
+2020;33;Zanardi;Porto - Saragozza;Saffi;3 e oltre;685;SAFFI
+2020;34;Velodromo;Porto - Saragozza;Saffi;2;820;SAFFI
+2020;35;Via Vittorio Veneto;Porto - Saragozza;Saffi;2;675;SAFFI
+2020;36;Villaggio della Barca;Borgo Panigale - Reno;Barca;2;789;BARCA
+2020;36;Villaggio della Barca;Borgo Panigale - Reno;Barca;3 e oltre;844;BARCA
+2020;37;Battindarno;Borgo Panigale - Reno;Barca;2;1286;BARCA
+2020;40;Emilia Ponente;Borgo Panigale - Reno;Santa Viola;2;1206;SANTA VIOLA
+2020;41;Cadriano-Calamosco;San Donato - San Vitale;San Donato;2;102;SAN DONATO NUOVO
+2020;42;Fiera;San Donato - San Vitale;San Donato;1;8;SAN DONATO VECCHIO
+2020;43;San Donnino;San Donato - San Vitale;San Donato;1;740;SAN DONATO VECCHIO
+2020;44;Pilastro;San Donato - San Vitale;San Donato;3 e oltre;911;SAN DONATO NUOVO
+2020;45;CAAB;San Donato - San Vitale;San Donato;1;85;SAN DONATO NUOVO
+2020;45;CAAB;San Donato - San Vitale;San Donato;2;34;SAN DONATO NUOVO
+2020;46;Scalo Merci San Donato;San Donato - San Vitale;San Donato;3 e oltre;2;SAN DONATO NUOVO
+2020;47;Via del Lavoro;San Donato - San Vitale;San Donato;2;991;SAN DONATO VECCHIO
+2020;48;Michelino;San Donato - San Vitale;San Donato;2;598;SAN DONATO VECCHIO
+2020;49;Via Mondo;San Donato - San Vitale;San Donato;2;1060;SAN DONATO VECCHIO
+2020;49;Via Mondo;San Donato - San Vitale;San Donato;3 e oltre;857;SAN DONATO VECCHIO
+2020;50;Osservanza;Santo Stefano;Colli;1;1140;OSSERVANZA - PADERNO
+2020;52;Paderno;Santo Stefano;Colli;2;180;OSSERVANZA - PADERNO
+2020;52;Paderno;Santo Stefano;Colli;3 e oltre;230;OSSERVANZA - PADERNO
+2020;53;Galvani-1;Santo Stefano;Galvani;2;213;GALVANI
+2020;54;Galvani-2;Santo Stefano;Galvani;1;3948;GALVANI
+2020;56;Mezzofanti;Santo Stefano;Murri;1;1949;MURRI
+2020;56;Mezzofanti;Santo Stefano;Murri;3 e oltre;1024;MURRI
+2020;58;Dagnini;Santo Stefano;Murri;2;1263;MURRI
+2020;58;Dagnini;Santo Stefano;Murri;3 e oltre;1133;MURRI
+2020;59;Chiesanuova;Santo Stefano;Murri;1;2213;MURRI
+2020;59;Chiesanuova;Santo Stefano;Murri;3 e oltre;921;MURRI
+2020;62;Cirenaica;San Donato - San Vitale;San Vitale;1;3226;CIRENAICA - MASSARENTI - SCANDELLARA
+2020;62;Cirenaica;San Donato - San Vitale;San Vitale;2;1156;CIRENAICA - MASSARENTI - SCANDELLARA
+2020;64;Via Larga;San Donato - San Vitale;San Vitale;1;436;CIRENAICA - MASSARENTI - SCANDELLARA
+2020;64;Via Larga;San Donato - San Vitale;San Vitale;3 e oltre;327;CIRENAICA - MASSARENTI - SCANDELLARA
+2020;66;Ospedale Sant'Orsola;San Donato - San Vitale;San Vitale;1;38;CIRENAICA - MASSARENTI - SCANDELLARA
+2020;66;Ospedale Sant'Orsola;San Donato - San Vitale;San Vitale;2;2;CIRENAICA - MASSARENTI - SCANDELLARA
+2020;67;Mengoli;San Donato - San Vitale;San Vitale;2;1267;CIRENAICA - MASSARENTI - SCANDELLARA
+2020;67;Mengoli;San Donato - San Vitale;San Vitale;3 e oltre;1189;CIRENAICA - MASSARENTI - SCANDELLARA
+2020;68;Guelfa;San Donato - San Vitale;San Vitale;1;2216;CIRENAICA - MASSARENTI - SCANDELLARA
+2020;68;Guelfa;San Donato - San Vitale;San Vitale;2;875;CIRENAICA - MASSARENTI - SCANDELLARA
+2020;70;Stradelli Guelfi;San Donato - San Vitale;San Vitale;3 e oltre;43;CROCE DEL BIACCO - ROVERI
+2020;71;Stadio-Meloncello;Porto - Saragozza;Costa Saragozza;1;1128;SARAGOZZA - SAN LUCA
+2020;75;Via del Genio;Porto - Saragozza;Costa Saragozza;1;1;SARAGOZZA - SAN LUCA
+2020;75;Via del Genio;Porto - Saragozza;Costa Saragozza;2;1;SARAGOZZA - SAN LUCA
+2020;77;Malpighi-2;Porto - Saragozza;Malpighi;3 e oltre;1015;MALPIGHI
+2020;78;Malpighi-1;Porto - Saragozza;Malpighi;1;607;MALPIGHI
+2020;78;Malpighi-1;Porto - Saragozza;Malpighi;2;200;MALPIGHI
+2020;78;Malpighi-1;Porto - Saragozza;Malpighi;3 e oltre;223;MALPIGHI
+2020;79;Fossolo;Savena;Mazzini;1;1933;FOSSOLO - DUE MADONNE
+2020;80;Due Madonne;Savena;Mazzini;1;636;FOSSOLO - DUE MADONNE
+2020;80;Due Madonne;Savena;Mazzini;3 e oltre;397;FOSSOLO - DUE MADONNE
+2020;81;Lungo Savena;Savena;Mazzini;1;7;FOSSOLO - DUE MADONNE
+2020;81;Lungo Savena;Savena;Mazzini;2;5;FOSSOLO - DUE MADONNE
+2020;82;Pontevecchio;Savena;Mazzini;3 e oltre;647;PONTEVECCHIO - MAZZINI
+2020;85;Via Arno;Savena;Mazzini;1;1566;PONTEVECCHIO - MAZZINI
+2020;86;Ospedale Bellaria;Savena;Mazzini;3 e oltre;9;LUNGO SAVENA
+2020;87;Monte Donato;Savena;San Ruffillo;2;179;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2020;87;Monte Donato;Savena;San Ruffillo;3 e oltre;208;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2020;88;Via Toscana;Savena;San Ruffillo;3 e oltre;1252;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2020;89;Corelli;Savena;San Ruffillo;2;1306;LUNGO SAVENA
+2020;90;Ponte Savena-La Bastia;Savena;San Ruffillo;3 e oltre;174;LUNGO SAVENA
+2020;99;non indicata;Senza fissa dimora;Senza fissa dimora;1;478;
+2020;99;non indicata;Senza fissa dimora;Senza fissa dimora;3 e oltre;3;
+2021;01;Lavino di Mezzo;Borgo Panigale - Reno;Borgo Panigale;2;70;BIRRA - BARGELLINO - LAVINO
+2021;01;Lavino di Mezzo;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;64;BIRRA - BARGELLINO - LAVINO
+2021;02;Via del Vivaio;Borgo Panigale - Reno;Borgo Panigale;2;100;BIRRA - BARGELLINO - LAVINO
+2021;02;Via del Vivaio;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;140;BIRRA - BARGELLINO - LAVINO
+2021;03;Bargellino;Borgo Panigale - Reno;Borgo Panigale;2;13;BIRRA - BARGELLINO - LAVINO
+2021;05;La Birra;Borgo Panigale - Reno;Borgo Panigale;2;257;BIRRA - BARGELLINO - LAVINO
+2021;06;Lungo Reno;Borgo Panigale - Reno;Borgo Panigale;1;3;BIRRA - BARGELLINO - LAVINO
+2021;07;Ducati-Villaggio Ina;Borgo Panigale - Reno;Borgo Panigale;1;725;BORGO PANIGALE
+2021;08;Borgo Centro;Borgo Panigale - Reno;Borgo Panigale;1;1997;BORGO PANIGALE
+2021;08;Borgo Centro;Borgo Panigale - Reno;Borgo Panigale;2;1043;BORGO PANIGALE
+2021;08;Borgo Centro;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;1055;BORGO PANIGALE
+2021;10;Rigosa;Borgo Panigale - Reno;Borgo Panigale;2;115;BORGO PANIGALE
+2021;11;Casteldebole;Borgo Panigale - Reno;Borgo Panigale;1;1045;CASTELDEBOLE - PONTELUNGO
+2021;12;Caserme Rosse-Manifattura;Navile;Bolognina;2;260;CORTICELLA - DOZZA
+2021;13;CNR;Navile;Bolognina;1;28;BEVERARA
+2021;15;Via Ferrarese;Navile;Bolognina;2;1371;BOLOGNINA
+2021;15;Via Ferrarese;Navile;Bolognina;3 e oltre;1446;BOLOGNINA
+2021;16;Ex Mercato Ortofrutticolo;Navile;Bolognina;3 e oltre;94;BOLOGNINA
+2021;17;Piazza dell'Unita';Navile;Bolognina;2;1192;BOLOGNINA
+2021;17;Piazza dell'Unita';Navile;Bolognina;3 e oltre;1359;BOLOGNINA
+2021;18;San Savino;Navile;Corticella;3 e oltre;1267;CORTICELLA - DOZZA
+2021;19;Savena Abbandonato;Navile;Corticella;1;252;CORTICELLA - DOZZA
+2021;19;Savena Abbandonato;Navile;Corticella;2;105;CORTICELLA - DOZZA
+2021;19;Savena Abbandonato;Navile;Corticella;3 e oltre;128;CORTICELLA - DOZZA
+2021;20;Croce Coperta;Navile;Corticella;1;1399;CORTICELLA - DOZZA
+2021;21;Mulino del Gomito;Navile;Corticella;1;101;CORTICELLA - DOZZA
+2021;21;Mulino del Gomito;Navile;Corticella;2;53;CORTICELLA - DOZZA
+2021;21;Mulino del Gomito;Navile;Corticella;3 e oltre;61;CORTICELLA - DOZZA
+2021;22;La Dozza;Navile;Corticella;1;240;CORTICELLA - DOZZA
+2021;22;La Dozza;Navile;Corticella;2;200;CORTICELLA - DOZZA
+2021;22;La Dozza;Navile;Corticella;3 e oltre;223;CORTICELLA - DOZZA
+2021;26;Pescarola;Navile;Lame;1;976;BERTALIA - NOCE
+2021;28;Beverara;Navile;Lame;3 e oltre;885;BEVERARA
+2021;29;Marconi-2;Porto - Saragozza;Marconi;3 e oltre;1312;MARCONI
+2021;30;Marconi-1;Porto - Saragozza;Marconi;1;907;MALPIGHI
+2021;31;Prati di Caprara-Ospedale Maggiore;Porto - Saragozza;Saffi;1;123;SAFFI
+2021;31;Prati di Caprara-Ospedale Maggiore;Porto - Saragozza;Saffi;3 e oltre;67;SAFFI
+2021;32;Scalo Ravone;Porto - Saragozza;Saffi;1;22;SAFFI
+2021;32;Scalo Ravone;Porto - Saragozza;Saffi;3 e oltre;14;SAFFI
+2021;33;Zanardi;Porto - Saragozza;Saffi;1;2202;SAFFI
+2021;35;Via Vittorio Veneto;Porto - Saragozza;Saffi;2;677;SAFFI
+2021;37;Battindarno;Borgo Panigale - Reno;Barca;1;2061;BARCA
+2021;40;Emilia Ponente;Borgo Panigale - Reno;Santa Viola;2;1220;SANTA VIOLA
+2021;40;Emilia Ponente;Borgo Panigale - Reno;Santa Viola;3 e oltre;1194;SANTA VIOLA
+2021;41;Cadriano-Calamosco;San Donato - San Vitale;San Donato;1;160;SAN DONATO NUOVO
+2021;43;San Donnino;San Donato - San Vitale;San Donato;1;725;SAN DONATO VECCHIO
+2021;43;San Donnino;San Donato - San Vitale;San Donato;3 e oltre;379;SAN DONATO VECCHIO
+2021;44;Pilastro;San Donato - San Vitale;San Donato;1;1315;SAN DONATO NUOVO
+2021;44;Pilastro;San Donato - San Vitale;San Donato;3 e oltre;900;SAN DONATO NUOVO
+2021;46;Scalo Merci San Donato;San Donato - San Vitale;San Donato;1;5;SAN DONATO NUOVO
+2021;47;Via del Lavoro;San Donato - San Vitale;San Donato;1;2525;SAN DONATO VECCHIO
+2021;47;Via del Lavoro;San Donato - San Vitale;San Donato;2;984;SAN DONATO VECCHIO
+2021;48;Michelino;San Donato - San Vitale;San Donato;1;1377;SAN DONATO VECCHIO
+2021;48;Michelino;San Donato - San Vitale;San Donato;2;614;SAN DONATO VECCHIO
+2021;48;Michelino;San Donato - San Vitale;San Donato;3 e oltre;522;SAN DONATO VECCHIO
+2021;52;Paderno;Santo Stefano;Colli;3 e oltre;236;OSSERVANZA - PADERNO
+2021;53;Galvani-1;Santo Stefano;Galvani;3 e oltre;213;GALVANI
+2021;54;Galvani-2;Santo Stefano;Galvani;1;3992;GALVANI
+2021;55;Giardini Margherita;Santo Stefano;Murri;3 e oltre;7;MURRI
+2021;57;Siepelunga;Santo Stefano;Murri;2;572;MURRI
+2021;59;Chiesanuova;Santo Stefano;Murri;2;946;MURRI
+2021;60;Irnerio-1;Santo Stefano;Irnerio;1;1572;IRNERIO
+2021;60;Irnerio-1;Santo Stefano;Irnerio;2;418;IRNERIO
+2021;61;Irnerio-2;Santo Stefano;Irnerio;2;1208;IRNERIO
+2021;62;Cirenaica;San Donato - San Vitale;San Vitale;1;3223;CIRENAICA - MASSARENTI - SCANDELLARA
+2021;63;Scandellara;San Donato - San Vitale;San Vitale;2;79;CIRENAICA - MASSARENTI - SCANDELLARA
+2021;64;Via Larga;San Donato - San Vitale;San Vitale;2;291;CIRENAICA - MASSARENTI - SCANDELLARA
+2021;65;Roveri;San Donato - San Vitale;San Vitale;2;66;CROCE DEL BIACCO - ROVERI
+2021;66;Ospedale Sant'Orsola;San Donato - San Vitale;San Vitale;1;38;CIRENAICA - MASSARENTI - SCANDELLARA
+2021;66;Ospedale Sant'Orsola;San Donato - San Vitale;San Vitale;3 e oltre;1;CIRENAICA - MASSARENTI - SCANDELLARA
+2021;69;Croce del Biacco;San Donato - San Vitale;San Vitale;1;947;CROCE DEL BIACCO - ROVERI
+2021;70;Stradelli Guelfi;San Donato - San Vitale;San Vitale;2;35;CROCE DEL BIACCO - ROVERI
+2021;72;XXI Aprile;Porto - Saragozza;Costa Saragozza;1;3993;SARAGOZZA - SAN LUCA
+2021;75;Via del Genio;Porto - Saragozza;Costa Saragozza;1;1;SARAGOZZA - SAN LUCA
+2021;77;Malpighi-2;Porto - Saragozza;Malpighi;1;3966;MALPIGHI
+2021;77;Malpighi-2;Porto - Saragozza;Malpighi;2;1188;MALPIGHI
+2021;77;Malpighi-2;Porto - Saragozza;Malpighi;3 e oltre;1006;MALPIGHI
+2021;79;Fossolo;Savena;Mazzini;2;1342;FOSSOLO - DUE MADONNE
+2021;80;Due Madonne;Savena;Mazzini;1;636;FOSSOLO - DUE MADONNE
+2021;80;Due Madonne;Savena;Mazzini;2;407;FOSSOLO - DUE MADONNE
+2021;83;Bitone;Savena;Mazzini;1;3002;PONTEVECCHIO - MAZZINI
+2021;84;Cavedone;Savena;Mazzini;1;584;PONTEVECCHIO - MAZZINI
+2021;84;Cavedone;Savena;Mazzini;3 e oltre;457;PONTEVECCHIO - MAZZINI
+2021;86;Ospedale Bellaria;Savena;Mazzini;2;11;LUNGO SAVENA
+2021;86;Ospedale Bellaria;Savena;Mazzini;3 e oltre;10;LUNGO SAVENA
+2021;89;Corelli;Savena;San Ruffillo;3 e oltre;1157;LUNGO SAVENA
+2021;90;Ponte Savena-La Bastia;Savena;San Ruffillo;2;205;LUNGO SAVENA
+2022;01;Lavino di Mezzo;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;60;BIRRA - BARGELLINO - LAVINO
+2022;03;Bargellino;Borgo Panigale - Reno;Borgo Panigale;1;18;BIRRA - BARGELLINO - LAVINO
+2022;04;Aeroporto;Borgo Panigale - Reno;Borgo Panigale;2;59;BIRRA - BARGELLINO - LAVINO
+2022;05;La Birra;Borgo Panigale - Reno;Borgo Panigale;1;507;BIRRA - BARGELLINO - LAVINO
+2022;06;Lungo Reno;Borgo Panigale - Reno;Borgo Panigale;1;4;BIRRA - BARGELLINO - LAVINO
+2022;07;Ducati-Villaggio Ina;Borgo Panigale - Reno;Borgo Panigale;1;738;BORGO PANIGALE
+2022;07;Ducati-Villaggio Ina;Borgo Panigale - Reno;Borgo Panigale;2;462;BORGO PANIGALE
+2022;07;Ducati-Villaggio Ina;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;394;BORGO PANIGALE
+2022;08;Borgo Centro;Borgo Panigale - Reno;Borgo Panigale;1;2019;BORGO PANIGALE
+2022;08;Borgo Centro;Borgo Panigale - Reno;Borgo Panigale;2;1053;BORGO PANIGALE
+2022;09;Triumvirato-Pietra;Borgo Panigale - Reno;Borgo Panigale;1;1281;CASTELDEBOLE - PONTELUNGO
+2022;10;Rigosa;Borgo Panigale - Reno;Borgo Panigale;1;202;BORGO PANIGALE
+2022;11;Casteldebole;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;680;CASTELDEBOLE - PONTELUNGO
+2022;12;Caserme Rosse-Manifattura;Navile;Bolognina;1;469;CORTICELLA - DOZZA
+2022;14;Arcoveggio;Navile;Bolognina;1;3278;BOLOGNINA
+2022;14;Arcoveggio;Navile;Bolognina;2;1313;BOLOGNINA
+2022;15;Via Ferrarese;Navile;Bolognina;1;3588;BOLOGNINA
+2022;16;Ex Mercato Ortofrutticolo;Navile;Bolognina;2;117;BOLOGNINA
+2022;17;Piazza dell'Unita';Navile;Bolognina;2;1219;BOLOGNINA
+2022;18;San Savino;Navile;Corticella;3 e oltre;1243;CORTICELLA - DOZZA
+2022;19;Savena Abbandonato;Navile;Corticella;1;238;CORTICELLA - DOZZA
+2022;19;Savena Abbandonato;Navile;Corticella;2;109;CORTICELLA - DOZZA
+2022;19;Savena Abbandonato;Navile;Corticella;3 e oltre;125;CORTICELLA - DOZZA
+2022;20;Croce Coperta;Navile;Corticella;1;1403;CORTICELLA - DOZZA
+2022;20;Croce Coperta;Navile;Corticella;3 e oltre;818;CORTICELLA - DOZZA
+2022;21;Mulino del Gomito;Navile;Corticella;2;59;CORTICELLA - DOZZA
+2022;22;La Dozza;Navile;Corticella;2;197;CORTICELLA - DOZZA
+2022;23;Laghetti del Rosario;Navile;Lame;1;109;BERTALIA - NOCE
+2022;23;Laghetti del Rosario;Navile;Lame;3 e oltre;75;BERTALIA - NOCE
+2022;24;La Noce;Navile;Lame;1;294;BERTALIA - NOCE
+2022;24;La Noce;Navile;Lame;3 e oltre;211;BERTALIA - NOCE
+2022;26;Pescarola;Navile;Lame;2;654;BERTALIA - NOCE
+2022;27;Lazzaretto;Navile;Lame;3 e oltre;97;BERTALIA - NOCE
+2022;29;Marconi-2;Porto - Saragozza;Marconi;2;1544;MARCONI
+2022;30;Marconi-1;Porto - Saragozza;Marconi;3 e oltre;234;MALPIGHI
+2022;31;Prati di Caprara-Ospedale Maggiore;Porto - Saragozza;Saffi;1;128;SAFFI
+2022;31;Prati di Caprara-Ospedale Maggiore;Porto - Saragozza;Saffi;2;53;SAFFI
+2022;31;Prati di Caprara-Ospedale Maggiore;Porto - Saragozza;Saffi;3 e oltre;64;SAFFI
+2022;33;Zanardi;Porto - Saragozza;Saffi;2;799;SAFFI
+2022;34;Velodromo;Porto - Saragozza;Saffi;1;1790;SAFFI
+2022;34;Velodromo;Porto - Saragozza;Saffi;3 e oltre;694;SAFFI
+2022;37;Battindarno;Borgo Panigale - Reno;Barca;2;1263;BARCA
+2022;38;Canale di Reno;Borgo Panigale - Reno;Barca;3 e oltre;862;BARCA
+2022;41;Cadriano-Calamosco;San Donato - San Vitale;San Donato;3 e oltre;102;SAN DONATO NUOVO
+2022;42;Fiera;San Donato - San Vitale;San Donato;2;1;SAN DONATO VECCHIO
+2022;43;San Donnino;San Donato - San Vitale;San Donato;3 e oltre;377;SAN DONATO VECCHIO
+2022;45;CAAB;San Donato - San Vitale;San Donato;1;89;SAN DONATO NUOVO
+2022;46;Scalo Merci San Donato;San Donato - San Vitale;San Donato;2;5;SAN DONATO NUOVO
+2022;47;Via del Lavoro;San Donato - San Vitale;San Donato;1;2576;SAN DONATO VECCHIO
+2022;47;Via del Lavoro;San Donato - San Vitale;San Donato;2;955;SAN DONATO VECCHIO
+2022;47;Via del Lavoro;San Donato - San Vitale;San Donato;3 e oltre;931;SAN DONATO VECCHIO
+2022;48;Michelino;San Donato - San Vitale;San Donato;1;1409;SAN DONATO VECCHIO
+2022;48;Michelino;San Donato - San Vitale;San Donato;2;585;SAN DONATO VECCHIO
+2022;48;Michelino;San Donato - San Vitale;San Donato;3 e oltre;526;SAN DONATO VECCHIO
+2022;50;Osservanza;Santo Stefano;Colli;1;1157;OSSERVANZA - PADERNO
+2022;53;Galvani-1;Santo Stefano;Galvani;1;628;GALVANI
+2022;53;Galvani-1;Santo Stefano;Galvani;3 e oltre;207;GALVANI
+2022;54;Galvani-2;Santo Stefano;Galvani;2;1350;GALVANI
+2022;55;Giardini Margherita;Santo Stefano;Murri;3 e oltre;6;MURRI
+2022;56;Mezzofanti;Santo Stefano;Murri;3 e oltre;1021;MURRI
+2022;57;Siepelunga;Santo Stefano;Murri;3 e oltre;624;MURRI
+2022;58;Dagnini;Santo Stefano;Murri;1;2914;MURRI
+2022;60;Irnerio-1;Santo Stefano;Irnerio;1;1556;IRNERIO
+2022;60;Irnerio-1;Santo Stefano;Irnerio;2;428;IRNERIO
+2022;60;Irnerio-1;Santo Stefano;Irnerio;3 e oltre;363;IRNERIO
+2022;61;Irnerio-2;Santo Stefano;Irnerio;1;4289;IRNERIO
+2022;61;Irnerio-2;Santo Stefano;Irnerio;2;1199;IRNERIO
+2022;62;Cirenaica;San Donato - San Vitale;San Vitale;2;1137;CIRENAICA - MASSARENTI - SCANDELLARA
+2022;62;Cirenaica;San Donato - San Vitale;San Vitale;3 e oltre;974;CIRENAICA - MASSARENTI - SCANDELLARA
+2022;65;Roveri;San Donato - San Vitale;San Vitale;1;121;CROCE DEL BIACCO - ROVERI
+2022;65;Roveri;San Donato - San Vitale;San Vitale;3 e oltre;96;CROCE DEL BIACCO - ROVERI
+2022;69;Croce del Biacco;San Donato - San Vitale;San Vitale;2;545;CROCE DEL BIACCO - ROVERI
+2022;71;Stadio-Meloncello;Porto - Saragozza;Costa Saragozza;1;1134;SARAGOZZA - SAN LUCA
+2022;71;Stadio-Meloncello;Porto - Saragozza;Costa Saragozza;3 e oltre;444;SARAGOZZA - SAN LUCA
+2022;72;XXI Aprile;Porto - Saragozza;Costa Saragozza;1;4038;SARAGOZZA - SAN LUCA
+2022;75;Via del Genio;Porto - Saragozza;Costa Saragozza;1;3;SARAGOZZA - SAN LUCA
+2022;76;San Luca;Porto - Saragozza;Costa Saragozza;1;123;SARAGOZZA - SAN LUCA
+2022;78;Malpighi-1;Porto - Saragozza;Malpighi;1;653;MALPIGHI
+2022;79;Fossolo;Savena;Mazzini;2;1325;FOSSOLO - DUE MADONNE
+2022;80;Due Madonne;Savena;Mazzini;2;406;FOSSOLO - DUE MADONNE
+2022;82;Pontevecchio;Savena;Mazzini;1;1757;PONTEVECCHIO - MAZZINI
+2022;85;Via Arno;Savena;Mazzini;1;1626;PONTEVECCHIO - MAZZINI
+2022;85;Via Arno;Savena;Mazzini;3 e oltre;925;PONTEVECCHIO - MAZZINI
+2022;86;Ospedale Bellaria;Savena;Mazzini;1;12;LUNGO SAVENA
+2022;86;Ospedale Bellaria;Savena;Mazzini;3 e oltre;11;LUNGO SAVENA
+2022;88;Via Toscana;Savena;San Ruffillo;2;1267;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2022;89;Corelli;Savena;San Ruffillo;1;1935;LUNGO SAVENA
+2022;89;Corelli;Savena;San Ruffillo;2;1301;LUNGO SAVENA
+2022;89;Corelli;Savena;San Ruffillo;3 e oltre;1168;LUNGO SAVENA
+2022;99;non indicata;Senza fissa dimora;Senza fissa dimora;2;7;
+2023;01;Lavino di Mezzo;Borgo Panigale - Reno;Borgo Panigale;2;74;BIRRA - BARGELLINO - LAVINO
+2023;01;Lavino di Mezzo;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;60;BIRRA - BARGELLINO - LAVINO
+2023;02;Via del Vivaio;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;142;BIRRA - BARGELLINO - LAVINO
+2023;03;Bargellino;Borgo Panigale - Reno;Borgo Panigale;1;19;BIRRA - BARGELLINO - LAVINO
+2023;03;Bargellino;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;10;BIRRA - BARGELLINO - LAVINO
+2023;04;Aeroporto;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;62;BIRRA - BARGELLINO - LAVINO
+2023;05;La Birra;Borgo Panigale - Reno;Borgo Panigale;2;246;BIRRA - BARGELLINO - LAVINO
+2023;05;La Birra;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;259;BIRRA - BARGELLINO - LAVINO
+2023;07;Ducati-Villaggio Ina;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;398;BORGO PANIGALE
+2023;08;Borgo Centro;Borgo Panigale - Reno;Borgo Panigale;2;1043;BORGO PANIGALE
+2023;09;Triumvirato-Pietra;Borgo Panigale - Reno;Borgo Panigale;1;1319;CASTELDEBOLE - PONTELUNGO
+2023;10;Rigosa;Borgo Panigale - Reno;Borgo Panigale;2;123;BORGO PANIGALE
+2023;11;Casteldebole;Borgo Panigale - Reno;Borgo Panigale;2;742;CASTELDEBOLE - PONTELUNGO
+2023;14;Arcoveggio;Navile;Bolognina;1;3353;BOLOGNINA
+2023;14;Arcoveggio;Navile;Bolognina;2;1268;BOLOGNINA
+2023;17;Piazza dell'Unita';Navile;Bolognina;1;3359;BOLOGNINA
+2023;17;Piazza dell'Unita';Navile;Bolognina;2;1195;BOLOGNINA
+2023;17;Piazza dell'Unita';Navile;Bolognina;3 e oltre;1320;BOLOGNINA
+2023;18;San Savino;Navile;Corticella;3 e oltre;1252;CORTICELLA - DOZZA
+2023;19;Savena Abbandonato;Navile;Corticella;2;109;CORTICELLA - DOZZA
+2023;20;Croce Coperta;Navile;Corticella;2;843;CORTICELLA - DOZZA
+2023;21;Mulino del Gomito;Navile;Corticella;1;111;CORTICELLA - DOZZA
+2023;21;Mulino del Gomito;Navile;Corticella;2;61;CORTICELLA - DOZZA
+2023;24;La Noce;Navile;Lame;1;293;BERTALIA - NOCE
+2023;24;La Noce;Navile;Lame;3 e oltre;217;BERTALIA - NOCE
+2023;25;Tiro A Segno;Navile;Lame;1;46;BERTALIA - NOCE
+2023;25;Tiro A Segno;Navile;Lame;3 e oltre;16;BERTALIA - NOCE
+2023;29;Marconi-2;Porto - Saragozza;Marconi;2;1504;MARCONI
+2023;29;Marconi-2;Porto - Saragozza;Marconi;3 e oltre;1301;MARCONI
+2023;30;Marconi-1;Porto - Saragozza;Marconi;3 e oltre;225;MALPIGHI
+2023;32;Scalo Ravone;Porto - Saragozza;Saffi;3 e oltre;9;SAFFI
+2023;34;Velodromo;Porto - Saragozza;Saffi;2;757;SAFFI
+2023;35;Via Vittorio Veneto;Porto - Saragozza;Saffi;3 e oltre;576;SAFFI
+2023;36;Villaggio della Barca;Borgo Panigale - Reno;Barca;1;1155;BARCA
+2023;36;Villaggio della Barca;Borgo Panigale - Reno;Barca;2;729;BARCA
+2023;37;Battindarno;Borgo Panigale - Reno;Barca;2;1273;BARCA
+2023;38;Canale di Reno;Borgo Panigale - Reno;Barca;1;1492;BARCA
+2023;38;Canale di Reno;Borgo Panigale - Reno;Barca;3 e oltre;840;BARCA
+2023;39;Agucchi;Borgo Panigale - Reno;Santa Viola;1;1177;SANTA VIOLA
+2023;41;Cadriano-Calamosco;San Donato - San Vitale;San Donato;1;175;SAN DONATO NUOVO
+2023;41;Cadriano-Calamosco;San Donato - San Vitale;San Donato;2;108;SAN DONATO NUOVO
+2023;41;Cadriano-Calamosco;San Donato - San Vitale;San Donato;3 e oltre;102;SAN DONATO NUOVO
+2023;42;Fiera;San Donato - San Vitale;San Donato;1;6;SAN DONATO VECCHIO
+2023;43;San Donnino;San Donato - San Vitale;San Donato;3 e oltre;373;SAN DONATO VECCHIO
+2023;44;Pilastro;San Donato - San Vitale;San Donato;2;900;SAN DONATO NUOVO
+2023;44;Pilastro;San Donato - San Vitale;San Donato;3 e oltre;926;SAN DONATO NUOVO
+2023;45;CAAB;San Donato - San Vitale;San Donato;2;38;SAN DONATO NUOVO
+2023;47;Via del Lavoro;San Donato - San Vitale;San Donato;1;2589;SAN DONATO VECCHIO
+2023;47;Via del Lavoro;San Donato - San Vitale;San Donato;3 e oltre;950;SAN DONATO VECCHIO
+2023;48;Michelino;San Donato - San Vitale;San Donato;1;1440;SAN DONATO VECCHIO
+2023;48;Michelino;San Donato - San Vitale;San Donato;3 e oltre;525;SAN DONATO VECCHIO
+2023;49;Via Mondo;San Donato - San Vitale;San Donato;1;2814;SAN DONATO VECCHIO
+2023;49;Via Mondo;San Donato - San Vitale;San Donato;3 e oltre;827;SAN DONATO VECCHIO
+2023;51;San Michele in Bosco;Santo Stefano;Colli;3 e oltre;436;OSSERVANZA - PADERNO
+2023;52;Paderno;Santo Stefano;Colli;1;310;OSSERVANZA - PADERNO
+2023;53;Galvani-1;Santo Stefano;Galvani;2;221;GALVANI
+2023;56;Mezzofanti;Santo Stefano;Murri;2;880;MURRI
+2023;56;Mezzofanti;Santo Stefano;Murri;3 e oltre;1012;MURRI
+2023;57;Siepelunga;Santo Stefano;Murri;2;578;MURRI
+2023;59;Chiesanuova;Santo Stefano;Murri;1;2259;MURRI
+2023;59;Chiesanuova;Santo Stefano;Murri;2;937;MURRI
+2023;60;Irnerio-1;Santo Stefano;Irnerio;2;436;IRNERIO
+2023;61;Irnerio-2;Santo Stefano;Irnerio;3 e oltre;928;IRNERIO
+2023;62;Cirenaica;San Donato - San Vitale;San Vitale;2;1097;CIRENAICA - MASSARENTI - SCANDELLARA
+2023;63;Scandellara;San Donato - San Vitale;San Vitale;1;236;CIRENAICA - MASSARENTI - SCANDELLARA
+2023;65;Roveri;San Donato - San Vitale;San Vitale;2;68;CROCE DEL BIACCO - ROVERI
+2023;67;Mengoli;San Donato - San Vitale;San Vitale;2;1277;CIRENAICA - MASSARENTI - SCANDELLARA
+2023;68;Guelfa;San Donato - San Vitale;San Vitale;2;879;CIRENAICA - MASSARENTI - SCANDELLARA
+2023;69;Croce del Biacco;San Donato - San Vitale;San Vitale;2;539;CROCE DEL BIACCO - ROVERI
+2023;70;Stradelli Guelfi;San Donato - San Vitale;San Vitale;1;75;CROCE DEL BIACCO - ROVERI
+2023;70;Stradelli Guelfi;San Donato - San Vitale;San Vitale;3 e oltre;42;CROCE DEL BIACCO - ROVERI
+2023;71;Stadio-Meloncello;Porto - Saragozza;Costa Saragozza;2;458;SARAGOZZA - SAN LUCA
+2023;71;Stadio-Meloncello;Porto - Saragozza;Costa Saragozza;3 e oltre;440;SARAGOZZA - SAN LUCA
+2023;73;San Giuseppe;Porto - Saragozza;Costa Saragozza;2;779;SARAGOZZA - SAN LUCA
+2023;73;San Giuseppe;Porto - Saragozza;Costa Saragozza;3 e oltre;823;SARAGOZZA - SAN LUCA
+2023;74;Ravone;Porto - Saragozza;Costa Saragozza;1;287;SARAGOZZA - SAN LUCA
+2023;75;Via del Genio;Porto - Saragozza;Costa Saragozza;1;4;SARAGOZZA - SAN LUCA
+2023;77;Malpighi-2;Porto - Saragozza;Malpighi;2;1185;MALPIGHI
+2023;77;Malpighi-2;Porto - Saragozza;Malpighi;3 e oltre;966;MALPIGHI
+2023;78;Malpighi-1;Porto - Saragozza;Malpighi;2;208;MALPIGHI
+2023;79;Fossolo;Savena;Mazzini;2;1311;FOSSOLO - DUE MADONNE
+2023;80;Due Madonne;Savena;Mazzini;2;404;FOSSOLO - DUE MADONNE
+2023;80;Due Madonne;Savena;Mazzini;3 e oltre;413;FOSSOLO - DUE MADONNE
+2023;81;Lungo Savena;Savena;Mazzini;1;24;FOSSOLO - DUE MADONNE
+2023;84;Cavedone;Savena;Mazzini;2;351;PONTEVECCHIO - MAZZINI
+2023;86;Ospedale Bellaria;Savena;Mazzini;1;13;LUNGO SAVENA
+2023;86;Ospedale Bellaria;Savena;Mazzini;2;11;LUNGO SAVENA
+2023;87;Monte Donato;Savena;San Ruffillo;2;177;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2023;88;Via Toscana;Savena;San Ruffillo;2;1261;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2023;88;Via Toscana;Savena;San Ruffillo;3 e oltre;1236;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2023;89;Corelli;Savena;San Ruffillo;3 e oltre;1147;LUNGO SAVENA
+2023;90;Ponte Savena-La Bastia;Savena;San Ruffillo;2;203;LUNGO SAVENA
+2023;99;non indicata;Senza fissa dimora;Senza fissa dimora;2;12;
+2016;06;Lungo Reno;Borgo Panigale - Reno;Borgo Panigale;1;4;BIRRA - BARGELLINO - LAVINO
+2016;07;Ducati-Villaggio Ina;Borgo Panigale - Reno;Borgo Panigale;1;699;BORGO PANIGALE
+2016;07;Ducati-Villaggio Ina;Borgo Panigale - Reno;Borgo Panigale;2;493;BORGO PANIGALE
+2016;07;Ducati-Villaggio Ina;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;407;BORGO PANIGALE
+2016;10;Rigosa;Borgo Panigale - Reno;Borgo Panigale;1;195;BORGO PANIGALE
+2016;11;Casteldebole;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;690;CASTELDEBOLE - PONTELUNGO
+2016;12;Caserme Rosse-Manifattura;Navile;Bolognina;1;441;CORTICELLA - DOZZA
+2016;13;CNR;Navile;Bolognina;1;20;BEVERARA
+2016;13;CNR;Navile;Bolognina;2;11;BEVERARA
+2016;14;Arcoveggio;Navile;Bolognina;2;1373;BOLOGNINA
+2016;15;Via Ferrarese;Navile;Bolognina;3 e oltre;1393;BOLOGNINA
+2016;16;Ex Mercato Ortofrutticolo;Navile;Bolognina;1;182;BOLOGNINA
+2016;17;Piazza dell'Unita';Navile;Bolognina;1;3180;BOLOGNINA
+2016;17;Piazza dell'Unita';Navile;Bolognina;3 e oltre;1316;BOLOGNINA
+2016;18;San Savino;Navile;Corticella;3 e oltre;1290;CORTICELLA - DOZZA
+2016;19;Savena Abbandonato;Navile;Corticella;1;237;CORTICELLA - DOZZA
+2016;19;Savena Abbandonato;Navile;Corticella;2;84;CORTICELLA - DOZZA
+2016;20;Croce Coperta;Navile;Corticella;1;1343;CORTICELLA - DOZZA
+2016;23;Laghetti del Rosario;Navile;Lame;2;37;BERTALIA - NOCE
+2016;23;Laghetti del Rosario;Navile;Lame;3 e oltre;75;BERTALIA - NOCE
+2016;24;La Noce;Navile;Lame;1;267;BERTALIA - NOCE
+2016;26;Pescarola;Navile;Lame;3 e oltre;624;BERTALIA - NOCE
+2016;28;Beverara;Navile;Lame;1;1666;BEVERARA
+2016;28;Beverara;Navile;Lame;2;1036;BEVERARA
+2016;29;Marconi-2;Porto - Saragozza;Marconi;1;4360;MARCONI
+2016;29;Marconi-2;Porto - Saragozza;Marconi;3 e oltre;1332;MARCONI
+2016;30;Marconi-1;Porto - Saragozza;Marconi;1;838;MALPIGHI
+2016;31;Prati di Caprara-Ospedale Maggiore;Porto - Saragozza;Saffi;1;91;SAFFI
+2016;31;Prati di Caprara-Ospedale Maggiore;Porto - Saragozza;Saffi;2;53;SAFFI
+2016;31;Prati di Caprara-Ospedale Maggiore;Porto - Saragozza;Saffi;3 e oltre;68;SAFFI
+2016;32;Scalo Ravone;Porto - Saragozza;Saffi;1;22;SAFFI
+2016;32;Scalo Ravone;Porto - Saragozza;Saffi;2;22;SAFFI
+2016;33;Zanardi;Porto - Saragozza;Saffi;2;809;SAFFI
+2016;34;Velodromo;Porto - Saragozza;Saffi;3 e oltre;738;SAFFI
+2016;36;Villaggio della Barca;Borgo Panigale - Reno;Barca;1;1029;BARCA
+2016;37;Battindarno;Borgo Panigale - Reno;Barca;1;2021;BARCA
+2016;37;Battindarno;Borgo Panigale - Reno;Barca;2;1381;BARCA
+2016;38;Canale di Reno;Borgo Panigale - Reno;Barca;1;1440;BARCA
+2016;41;Cadriano-Calamosco;San Donato - San Vitale;San Donato;2;94;SAN DONATO NUOVO
+2016;42;Fiera;San Donato - San Vitale;San Donato;2;3;SAN DONATO VECCHIO
+2016;42;Fiera;San Donato - San Vitale;San Donato;3 e oltre;3;SAN DONATO VECCHIO
+2016;43;San Donnino;San Donato - San Vitale;San Donato;1;675;SAN DONATO VECCHIO
+2016;43;San Donnino;San Donato - San Vitale;San Donato;3 e oltre;361;SAN DONATO VECCHIO
+2016;44;Pilastro;San Donato - San Vitale;San Donato;2;1048;SAN DONATO NUOVO
+2016;44;Pilastro;San Donato - San Vitale;San Donato;3 e oltre;907;SAN DONATO NUOVO
+2016;46;Scalo Merci San Donato;San Donato - San Vitale;San Donato;1;6;SAN DONATO NUOVO
+2016;46;Scalo Merci San Donato;San Donato - San Vitale;San Donato;2;6;SAN DONATO NUOVO
+2016;48;Michelino;San Donato - San Vitale;San Donato;1;1399;SAN DONATO VECCHIO
+2016;48;Michelino;San Donato - San Vitale;San Donato;3 e oltre;558;SAN DONATO VECCHIO
+2016;49;Via Mondo;San Donato - San Vitale;San Donato;3 e oltre;903;SAN DONATO VECCHIO
+2016;50;Osservanza;Santo Stefano;Colli;1;1035;OSSERVANZA - PADERNO
+2016;50;Osservanza;Santo Stefano;Colli;2;514;OSSERVANZA - PADERNO
+2016;51;San Michele in Bosco;Santo Stefano;Colli;2;273;OSSERVANZA - PADERNO
+2016;51;San Michele in Bosco;Santo Stefano;Colli;3 e oltre;454;OSSERVANZA - PADERNO
+2016;52;Paderno;Santo Stefano;Colli;1;284;OSSERVANZA - PADERNO
+2016;52;Paderno;Santo Stefano;Colli;2;157;OSSERVANZA - PADERNO
+2016;53;Galvani-1;Santo Stefano;Galvani;2;196;GALVANI
+2016;54;Galvani-2;Santo Stefano;Galvani;1;3892;GALVANI
+2016;55;Giardini Margherita;Santo Stefano;Murri;1;7;MURRI
+2016;55;Giardini Margherita;Santo Stefano;Murri;2;5;MURRI
+2016;55;Giardini Margherita;Santo Stefano;Murri;3 e oltre;5;MURRI
+2016;56;Mezzofanti;Santo Stefano;Murri;1;1869;MURRI
+2016;56;Mezzofanti;Santo Stefano;Murri;2;901;MURRI
+2016;57;Siepelunga;Santo Stefano;Murri;2;532;MURRI
+2016;57;Siepelunga;Santo Stefano;Murri;3 e oltre;614;MURRI
+2016;59;Chiesanuova;Santo Stefano;Murri;1;2043;MURRI
+2016;60;Irnerio-1;Santo Stefano;Irnerio;1;1419;IRNERIO
+2016;61;Irnerio-2;Santo Stefano;Irnerio;2;1147;IRNERIO
+2016;61;Irnerio-2;Santo Stefano;Irnerio;3 e oltre;1030;IRNERIO
+2016;62;Cirenaica;San Donato - San Vitale;San Vitale;1;3012;CIRENAICA - MASSARENTI - SCANDELLARA
+2016;63;Scandellara;San Donato - San Vitale;San Vitale;1;152;CIRENAICA - MASSARENTI - SCANDELLARA
+2016;64;Via Larga;San Donato - San Vitale;San Vitale;2;276;CIRENAICA - MASSARENTI - SCANDELLARA
+2016;66;Ospedale Sant'Orsola;San Donato - San Vitale;San Vitale;2;2;CIRENAICA - MASSARENTI - SCANDELLARA
+2016;66;Ospedale Sant'Orsola;San Donato - San Vitale;San Vitale;3 e oltre;4;CIRENAICA - MASSARENTI - SCANDELLARA
+2016;67;Mengoli;San Donato - San Vitale;San Vitale;2;1304;CIRENAICA - MASSARENTI - SCANDELLARA
+2016;67;Mengoli;San Donato - San Vitale;San Vitale;3 e oltre;1210;CIRENAICA - MASSARENTI - SCANDELLARA
+2016;68;Guelfa;San Donato - San Vitale;San Vitale;1;2092;CIRENAICA - MASSARENTI - SCANDELLARA
+2016;69;Croce del Biacco;San Donato - San Vitale;San Vitale;3 e oltre;582;CROCE DEL BIACCO - ROVERI
+2016;71;Stadio-Meloncello;Porto - Saragozza;Costa Saragozza;3 e oltre;447;SARAGOZZA - SAN LUCA
+2016;72;XXI Aprile;Porto - Saragozza;Costa Saragozza;1;3902;SARAGOZZA - SAN LUCA
+2016;72;XXI Aprile;Porto - Saragozza;Costa Saragozza;2;1652;SARAGOZZA - SAN LUCA
+2016;74;Ravone;Porto - Saragozza;Costa Saragozza;2;170;SARAGOZZA - SAN LUCA
+2016;75;Via del Genio;Porto - Saragozza;Costa Saragozza;1;1;SARAGOZZA - SAN LUCA
+2016;76;San Luca;Porto - Saragozza;Costa Saragozza;2;68;SARAGOZZA - SAN LUCA
+2016;76;San Luca;Porto - Saragozza;Costa Saragozza;3 e oltre;100;SARAGOZZA - SAN LUCA
+2016;77;Malpighi-2;Porto - Saragozza;Malpighi;2;1118;MALPIGHI
+2016;78;Malpighi-1;Porto - Saragozza;Malpighi;2;216;MALPIGHI
+2016;79;Fossolo;Savena;Mazzini;1;1846;FOSSOLO - DUE MADONNE
+2016;80;Due Madonne;Savena;Mazzini;1;638;FOSSOLO - DUE MADONNE
+2016;81;Lungo Savena;Savena;Mazzini;2;5;FOSSOLO - DUE MADONNE
+2016;82;Pontevecchio;Savena;Mazzini;1;1596;PONTEVECCHIO - MAZZINI
+2016;82;Pontevecchio;Savena;Mazzini;2;696;PONTEVECCHIO - MAZZINI
+2016;82;Pontevecchio;Savena;Mazzini;3 e oltre;641;PONTEVECCHIO - MAZZINI
+2016;83;Bitone;Savena;Mazzini;1;2862;PONTEVECCHIO - MAZZINI
+2016;84;Cavedone;Savena;Mazzini;1;576;PONTEVECCHIO - MAZZINI
+2016;86;Ospedale Bellaria;Savena;Mazzini;1;7;LUNGO SAVENA
+2016;89;Corelli;Savena;San Ruffillo;2;1367;LUNGO SAVENA
+2016;90;Ponte Savena-La Bastia;Savena;San Ruffillo;3 e oltre;176;LUNGO SAVENA
+2016;99;non indicata;Senza fissa dimora;Senza fissa dimora;2;7;
+2017;02;Via del Vivaio;Borgo Panigale - Reno;Borgo Panigale;1;137;BIRRA - BARGELLINO - LAVINO
+2017;02;Via del Vivaio;Borgo Panigale - Reno;Borgo Panigale;2;92;BIRRA - BARGELLINO - LAVINO
+2017;04;Aeroporto;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;72;BIRRA - BARGELLINO - LAVINO
+2017;07;Ducati-Villaggio Ina;Borgo Panigale - Reno;Borgo Panigale;2;481;BORGO PANIGALE
+2017;09;Triumvirato-Pietra;Borgo Panigale - Reno;Borgo Panigale;2;712;CASTELDEBOLE - PONTELUNGO
+2017;10;Rigosa;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;177;BORGO PANIGALE
+2017;15;Via Ferrarese;Navile;Bolognina;1;3362;BOLOGNINA
+2017;16;Ex Mercato Ortofrutticolo;Navile;Bolognina;3 e oltre;78;BOLOGNINA
+2017;17;Piazza dell'Unita';Navile;Bolognina;3 e oltre;1325;BOLOGNINA
+2017;18;San Savino;Navile;Corticella;1;2011;CORTICELLA - DOZZA
+2017;19;Savena Abbandonato;Navile;Corticella;3 e oltre;123;CORTICELLA - DOZZA
+2017;20;Croce Coperta;Navile;Corticella;2;847;CORTICELLA - DOZZA
+2017;21;Mulino del Gomito;Navile;Corticella;3 e oltre;60;CORTICELLA - DOZZA
+2017;23;Laghetti del Rosario;Navile;Lame;1;106;BERTALIA - NOCE
+2017;23;Laghetti del Rosario;Navile;Lame;3 e oltre;69;BERTALIA - NOCE
+2017;24;La Noce;Navile;Lame;3 e oltre;231;BERTALIA - NOCE
+2017;25;Tiro A Segno;Navile;Lame;1;39;BERTALIA - NOCE
+2017;26;Pescarola;Navile;Lame;1;928;BERTALIA - NOCE
+2017;26;Pescarola;Navile;Lame;2;682;BERTALIA - NOCE
+2017;27;Lazzaretto;Navile;Lame;1;167;BERTALIA - NOCE
+2017;27;Lazzaretto;Navile;Lame;2;70;BERTALIA - NOCE
+2017;28;Beverara;Navile;Lame;2;1012;BEVERARA
+2017;29;Marconi-2;Porto - Saragozza;Marconi;1;4427;MARCONI
+2017;29;Marconi-2;Porto - Saragozza;Marconi;2;1533;MARCONI
+2017;30;Marconi-1;Porto - Saragozza;Marconi;1;845;MALPIGHI
+2017;31;Prati di Caprara-Ospedale Maggiore;Porto - Saragozza;Saffi;2;51;SAFFI
+2017;32;Scalo Ravone;Porto - Saragozza;Saffi;1;22;SAFFI
+2017;32;Scalo Ravone;Porto - Saragozza;Saffi;2;19;SAFFI
+2017;32;Scalo Ravone;Porto - Saragozza;Saffi;3 e oltre;11;SAFFI
+2017;33;Zanardi;Porto - Saragozza;Saffi;3 e oltre;702;SAFFI
+2017;34;Velodromo;Porto - Saragozza;Saffi;2;832;SAFFI
+2017;35;Via Vittorio Veneto;Porto - Saragozza;Saffi;1;1911;SAFFI
+2017;35;Via Vittorio Veneto;Porto - Saragozza;Saffi;3 e oltre;560;SAFFI
+2017;37;Battindarno;Borgo Panigale - Reno;Barca;1;2066;BARCA
+2017;37;Battindarno;Borgo Panigale - Reno;Barca;3 e oltre;1138;BARCA
+2017;39;Agucchi;Borgo Panigale - Reno;Santa Viola;2;578;SANTA VIOLA
+2017;40;Emilia Ponente;Borgo Panigale - Reno;Santa Viola;2;1173;SANTA VIOLA
+2017;43;San Donnino;San Donato - San Vitale;San Donato;2;431;SAN DONATO VECCHIO
+2017;45;CAAB;San Donato - San Vitale;San Donato;1;67;SAN DONATO NUOVO
+2017;46;Scalo Merci San Donato;San Donato - San Vitale;San Donato;3 e oltre;1;SAN DONATO NUOVO
+2017;47;Via del Lavoro;San Donato - San Vitale;San Donato;1;2331;SAN DONATO VECCHIO
+2017;47;Via del Lavoro;San Donato - San Vitale;San Donato;2;1033;SAN DONATO VECCHIO
+2017;47;Via del Lavoro;San Donato - San Vitale;San Donato;3 e oltre;877;SAN DONATO VECCHIO
+2017;48;Michelino;San Donato - San Vitale;San Donato;2;601;SAN DONATO VECCHIO
+2017;48;Michelino;San Donato - San Vitale;San Donato;3 e oltre;560;SAN DONATO VECCHIO
+2017;49;Via Mondo;San Donato - San Vitale;San Donato;1;2533;SAN DONATO VECCHIO
+2017;49;Via Mondo;San Donato - San Vitale;San Donato;3 e oltre;894;SAN DONATO VECCHIO
+2017;50;Osservanza;Santo Stefano;Colli;3 e oltre;590;OSSERVANZA - PADERNO
+2017;51;San Michele in Bosco;Santo Stefano;Colli;2;276;OSSERVANZA - PADERNO
+2017;51;San Michele in Bosco;Santo Stefano;Colli;3 e oltre;457;OSSERVANZA - PADERNO
+2017;52;Paderno;Santo Stefano;Colli;2;166;OSSERVANZA - PADERNO
+2017;52;Paderno;Santo Stefano;Colli;3 e oltre;238;OSSERVANZA - PADERNO
+2017;53;Galvani-1;Santo Stefano;Galvani;1;651;GALVANI
+2017;54;Galvani-2;Santo Stefano;Galvani;2;1307;GALVANI
+2017;54;Galvani-2;Santo Stefano;Galvani;3 e oltre;1248;GALVANI
+2017;55;Giardini Margherita;Santo Stefano;Murri;1;8;MURRI
+2017;56;Mezzofanti;Santo Stefano;Murri;2;889;MURRI
+2017;57;Siepelunga;Santo Stefano;Murri;1;1104;MURRI
+2017;57;Siepelunga;Santo Stefano;Murri;3 e oltre;616;MURRI
+2017;58;Dagnini;Santo Stefano;Murri;2;1300;MURRI
+2017;58;Dagnini;Santo Stefano;Murri;3 e oltre;1137;MURRI
+2017;60;Irnerio-1;Santo Stefano;Irnerio;3 e oltre;363;IRNERIO
+2017;61;Irnerio-2;Santo Stefano;Irnerio;2;1163;IRNERIO
+2017;64;Via Larga;San Donato - San Vitale;San Vitale;1;376;CIRENAICA - MASSARENTI - SCANDELLARA
+2017;64;Via Larga;San Donato - San Vitale;San Vitale;2;277;CIRENAICA - MASSARENTI - SCANDELLARA
+2017;64;Via Larga;San Donato - San Vitale;San Vitale;3 e oltre;333;CIRENAICA - MASSARENTI - SCANDELLARA
+2017;65;Roveri;San Donato - San Vitale;San Vitale;1;111;CROCE DEL BIACCO - ROVERI
+2017;65;Roveri;San Donato - San Vitale;San Vitale;3 e oltre;89;CROCE DEL BIACCO - ROVERI
+2017;67;Mengoli;San Donato - San Vitale;San Vitale;1;3154;CIRENAICA - MASSARENTI - SCANDELLARA
+2017;67;Mengoli;San Donato - San Vitale;San Vitale;2;1294;CIRENAICA - MASSARENTI - SCANDELLARA
+2017;67;Mengoli;San Donato - San Vitale;San Vitale;3 e oltre;1193;CIRENAICA - MASSARENTI - SCANDELLARA
+2017;68;Guelfa;San Donato - San Vitale;San Vitale;2;950;CIRENAICA - MASSARENTI - SCANDELLARA
+2017;70;Stradelli Guelfi;San Donato - San Vitale;San Vitale;1;56;CROCE DEL BIACCO - ROVERI
+2017;70;Stradelli Guelfi;San Donato - San Vitale;San Vitale;2;29;CROCE DEL BIACCO - ROVERI
+2017;71;Stadio-Meloncello;Porto - Saragozza;Costa Saragozza;1;1083;SARAGOZZA - SAN LUCA
+2017;71;Stadio-Meloncello;Porto - Saragozza;Costa Saragozza;3 e oltre;452;SARAGOZZA - SAN LUCA
+2017;73;San Giuseppe;Porto - Saragozza;Costa Saragozza;3 e oltre;821;SARAGOZZA - SAN LUCA
+2017;76;San Luca;Porto - Saragozza;Costa Saragozza;3 e oltre;94;SARAGOZZA - SAN LUCA
+2017;77;Malpighi-2;Porto - Saragozza;Malpighi;3 e oltre;1026;MALPIGHI
+2017;78;Malpighi-1;Porto - Saragozza;Malpighi;1;615;MALPIGHI
+2017;78;Malpighi-1;Porto - Saragozza;Malpighi;3 e oltre;219;MALPIGHI
+2017;80;Due Madonne;Savena;Mazzini;2;413;FOSSOLO - DUE MADONNE
+2017;83;Bitone;Savena;Mazzini;2;1566;PONTEVECCHIO - MAZZINI
+2017;85;Via Arno;Savena;Mazzini;2;1113;PONTEVECCHIO - MAZZINI
+2017;86;Ospedale Bellaria;Savena;Mazzini;2;10;LUNGO SAVENA
+2017;87;Monte Donato;Savena;San Ruffillo;3 e oltre;211;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2017;89;Corelli;Savena;San Ruffillo;3 e oltre;1221;LUNGO SAVENA
+2017;99;non indicata;Senza fissa dimora;Senza fissa dimora;1;400;
+2017;99;non indicata;Senza fissa dimora;Senza fissa dimora;3 e oltre;8;
+2018;01;Lavino di Mezzo;Borgo Panigale - Reno;Borgo Panigale;2;68;BIRRA - BARGELLINO - LAVINO
+2018;02;Via del Vivaio;Borgo Panigale - Reno;Borgo Panigale;1;137;BIRRA - BARGELLINO - LAVINO
+2018;02;Via del Vivaio;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;145;BIRRA - BARGELLINO - LAVINO
+2018;03;Bargellino;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;15;BIRRA - BARGELLINO - LAVINO
+2018;04;Aeroporto;Borgo Panigale - Reno;Borgo Panigale;1;103;BIRRA - BARGELLINO - LAVINO
+2018;05;La Birra;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;244;BIRRA - BARGELLINO - LAVINO
+2018;06;Lungo Reno;Borgo Panigale - Reno;Borgo Panigale;1;4;BIRRA - BARGELLINO - LAVINO
+2018;08;Borgo Centro;Borgo Panigale - Reno;Borgo Panigale;2;1026;BORGO PANIGALE
+2018;09;Triumvirato-Pietra;Borgo Panigale - Reno;Borgo Panigale;1;1228;CASTELDEBOLE - PONTELUNGO
+2018;11;Casteldebole;Borgo Panigale - Reno;Borgo Panigale;1;1048;CASTELDEBOLE - PONTELUNGO
+2018;13;CNR;Navile;Bolognina;1;27;BEVERARA
+2018;13;CNR;Navile;Bolognina;3 e oltre;13;BEVERARA
+2018;14;Arcoveggio;Navile;Bolognina;1;3203;BOLOGNINA
+2018;16;Ex Mercato Ortofrutticolo;Navile;Bolognina;2;86;BOLOGNINA
+2018;18;San Savino;Navile;Corticella;1;2028;CORTICELLA - DOZZA
+2018;19;Savena Abbandonato;Navile;Corticella;1;236;CORTICELLA - DOZZA
+2018;21;Mulino del Gomito;Navile;Corticella;3 e oltre;64;CORTICELLA - DOZZA
+2018;23;Laghetti del Rosario;Navile;Lame;1;102;BERTALIA - NOCE
+2018;23;Laghetti del Rosario;Navile;Lame;2;42;BERTALIA - NOCE
+2018;24;La Noce;Navile;Lame;1;271;BERTALIA - NOCE
+2018;24;La Noce;Navile;Lame;3 e oltre;228;BERTALIA - NOCE
+2018;25;Tiro A Segno;Navile;Lame;3 e oltre;18;BERTALIA - NOCE
+2018;26;Pescarola;Navile;Lame;1;936;BERTALIA - NOCE
+2018;29;Marconi-2;Porto - Saragozza;Marconi;2;1523;MARCONI
+2018;31;Prati di Caprara-Ospedale Maggiore;Porto - Saragozza;Saffi;1;118;SAFFI
+2018;31;Prati di Caprara-Ospedale Maggiore;Porto - Saragozza;Saffi;2;50;SAFFI
+2018;32;Scalo Ravone;Porto - Saragozza;Saffi;3 e oltre;12;SAFFI
+2018;33;Zanardi;Porto - Saragozza;Saffi;1;2070;SAFFI
+2018;33;Zanardi;Porto - Saragozza;Saffi;3 e oltre;708;SAFFI
+2018;34;Velodromo;Porto - Saragozza;Saffi;1;1703;SAFFI
+2018;34;Velodromo;Porto - Saragozza;Saffi;3 e oltre;727;SAFFI
+2018;35;Via Vittorio Veneto;Porto - Saragozza;Saffi;2;697;SAFFI
+2018;36;Villaggio della Barca;Borgo Panigale - Reno;Barca;2;817;BARCA
+2018;37;Battindarno;Borgo Panigale - Reno;Barca;3 e oltre;1133;BARCA
+2018;38;Canale di Reno;Borgo Panigale - Reno;Barca;1;1458;BARCA
+2018;38;Canale di Reno;Borgo Panigale - Reno;Barca;2;956;BARCA
+2018;39;Agucchi;Borgo Panigale - Reno;Santa Viola;3 e oltre;567;SANTA VIOLA
+2018;40;Emilia Ponente;Borgo Panigale - Reno;Santa Viola;1;2350;SANTA VIOLA
+2018;40;Emilia Ponente;Borgo Panigale - Reno;Santa Viola;3 e oltre;1208;SANTA VIOLA
+2018;42;Fiera;San Donato - San Vitale;San Donato;3 e oltre;3;SAN DONATO VECCHIO
+2018;43;San Donnino;San Donato - San Vitale;San Donato;1;703;SAN DONATO VECCHIO
+2018;43;San Donnino;San Donato - San Vitale;San Donato;3 e oltre;377;SAN DONATO VECCHIO
+2018;44;Pilastro;San Donato - San Vitale;San Donato;3 e oltre;921;SAN DONATO NUOVO
+2018;46;Scalo Merci San Donato;San Donato - San Vitale;San Donato;1;4;SAN DONATO NUOVO
+2018;47;Via del Lavoro;San Donato - San Vitale;San Donato;2;993;SAN DONATO VECCHIO
+2018;47;Via del Lavoro;San Donato - San Vitale;San Donato;3 e oltre;933;SAN DONATO VECCHIO
+2018;48;Michelino;San Donato - San Vitale;San Donato;1;1367;SAN DONATO VECCHIO
+2018;48;Michelino;San Donato - San Vitale;San Donato;3 e oltre;543;SAN DONATO VECCHIO
+2018;49;Via Mondo;San Donato - San Vitale;San Donato;1;2545;SAN DONATO VECCHIO
+2018;50;Osservanza;Santo Stefano;Colli;1;1079;OSSERVANZA - PADERNO
+2018;52;Paderno;Santo Stefano;Colli;3 e oltre;234;OSSERVANZA - PADERNO
+2018;53;Galvani-1;Santo Stefano;Galvani;1;654;GALVANI
+2018;53;Galvani-1;Santo Stefano;Galvani;2;193;GALVANI
+2018;54;Galvani-2;Santo Stefano;Galvani;1;3914;GALVANI
+2018;54;Galvani-2;Santo Stefano;Galvani;2;1336;GALVANI
+2018;54;Galvani-2;Santo Stefano;Galvani;3 e oltre;1265;GALVANI
+2018;55;Giardini Margherita;Santo Stefano;Murri;3 e oltre;6;MURRI
+2018;56;Mezzofanti;Santo Stefano;Murri;3 e oltre;981;MURRI
+2018;57;Siepelunga;Santo Stefano;Murri;3 e oltre;626;MURRI
+2018;61;Irnerio-2;Santo Stefano;Irnerio;1;4170;IRNERIO
+2018;61;Irnerio-2;Santo Stefano;Irnerio;3 e oltre;1016;IRNERIO
+2018;62;Cirenaica;San Donato - San Vitale;San Vitale;1;3112;CIRENAICA - MASSARENTI - SCANDELLARA
+2018;63;Scandellara;San Donato - San Vitale;San Vitale;1;171;CIRENAICA - MASSARENTI - SCANDELLARA
+2018;63;Scandellara;San Donato - San Vitale;San Vitale;3 e oltre;91;CIRENAICA - MASSARENTI - SCANDELLARA
+2018;64;Via Larga;San Donato - San Vitale;San Vitale;1;401;CIRENAICA - MASSARENTI - SCANDELLARA
+2018;64;Via Larga;San Donato - San Vitale;San Vitale;3 e oltre;334;CIRENAICA - MASSARENTI - SCANDELLARA
+2018;66;Ospedale Sant'Orsola;San Donato - San Vitale;San Vitale;1;33;CIRENAICA - MASSARENTI - SCANDELLARA
+2018;66;Ospedale Sant'Orsola;San Donato - San Vitale;San Vitale;2;1;CIRENAICA - MASSARENTI - SCANDELLARA
+2018;67;Mengoli;San Donato - San Vitale;San Vitale;1;3174;CIRENAICA - MASSARENTI - SCANDELLARA
+2018;67;Mengoli;San Donato - San Vitale;San Vitale;2;1302;CIRENAICA - MASSARENTI - SCANDELLARA
+2018;67;Mengoli;San Donato - San Vitale;San Vitale;3 e oltre;1195;CIRENAICA - MASSARENTI - SCANDELLARA
+2018;69;Croce del Biacco;San Donato - San Vitale;San Vitale;1;898;CROCE DEL BIACCO - ROVERI
+2018;71;Stadio-Meloncello;Porto - Saragozza;Costa Saragozza;1;1076;SARAGOZZA - SAN LUCA
+2018;71;Stadio-Meloncello;Porto - Saragozza;Costa Saragozza;2;479;SARAGOZZA - SAN LUCA
+2018;71;Stadio-Meloncello;Porto - Saragozza;Costa Saragozza;3 e oltre;447;SARAGOZZA - SAN LUCA
+2018;72;XXI Aprile;Porto - Saragozza;Costa Saragozza;1;3970;SARAGOZZA - SAN LUCA
+2018;72;XXI Aprile;Porto - Saragozza;Costa Saragozza;3 e oltre;1579;SARAGOZZA - SAN LUCA
+2018;73;San Giuseppe;Porto - Saragozza;Costa Saragozza;1;1694;SARAGOZZA - SAN LUCA
+2018;73;San Giuseppe;Porto - Saragozza;Costa Saragozza;3 e oltre;829;SARAGOZZA - SAN LUCA
+2018;74;Ravone;Porto - Saragozza;Costa Saragozza;2;170;SARAGOZZA - SAN LUCA
+2018;74;Ravone;Porto - Saragozza;Costa Saragozza;3 e oltre;167;SARAGOZZA - SAN LUCA
+2018;75;Via del Genio;Porto - Saragozza;Costa Saragozza;1;1;SARAGOZZA - SAN LUCA
+2018;75;Via del Genio;Porto - Saragozza;Costa Saragozza;2;1;SARAGOZZA - SAN LUCA
+2018;76;San Luca;Porto - Saragozza;Costa Saragozza;2;77;SARAGOZZA - SAN LUCA
+2018;78;Malpighi-1;Porto - Saragozza;Malpighi;3 e oltre;222;MALPIGHI
+2018;79;Fossolo;Savena;Mazzini;2;1365;FOSSOLO - DUE MADONNE
+2018;80;Due Madonne;Savena;Mazzini;2;403;FOSSOLO - DUE MADONNE
+2018;80;Due Madonne;Savena;Mazzini;3 e oltre;385;FOSSOLO - DUE MADONNE
+2018;81;Lungo Savena;Savena;Mazzini;2;4;FOSSOLO - DUE MADONNE
+2018;82;Pontevecchio;Savena;Mazzini;1;1632;PONTEVECCHIO - MAZZINI
+2018;82;Pontevecchio;Savena;Mazzini;3 e oltre;653;PONTEVECCHIO - MAZZINI
+2018;83;Bitone;Savena;Mazzini;1;2914;PONTEVECCHIO - MAZZINI
+2018;83;Bitone;Savena;Mazzini;2;1558;PONTEVECCHIO - MAZZINI
+2018;83;Bitone;Savena;Mazzini;3 e oltre;1365;PONTEVECCHIO - MAZZINI
+2018;84;Cavedone;Savena;Mazzini;1;569;PONTEVECCHIO - MAZZINI
+2018;84;Cavedone;Savena;Mazzini;3 e oltre;440;PONTEVECCHIO - MAZZINI
+2018;85;Via Arno;Savena;Mazzini;2;1113;PONTEVECCHIO - MAZZINI
+2018;86;Ospedale Bellaria;Savena;Mazzini;1;9;LUNGO SAVENA
+2018;87;Monte Donato;Savena;San Ruffillo;1;320;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2018;89;Corelli;Savena;San Ruffillo;1;1833;LUNGO SAVENA
+2018;99;non indicata;Senza fissa dimora;Senza fissa dimora;2;12;
+2018;99;non indicata;Senza fissa dimora;Senza fissa dimora;3 e oltre;5;
+2019;02;Via del Vivaio;Borgo Panigale - Reno;Borgo Panigale;2;97;BIRRA - BARGELLINO - LAVINO
+2019;03;Bargellino;Borgo Panigale - Reno;Borgo Panigale;1;18;BIRRA - BARGELLINO - LAVINO
+2019;04;Aeroporto;Borgo Panigale - Reno;Borgo Panigale;1;109;BIRRA - BARGELLINO - LAVINO
+2019;05;La Birra;Borgo Panigale - Reno;Borgo Panigale;1;490;BIRRA - BARGELLINO - LAVINO
+2019;05;La Birra;Borgo Panigale - Reno;Borgo Panigale;2;269;BIRRA - BARGELLINO - LAVINO
+2019;07;Ducati-Villaggio Ina;Borgo Panigale - Reno;Borgo Panigale;1;710;BORGO PANIGALE
+2019;07;Ducati-Villaggio Ina;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;410;BORGO PANIGALE
+2019;08;Borgo Centro;Borgo Panigale - Reno;Borgo Panigale;1;1960;BORGO PANIGALE
+2019;09;Triumvirato-Pietra;Borgo Panigale - Reno;Borgo Panigale;1;1219;CASTELDEBOLE - PONTELUNGO
+2019;09;Triumvirato-Pietra;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;725;CASTELDEBOLE - PONTELUNGO
+2019;10;Rigosa;Borgo Panigale - Reno;Borgo Panigale;2;111;BORGO PANIGALE
+2019;12;Caserme Rosse-Manifattura;Navile;Bolognina;2;270;CORTICELLA - DOZZA
+2019;13;CNR;Navile;Bolognina;3 e oltre;12;BEVERARA
+2019;14;Arcoveggio;Navile;Bolognina;1;3227;BOLOGNINA
+2019;14;Arcoveggio;Navile;Bolognina;2;1339;BOLOGNINA
+2019;14;Arcoveggio;Navile;Bolognina;3 e oltre;1316;BOLOGNINA
+2019;17;Piazza dell'Unita';Navile;Bolognina;1;3184;BOLOGNINA
+2019;17;Piazza dell'Unita';Navile;Bolognina;3 e oltre;1393;BOLOGNINA
+2019;18;San Savino;Navile;Corticella;2;1309;CORTICELLA - DOZZA
+2019;25;Tiro A Segno;Navile;Lame;3 e oltre;20;BERTALIA - NOCE
+2019;27;Lazzaretto;Navile;Lame;3 e oltre;89;BERTALIA - NOCE
+2019;29;Marconi-2;Porto - Saragozza;Marconi;3 e oltre;1341;MARCONI
+2019;31;Prati di Caprara-Ospedale Maggiore;Porto - Saragozza;Saffi;3 e oltre;66;SAFFI
+2019;33;Zanardi;Porto - Saragozza;Saffi;1;2143;SAFFI
+2019;34;Velodromo;Porto - Saragozza;Saffi;2;821;SAFFI
+2019;35;Via Vittorio Veneto;Porto - Saragozza;Saffi;1;1892;SAFFI
+2019;35;Via Vittorio Veneto;Porto - Saragozza;Saffi;2;689;SAFFI
+2019;35;Via Vittorio Veneto;Porto - Saragozza;Saffi;3 e oltre;563;SAFFI
+2019;36;Villaggio della Barca;Borgo Panigale - Reno;Barca;1;1079;BARCA
+2019;37;Battindarno;Borgo Panigale - Reno;Barca;1;2054;BARCA
+2019;38;Canale di Reno;Borgo Panigale - Reno;Barca;1;1457;BARCA
+2019;39;Agucchi;Borgo Panigale - Reno;Santa Viola;3 e oltre;554;SANTA VIOLA
+2019;40;Emilia Ponente;Borgo Panigale - Reno;Santa Viola;1;2391;SANTA VIOLA
+2019;42;Fiera;San Donato - San Vitale;San Donato;2;1;SAN DONATO VECCHIO
+2019;42;Fiera;San Donato - San Vitale;San Donato;3 e oltre;3;SAN DONATO VECCHIO
+2019;43;San Donnino;San Donato - San Vitale;San Donato;2;423;SAN DONATO VECCHIO
+2019;46;Scalo Merci San Donato;San Donato - San Vitale;San Donato;1;5;SAN DONATO NUOVO
+2019;46;Scalo Merci San Donato;San Donato - San Vitale;San Donato;3 e oltre;2;SAN DONATO NUOVO
+2019;47;Via del Lavoro;San Donato - San Vitale;San Donato;3 e oltre;909;SAN DONATO VECCHIO
+2019;50;Osservanza;Santo Stefano;Colli;1;1117;OSSERVANZA - PADERNO
+2019;50;Osservanza;Santo Stefano;Colli;2;536;OSSERVANZA - PADERNO
+2019;51;San Michele in Bosco;Santo Stefano;Colli;2;266;OSSERVANZA - PADERNO
+2019;53;Galvani-1;Santo Stefano;Galvani;1;646;GALVANI
+2019;54;Galvani-2;Santo Stefano;Galvani;1;3950;GALVANI
+2019;56;Mezzofanti;Santo Stefano;Murri;1;1954;MURRI
+2019;56;Mezzofanti;Santo Stefano;Murri;2;887;MURRI
+2019;56;Mezzofanti;Santo Stefano;Murri;3 e oltre;1000;MURRI
+2019;57;Siepelunga;Santo Stefano;Murri;1;1106;MURRI
+2019;57;Siepelunga;Santo Stefano;Murri;3 e oltre;633;MURRI
+2019;58;Dagnini;Santo Stefano;Murri;1;2849;MURRI
+2019;60;Irnerio-1;Santo Stefano;Irnerio;1;1501;IRNERIO
+2019;60;Irnerio-1;Santo Stefano;Irnerio;2;409;IRNERIO
+2019;61;Irnerio-2;Santo Stefano;Irnerio;1;4271;IRNERIO
+2019;61;Irnerio-2;Santo Stefano;Irnerio;3 e oltre;1001;IRNERIO
+2019;63;Scandellara;San Donato - San Vitale;San Vitale;2;78;CIRENAICA - MASSARENTI - SCANDELLARA
+2019;65;Roveri;San Donato - San Vitale;San Vitale;2;63;CROCE DEL BIACCO - ROVERI
+2019;66;Ospedale Sant'Orsola;San Donato - San Vitale;San Vitale;1;37;CIRENAICA - MASSARENTI - SCANDELLARA
+2019;66;Ospedale Sant'Orsola;San Donato - San Vitale;San Vitale;2;1;CIRENAICA - MASSARENTI - SCANDELLARA
+2019;69;Croce del Biacco;San Donato - San Vitale;San Vitale;1;925;CROCE DEL BIACCO - ROVERI
+2019;70;Stradelli Guelfi;San Donato - San Vitale;San Vitale;1;66;CROCE DEL BIACCO - ROVERI
+2019;70;Stradelli Guelfi;San Donato - San Vitale;San Vitale;2;30;CROCE DEL BIACCO - ROVERI
+2019;71;Stadio-Meloncello;Porto - Saragozza;Costa Saragozza;3 e oltre;441;SARAGOZZA - SAN LUCA
+2019;72;XXI Aprile;Porto - Saragozza;Costa Saragozza;1;4032;SARAGOZZA - SAN LUCA
+2019;73;San Giuseppe;Porto - Saragozza;Costa Saragozza;2;828;SARAGOZZA - SAN LUCA
+2019;74;Ravone;Porto - Saragozza;Costa Saragozza;1;257;SARAGOZZA - SAN LUCA
+2019;75;Via del Genio;Porto - Saragozza;Costa Saragozza;1;1;SARAGOZZA - SAN LUCA
+2019;76;San Luca;Porto - Saragozza;Costa Saragozza;2;72;SARAGOZZA - SAN LUCA
+2019;77;Malpighi-2;Porto - Saragozza;Malpighi;2;1155;MALPIGHI
+2019;77;Malpighi-2;Porto - Saragozza;Malpighi;3 e oltre;996;MALPIGHI
+2019;78;Malpighi-1;Porto - Saragozza;Malpighi;2;197;MALPIGHI
+2019;79;Fossolo;Savena;Mazzini;3 e oltre;1145;FOSSOLO - DUE MADONNE
+2019;80;Due Madonne;Savena;Mazzini;1;661;FOSSOLO - DUE MADONNE
+2019;82;Pontevecchio;Savena;Mazzini;2;679;PONTEVECCHIO - MAZZINI
+2019;83;Bitone;Savena;Mazzini;1;2976;PONTEVECCHIO - MAZZINI
+2019;83;Bitone;Savena;Mazzini;2;1541;PONTEVECCHIO - MAZZINI
+2019;83;Bitone;Savena;Mazzini;3 e oltre;1375;PONTEVECCHIO - MAZZINI
+2019;85;Via Arno;Savena;Mazzini;2;1119;PONTEVECCHIO - MAZZINI
+2019;85;Via Arno;Savena;Mazzini;3 e oltre;936;PONTEVECCHIO - MAZZINI
+2019;86;Ospedale Bellaria;Savena;Mazzini;1;11;LUNGO SAVENA
+2019;86;Ospedale Bellaria;Savena;Mazzini;2;11;LUNGO SAVENA
+2019;86;Ospedale Bellaria;Savena;Mazzini;3 e oltre;10;LUNGO SAVENA
+2019;87;Monte Donato;Savena;San Ruffillo;1;327;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2019;88;Via Toscana;Savena;San Ruffillo;1;2703;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2019;90;Ponte Savena-La Bastia;Savena;San Ruffillo;1;271;LUNGO SAVENA
+2020;01;Lavino di Mezzo;Borgo Panigale - Reno;Borgo Panigale;1;113;BIRRA - BARGELLINO - LAVINO
+2020;01;Lavino di Mezzo;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;61;BIRRA - BARGELLINO - LAVINO
+2020;03;Bargellino;Borgo Panigale - Reno;Borgo Panigale;2;10;BIRRA - BARGELLINO - LAVINO
+2020;04;Aeroporto;Borgo Panigale - Reno;Borgo Panigale;2;65;BIRRA - BARGELLINO - LAVINO
+2020;06;Lungo Reno;Borgo Panigale - Reno;Borgo Panigale;1;3;BIRRA - BARGELLINO - LAVINO
+2020;06;Lungo Reno;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;2;BIRRA - BARGELLINO - LAVINO
+2020;07;Ducati-Villaggio Ina;Borgo Panigale - Reno;Borgo Panigale;1;701;BORGO PANIGALE
+2020;09;Triumvirato-Pietra;Borgo Panigale - Reno;Borgo Panigale;1;1236;CASTELDEBOLE - PONTELUNGO
+2020;11;Casteldebole;Borgo Panigale - Reno;Borgo Panigale;1;1059;CASTELDEBOLE - PONTELUNGO
+2020;11;Casteldebole;Borgo Panigale - Reno;Borgo Panigale;2;767;CASTELDEBOLE - PONTELUNGO
+2020;12;Caserme Rosse-Manifattura;Navile;Bolognina;1;465;CORTICELLA - DOZZA
+2020;12;Caserme Rosse-Manifattura;Navile;Bolognina;2;270;CORTICELLA - DOZZA
+2020;13;CNR;Navile;Bolognina;2;7;BEVERARA
+2020;14;Arcoveggio;Navile;Bolognina;3 e oltre;1282;BOLOGNINA
+2020;15;Via Ferrarese;Navile;Bolognina;2;1357;BOLOGNINA
+2020;17;Piazza dell'Unita';Navile;Bolognina;3 e oltre;1356;BOLOGNINA
+2020;18;San Savino;Navile;Corticella;1;2014;CORTICELLA - DOZZA
+2020;19;Savena Abbandonato;Navile;Corticella;3 e oltre;133;CORTICELLA - DOZZA
+2020;21;Mulino del Gomito;Navile;Corticella;1;93;CORTICELLA - DOZZA
+2020;21;Mulino del Gomito;Navile;Corticella;2;56;CORTICELLA - DOZZA
+2020;21;Mulino del Gomito;Navile;Corticella;3 e oltre;63;CORTICELLA - DOZZA
+2020;22;La Dozza;Navile;Corticella;1;224;CORTICELLA - DOZZA
+2020;23;Laghetti del Rosario;Navile;Lame;2;47;BERTALIA - NOCE
+2020;24;La Noce;Navile;Lame;1;285;BERTALIA - NOCE
+2020;25;Tiro A Segno;Navile;Lame;2;19;BERTALIA - NOCE
+2020;26;Pescarola;Navile;Lame;1;955;BERTALIA - NOCE
+2020;27;Lazzaretto;Navile;Lame;2;78;BERTALIA - NOCE
+2020;28;Beverara;Navile;Lame;3 e oltre;901;BEVERARA
+2020;31;Prati di Caprara-Ospedale Maggiore;Porto - Saragozza;Saffi;1;119;SAFFI
+2020;31;Prati di Caprara-Ospedale Maggiore;Porto - Saragozza;Saffi;2;51;SAFFI
+2020;32;Scalo Ravone;Porto - Saragozza;Saffi;1;20;SAFFI
+2020;32;Scalo Ravone;Porto - Saragozza;Saffi;3 e oltre;13;SAFFI
+2020;35;Via Vittorio Veneto;Porto - Saragozza;Saffi;1;1934;SAFFI
+2020;38;Canale di Reno;Borgo Panigale - Reno;Barca;3 e oltre;859;BARCA
+2020;39;Agucchi;Borgo Panigale - Reno;Santa Viola;1;1191;SANTA VIOLA
+2020;39;Agucchi;Borgo Panigale - Reno;Santa Viola;3 e oltre;560;SANTA VIOLA
+2020;40;Emilia Ponente;Borgo Panigale - Reno;Santa Viola;3 e oltre;1205;SANTA VIOLA
+2020;41;Cadriano-Calamosco;San Donato - San Vitale;San Donato;1;171;SAN DONATO NUOVO
+2020;41;Cadriano-Calamosco;San Donato - San Vitale;San Donato;3 e oltre;103;SAN DONATO NUOVO
+2020;42;Fiera;San Donato - San Vitale;San Donato;2;1;SAN DONATO VECCHIO
+2020;42;Fiera;San Donato - San Vitale;San Donato;3 e oltre;3;SAN DONATO VECCHIO
+2020;44;Pilastro;San Donato - San Vitale;San Donato;1;1268;SAN DONATO NUOVO
+2020;45;CAAB;San Donato - San Vitale;San Donato;3 e oltre;45;SAN DONATO NUOVO
+2020;47;Via del Lavoro;San Donato - San Vitale;San Donato;1;2471;SAN DONATO VECCHIO
+2020;51;San Michele in Bosco;Santo Stefano;Colli;3 e oltre;470;OSSERVANZA - PADERNO
+2020;52;Paderno;Santo Stefano;Colli;1;290;OSSERVANZA - PADERNO
+2020;53;Galvani-1;Santo Stefano;Galvani;3 e oltre;217;GALVANI
+2020;54;Galvani-2;Santo Stefano;Galvani;2;1311;GALVANI
+2020;54;Galvani-2;Santo Stefano;Galvani;3 e oltre;1247;GALVANI
+2020;55;Giardini Margherita;Santo Stefano;Murri;1;4;MURRI
+2020;56;Mezzofanti;Santo Stefano;Murri;2;858;MURRI
+2020;57;Siepelunga;Santo Stefano;Murri;2;554;MURRI
+2020;57;Siepelunga;Santo Stefano;Murri;3 e oltre;640;MURRI
+2020;60;Irnerio-1;Santo Stefano;Irnerio;1;1519;IRNERIO
+2020;60;Irnerio-1;Santo Stefano;Irnerio;2;406;IRNERIO
+2020;61;Irnerio-2;Santo Stefano;Irnerio;1;4255;IRNERIO
+2020;61;Irnerio-2;Santo Stefano;Irnerio;2;1192;IRNERIO
+2020;62;Cirenaica;San Donato - San Vitale;San Vitale;3 e oltre;1030;CIRENAICA - MASSARENTI - SCANDELLARA
+2020;63;Scandellara;San Donato - San Vitale;San Vitale;1;178;CIRENAICA - MASSARENTI - SCANDELLARA
+2020;63;Scandellara;San Donato - San Vitale;San Vitale;3 e oltre;92;CIRENAICA - MASSARENTI - SCANDELLARA
+2020;64;Via Larga;San Donato - San Vitale;San Vitale;2;288;CIRENAICA - MASSARENTI - SCANDELLARA
+2020;65;Roveri;San Donato - San Vitale;San Vitale;1;116;CROCE DEL BIACCO - ROVERI
+2020;65;Roveri;San Donato - San Vitale;San Vitale;3 e oltre;90;CROCE DEL BIACCO - ROVERI
+2020;66;Ospedale Sant'Orsola;San Donato - San Vitale;San Vitale;3 e oltre;1;CIRENAICA - MASSARENTI - SCANDELLARA
+2020;68;Guelfa;San Donato - San Vitale;San Vitale;3 e oltre;850;CIRENAICA - MASSARENTI - SCANDELLARA
+2020;69;Croce del Biacco;San Donato - San Vitale;San Vitale;2;529;CROCE DEL BIACCO - ROVERI
+2020;69;Croce del Biacco;San Donato - San Vitale;San Vitale;3 e oltre;594;CROCE DEL BIACCO - ROVERI
+2020;70;Stradelli Guelfi;San Donato - San Vitale;San Vitale;1;69;CROCE DEL BIACCO - ROVERI
+2020;71;Stadio-Meloncello;Porto - Saragozza;Costa Saragozza;2;464;SARAGOZZA - SAN LUCA
+2020;72;XXI Aprile;Porto - Saragozza;Costa Saragozza;2;1622;SARAGOZZA - SAN LUCA
+2020;72;XXI Aprile;Porto - Saragozza;Costa Saragozza;3 e oltre;1571;SARAGOZZA - SAN LUCA
+2020;73;San Giuseppe;Porto - Saragozza;Costa Saragozza;2;827;SARAGOZZA - SAN LUCA
+2020;74;Ravone;Porto - Saragozza;Costa Saragozza;1;251;SARAGOZZA - SAN LUCA
+2020;74;Ravone;Porto - Saragozza;Costa Saragozza;3 e oltre;171;SARAGOZZA - SAN LUCA
+2020;75;Via del Genio;Porto - Saragozza;Costa Saragozza;3 e oltre;3;SARAGOZZA - SAN LUCA
+2020;76;San Luca;Porto - Saragozza;Costa Saragozza;2;81;SARAGOZZA - SAN LUCA
+2020;76;San Luca;Porto - Saragozza;Costa Saragozza;3 e oltre;101;SARAGOZZA - SAN LUCA
+2020;77;Malpighi-2;Porto - Saragozza;Malpighi;1;3944;MALPIGHI
+2020;77;Malpighi-2;Porto - Saragozza;Malpighi;2;1178;MALPIGHI
+2020;79;Fossolo;Savena;Mazzini;2;1346;FOSSOLO - DUE MADONNE
+2020;79;Fossolo;Savena;Mazzini;3 e oltre;1130;FOSSOLO - DUE MADONNE
+2020;81;Lungo Savena;Savena;Mazzini;3 e oltre;19;FOSSOLO - DUE MADONNE
+2020;82;Pontevecchio;Savena;Mazzini;1;1709;PONTEVECCHIO - MAZZINI
+2020;83;Bitone;Savena;Mazzini;2;1507;PONTEVECCHIO - MAZZINI
+2020;84;Cavedone;Savena;Mazzini;1;597;PONTEVECCHIO - MAZZINI
+2020;84;Cavedone;Savena;Mazzini;2;381;PONTEVECCHIO - MAZZINI
+2020;86;Ospedale Bellaria;Savena;Mazzini;1;13;LUNGO SAVENA
+2020;86;Ospedale Bellaria;Savena;Mazzini;2;11;LUNGO SAVENA
+2020;87;Monte Donato;Savena;San Ruffillo;1;346;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2020;88;Via Toscana;Savena;San Ruffillo;1;2679;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2020;88;Via Toscana;Savena;San Ruffillo;2;1270;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2020;89;Corelli;Savena;San Ruffillo;3 e oltre;1173;LUNGO SAVENA
+2020;90;Ponte Savena-La Bastia;Savena;San Ruffillo;1;267;LUNGO SAVENA
+2020;99;non indicata;Senza fissa dimora;Senza fissa dimora;2;11;
+2021;02;Via del Vivaio;Borgo Panigale - Reno;Borgo Panigale;1;174;BIRRA - BARGELLINO - LAVINO
+2021;03;Bargellino;Borgo Panigale - Reno;Borgo Panigale;1;19;BIRRA - BARGELLINO - LAVINO
+2021;03;Bargellino;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;11;BIRRA - BARGELLINO - LAVINO
+2021;06;Lungo Reno;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;1;BIRRA - BARGELLINO - LAVINO
+2021;07;Ducati-Villaggio Ina;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;402;BORGO PANIGALE
+2021;09;Triumvirato-Pietra;Borgo Panigale - Reno;Borgo Panigale;1;1241;CASTELDEBOLE - PONTELUNGO
+2021;09;Triumvirato-Pietra;Borgo Panigale - Reno;Borgo Panigale;2;739;CASTELDEBOLE - PONTELUNGO
+2021;09;Triumvirato-Pietra;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;710;CASTELDEBOLE - PONTELUNGO
+2021;11;Casteldebole;Borgo Panigale - Reno;Borgo Panigale;2;773;CASTELDEBOLE - PONTELUNGO
+2021;13;CNR;Navile;Bolognina;3 e oltre;8;BEVERARA
+2021;14;Arcoveggio;Navile;Bolognina;2;1320;BOLOGNINA
+2021;15;Via Ferrarese;Navile;Bolognina;1;3551;BOLOGNINA
+2021;16;Ex Mercato Ortofrutticolo;Navile;Bolognina;1;280;BOLOGNINA
+2021;23;Laghetti del Rosario;Navile;Lame;1;104;BERTALIA - NOCE
+2021;23;Laghetti del Rosario;Navile;Lame;3 e oltre;77;BERTALIA - NOCE
+2021;24;La Noce;Navile;Lame;1;288;BERTALIA - NOCE
+2021;24;La Noce;Navile;Lame;2;216;BERTALIA - NOCE
+2021;25;Tiro A Segno;Navile;Lame;1;40;BERTALIA - NOCE
+2021;25;Tiro A Segno;Navile;Lame;3 e oltre;18;BERTALIA - NOCE
+2021;26;Pescarola;Navile;Lame;2;652;BERTALIA - NOCE
+2021;26;Pescarola;Navile;Lame;3 e oltre;584;BERTALIA - NOCE
+2021;27;Lazzaretto;Navile;Lame;2;92;BERTALIA - NOCE
+2021;27;Lazzaretto;Navile;Lame;3 e oltre;93;BERTALIA - NOCE
+2021;28;Beverara;Navile;Lame;1;1703;BEVERARA
+2021;28;Beverara;Navile;Lame;2;988;BEVERARA
+2021;29;Marconi-2;Porto - Saragozza;Marconi;2;1531;MARCONI
+2021;30;Marconi-1;Porto - Saragozza;Marconi;2;288;MALPIGHI
+2021;30;Marconi-1;Porto - Saragozza;Marconi;3 e oltre;237;MALPIGHI
+2021;31;Prati di Caprara-Ospedale Maggiore;Porto - Saragozza;Saffi;2;49;SAFFI
+2021;32;Scalo Ravone;Porto - Saragozza;Saffi;2;13;SAFFI
+2021;33;Zanardi;Porto - Saragozza;Saffi;2;787;SAFFI
+2021;34;Velodromo;Porto - Saragozza;Saffi;3 e oltre;715;SAFFI
+2021;35;Via Vittorio Veneto;Porto - Saragozza;Saffi;3 e oltre;577;SAFFI
+2021;36;Villaggio della Barca;Borgo Panigale - Reno;Barca;2;762;BARCA
+2021;36;Villaggio della Barca;Borgo Panigale - Reno;Barca;3 e oltre;872;BARCA
+2021;37;Battindarno;Borgo Panigale - Reno;Barca;3 e oltre;1158;BARCA
+2021;38;Canale di Reno;Borgo Panigale - Reno;Barca;1;1490;BARCA
+2021;38;Canale di Reno;Borgo Panigale - Reno;Barca;3 e oltre;869;BARCA
+2021;39;Agucchi;Borgo Panigale - Reno;Santa Viola;2;579;SANTA VIOLA
+2021;39;Agucchi;Borgo Panigale - Reno;Santa Viola;3 e oltre;565;SANTA VIOLA
+2021;41;Cadriano-Calamosco;San Donato - San Vitale;San Donato;2;104;SAN DONATO NUOVO
+2021;42;Fiera;San Donato - San Vitale;San Donato;1;8;SAN DONATO VECCHIO
+2021;42;Fiera;San Donato - San Vitale;San Donato;3 e oltre;2;SAN DONATO VECCHIO
+2021;43;San Donnino;San Donato - San Vitale;San Donato;2;411;SAN DONATO VECCHIO
+2021;44;Pilastro;San Donato - San Vitale;San Donato;2;932;SAN DONATO NUOVO
+2021;45;CAAB;San Donato - San Vitale;San Donato;1;80;SAN DONATO NUOVO
+2021;46;Scalo Merci San Donato;San Donato - San Vitale;San Donato;3 e oltre;4;SAN DONATO NUOVO
+2021;47;Via del Lavoro;San Donato - San Vitale;San Donato;3 e oltre;933;SAN DONATO VECCHIO
+2021;49;Via Mondo;San Donato - San Vitale;San Donato;1;2689;SAN DONATO VECCHIO
+2021;49;Via Mondo;San Donato - San Vitale;San Donato;2;1074;SAN DONATO VECCHIO
+2021;51;San Michele in Bosco;Santo Stefano;Colli;1;560;OSSERVANZA - PADERNO
+2021;51;San Michele in Bosco;Santo Stefano;Colli;2;293;OSSERVANZA - PADERNO
+2021;51;San Michele in Bosco;Santo Stefano;Colli;3 e oltre;485;OSSERVANZA - PADERNO
+2021;52;Paderno;Santo Stefano;Colli;1;299;OSSERVANZA - PADERNO
+2021;53;Galvani-1;Santo Stefano;Galvani;2;226;GALVANI
+2021;54;Galvani-2;Santo Stefano;Galvani;2;1366;GALVANI
+2021;56;Mezzofanti;Santo Stefano;Murri;2;876;MURRI
+2021;57;Siepelunga;Santo Stefano;Murri;3 e oltre;625;MURRI
+2021;58;Dagnini;Santo Stefano;Murri;1;2877;MURRI
+2021;58;Dagnini;Santo Stefano;Murri;2;1225;MURRI
+2021;58;Dagnini;Santo Stefano;Murri;3 e oltre;1161;MURRI
+2021;60;Irnerio-1;Santo Stefano;Irnerio;3 e oltre;370;IRNERIO
+2021;62;Cirenaica;San Donato - San Vitale;San Vitale;3 e oltre;1016;CIRENAICA - MASSARENTI - SCANDELLARA
+2021;64;Via Larga;San Donato - San Vitale;San Vitale;3 e oltre;324;CIRENAICA - MASSARENTI - SCANDELLARA
+2021;65;Roveri;San Donato - San Vitale;San Vitale;1;126;CROCE DEL BIACCO - ROVERI
+2021;67;Mengoli;San Donato - San Vitale;San Vitale;1;3226;CIRENAICA - MASSARENTI - SCANDELLARA
+2021;67;Mengoli;San Donato - San Vitale;San Vitale;2;1279;CIRENAICA - MASSARENTI - SCANDELLARA
+2021;68;Guelfa;San Donato - San Vitale;San Vitale;2;857;CIRENAICA - MASSARENTI - SCANDELLARA
+2021;68;Guelfa;San Donato - San Vitale;San Vitale;3 e oltre;860;CIRENAICA - MASSARENTI - SCANDELLARA
+2021;69;Croce del Biacco;San Donato - San Vitale;San Vitale;2;521;CROCE DEL BIACCO - ROVERI
+2021;70;Stradelli Guelfi;San Donato - San Vitale;San Vitale;1;74;CROCE DEL BIACCO - ROVERI
+2021;70;Stradelli Guelfi;San Donato - San Vitale;San Vitale;3 e oltre;44;CROCE DEL BIACCO - ROVERI
+2021;71;Stadio-Meloncello;Porto - Saragozza;Costa Saragozza;1;1120;SARAGOZZA - SAN LUCA
+2021;71;Stadio-Meloncello;Porto - Saragozza;Costa Saragozza;2;459;SARAGOZZA - SAN LUCA
+2021;71;Stadio-Meloncello;Porto - Saragozza;Costa Saragozza;3 e oltre;446;SARAGOZZA - SAN LUCA
+2021;72;XXI Aprile;Porto - Saragozza;Costa Saragozza;2;1611;SARAGOZZA - SAN LUCA
+2021;73;San Giuseppe;Porto - Saragozza;Costa Saragozza;1;1746;SARAGOZZA - SAN LUCA
+2021;73;San Giuseppe;Porto - Saragozza;Costa Saragozza;3 e oltre;812;SARAGOZZA - SAN LUCA
+2021;75;Via del Genio;Porto - Saragozza;Costa Saragozza;2;2;SARAGOZZA - SAN LUCA
+2021;76;San Luca;Porto - Saragozza;Costa Saragozza;2;80;SARAGOZZA - SAN LUCA
+2021;76;San Luca;Porto - Saragozza;Costa Saragozza;3 e oltre;105;SARAGOZZA - SAN LUCA
+2021;78;Malpighi-1;Porto - Saragozza;Malpighi;2;197;MALPIGHI
+2021;79;Fossolo;Savena;Mazzini;1;2006;FOSSOLO - DUE MADONNE
+2021;80;Due Madonne;Savena;Mazzini;3 e oltre;396;FOSSOLO - DUE MADONNE
+2021;81;Lungo Savena;Savena;Mazzini;1;11;FOSSOLO - DUE MADONNE
+2021;81;Lungo Savena;Savena;Mazzini;2;5;FOSSOLO - DUE MADONNE
+2021;83;Bitone;Savena;Mazzini;2;1468;PONTEVECCHIO - MAZZINI
+2021;83;Bitone;Savena;Mazzini;3 e oltre;1397;PONTEVECCHIO - MAZZINI
+2021;84;Cavedone;Savena;Mazzini;2;382;PONTEVECCHIO - MAZZINI
+2021;85;Via Arno;Savena;Mazzini;1;1585;PONTEVECCHIO - MAZZINI
+2021;86;Ospedale Bellaria;Savena;Mazzini;1;12;LUNGO SAVENA
+2021;87;Monte Donato;Savena;San Ruffillo;1;339;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2021;87;Monte Donato;Savena;San Ruffillo;3 e oltre;214;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2021;88;Via Toscana;Savena;San Ruffillo;1;2666;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2021;88;Via Toscana;Savena;San Ruffillo;3 e oltre;1259;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2021;89;Corelli;Savena;San Ruffillo;1;1913;LUNGO SAVENA
+2021;90;Ponte Savena-La Bastia;Savena;San Ruffillo;1;277;LUNGO SAVENA
+2021;99;non indicata;Senza fissa dimora;Senza fissa dimora;3 e oltre;5;
+2022;01;Lavino di Mezzo;Borgo Panigale - Reno;Borgo Panigale;2;72;BIRRA - BARGELLINO - LAVINO
+2022;02;Via del Vivaio;Borgo Panigale - Reno;Borgo Panigale;2;101;BIRRA - BARGELLINO - LAVINO
+2022;03;Bargellino;Borgo Panigale - Reno;Borgo Panigale;2;11;BIRRA - BARGELLINO - LAVINO
+2022;03;Bargellino;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;11;BIRRA - BARGELLINO - LAVINO
+2022;04;Aeroporto;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;60;BIRRA - BARGELLINO - LAVINO
+2022;06;Lungo Reno;Borgo Panigale - Reno;Borgo Panigale;2;2;BIRRA - BARGELLINO - LAVINO
+2022;06;Lungo Reno;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;1;BIRRA - BARGELLINO - LAVINO
+2022;09;Triumvirato-Pietra;Borgo Panigale - Reno;Borgo Panigale;2;711;CASTELDEBOLE - PONTELUNGO
+2022;10;Rigosa;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;187;BORGO PANIGALE
+2022;12;Caserme Rosse-Manifattura;Navile;Bolognina;3 e oltre;303;CORTICELLA - DOZZA
+2022;13;CNR;Navile;Bolognina;1;29;BEVERARA
+2022;13;CNR;Navile;Bolognina;2;9;BEVERARA
+2022;13;CNR;Navile;Bolognina;3 e oltre;6;BEVERARA
+2022;14;Arcoveggio;Navile;Bolognina;3 e oltre;1227;BOLOGNINA
+2022;15;Via Ferrarese;Navile;Bolognina;2;1382;BOLOGNINA
+2022;16;Ex Mercato Ortofrutticolo;Navile;Bolognina;1;332;BOLOGNINA
+2022;17;Piazza dell'Unita';Navile;Bolognina;3 e oltre;1337;BOLOGNINA
+2022;22;La Dozza;Navile;Corticella;3 e oltre;220;CORTICELLA - DOZZA
+2022;26;Pescarola;Navile;Lame;1;984;BERTALIA - NOCE
+2022;26;Pescarola;Navile;Lame;3 e oltre;569;BERTALIA - NOCE
+2022;28;Beverara;Navile;Lame;1;1727;BEVERARA
+2022;28;Beverara;Navile;Lame;2;1005;BEVERARA
+2022;28;Beverara;Navile;Lame;3 e oltre;883;BEVERARA
+2022;29;Marconi-2;Porto - Saragozza;Marconi;1;4723;MARCONI
+2022;29;Marconi-2;Porto - Saragozza;Marconi;3 e oltre;1291;MARCONI
+2022;30;Marconi-1;Porto - Saragozza;Marconi;1;942;MALPIGHI
+2022;30;Marconi-1;Porto - Saragozza;Marconi;2;280;MALPIGHI
+2022;32;Scalo Ravone;Porto - Saragozza;Saffi;2;11;SAFFI
+2022;33;Zanardi;Porto - Saragozza;Saffi;1;2228;SAFFI
+2022;35;Via Vittorio Veneto;Porto - Saragozza;Saffi;1;1941;SAFFI
+2022;35;Via Vittorio Veneto;Porto - Saragozza;Saffi;2;665;SAFFI
+2022;36;Villaggio della Barca;Borgo Panigale - Reno;Barca;1;1131;BARCA
+2022;36;Villaggio della Barca;Borgo Panigale - Reno;Barca;3 e oltre;873;BARCA
+2022;38;Canale di Reno;Borgo Panigale - Reno;Barca;1;1483;BARCA
+2022;39;Agucchi;Borgo Panigale - Reno;Santa Viola;3 e oltre;562;SANTA VIOLA
+2022;44;Pilastro;San Donato - San Vitale;San Donato;1;1326;SAN DONATO NUOVO
+2022;44;Pilastro;San Donato - San Vitale;San Donato;2;908;SAN DONATO NUOVO
+2022;45;CAAB;San Donato - San Vitale;San Donato;2;37;SAN DONATO NUOVO
+2022;45;CAAB;San Donato - San Vitale;San Donato;3 e oltre;50;SAN DONATO NUOVO
+2022;46;Scalo Merci San Donato;San Donato - San Vitale;San Donato;3 e oltre;3;SAN DONATO NUOVO
+2022;49;Via Mondo;San Donato - San Vitale;San Donato;1;2730;SAN DONATO VECCHIO
+2022;49;Via Mondo;San Donato - San Vitale;San Donato;3 e oltre;818;SAN DONATO VECCHIO
+2022;50;Osservanza;Santo Stefano;Colli;3 e oltre;570;OSSERVANZA - PADERNO
+2022;52;Paderno;Santo Stefano;Colli;1;302;OSSERVANZA - PADERNO
+2022;52;Paderno;Santo Stefano;Colli;2;179;OSSERVANZA - PADERNO
+2022;53;Galvani-1;Santo Stefano;Galvani;2;218;GALVANI
+2022;54;Galvani-2;Santo Stefano;Galvani;1;3969;GALVANI
+2022;54;Galvani-2;Santo Stefano;Galvani;3 e oltre;1204;GALVANI
+2022;56;Mezzofanti;Santo Stefano;Murri;1;2005;MURRI
+2022;57;Siepelunga;Santo Stefano;Murri;2;576;MURRI
+2022;58;Dagnini;Santo Stefano;Murri;3 e oltre;1160;MURRI
+2022;59;Chiesanuova;Santo Stefano;Murri;3 e oltre;911;MURRI
+2022;61;Irnerio-2;Santo Stefano;Irnerio;3 e oltre;940;IRNERIO
+2022;62;Cirenaica;San Donato - San Vitale;San Vitale;1;3216;CIRENAICA - MASSARENTI - SCANDELLARA
+2022;63;Scandellara;San Donato - San Vitale;San Vitale;1;222;CIRENAICA - MASSARENTI - SCANDELLARA
+2022;63;Scandellara;San Donato - San Vitale;San Vitale;3 e oltre;107;CIRENAICA - MASSARENTI - SCANDELLARA
+2022;64;Via Larga;San Donato - San Vitale;San Vitale;2;301;CIRENAICA - MASSARENTI - SCANDELLARA
+2022;64;Via Larga;San Donato - San Vitale;San Vitale;3 e oltre;310;CIRENAICA - MASSARENTI - SCANDELLARA
+2022;65;Roveri;San Donato - San Vitale;San Vitale;2;62;CROCE DEL BIACCO - ROVERI
+2022;66;Ospedale Sant'Orsola;San Donato - San Vitale;San Vitale;2;1;CIRENAICA - MASSARENTI - SCANDELLARA
+2022;66;Ospedale Sant'Orsola;San Donato - San Vitale;San Vitale;3 e oltre;1;CIRENAICA - MASSARENTI - SCANDELLARA
+2022;67;Mengoli;San Donato - San Vitale;San Vitale;2;1268;CIRENAICA - MASSARENTI - SCANDELLARA
+2022;68;Guelfa;San Donato - San Vitale;San Vitale;3 e oltre;813;CIRENAICA - MASSARENTI - SCANDELLARA
+2022;70;Stradelli Guelfi;San Donato - San Vitale;San Vitale;1;75;CROCE DEL BIACCO - ROVERI
+2022;70;Stradelli Guelfi;San Donato - San Vitale;San Vitale;2;40;CROCE DEL BIACCO - ROVERI
+2022;70;Stradelli Guelfi;San Donato - San Vitale;San Vitale;3 e oltre;44;CROCE DEL BIACCO - ROVERI
+2022;72;XXI Aprile;Porto - Saragozza;Costa Saragozza;2;1601;SARAGOZZA - SAN LUCA
+2022;72;XXI Aprile;Porto - Saragozza;Costa Saragozza;3 e oltre;1539;SARAGOZZA - SAN LUCA
+2022;73;San Giuseppe;Porto - Saragozza;Costa Saragozza;2;784;SARAGOZZA - SAN LUCA
+2022;74;Ravone;Porto - Saragozza;Costa Saragozza;2;171;SARAGOZZA - SAN LUCA
+2022;74;Ravone;Porto - Saragozza;Costa Saragozza;3 e oltre;167;SARAGOZZA - SAN LUCA
+2022;75;Via del Genio;Porto - Saragozza;Costa Saragozza;3 e oltre;3;SARAGOZZA - SAN LUCA
+2022;76;San Luca;Porto - Saragozza;Costa Saragozza;3 e oltre;102;SARAGOZZA - SAN LUCA
+2022;77;Malpighi-2;Porto - Saragozza;Malpighi;2;1180;MALPIGHI
+2022;78;Malpighi-1;Porto - Saragozza;Malpighi;2;214;MALPIGHI
+2022;78;Malpighi-1;Porto - Saragozza;Malpighi;3 e oltre;200;MALPIGHI
+2022;80;Due Madonne;Savena;Mazzini;1;630;FOSSOLO - DUE MADONNE
+2022;81;Lungo Savena;Savena;Mazzini;3 e oltre;23;FOSSOLO - DUE MADONNE
+2022;82;Pontevecchio;Savena;Mazzini;3 e oltre;610;PONTEVECCHIO - MAZZINI
+2022;83;Bitone;Savena;Mazzini;1;3045;PONTEVECCHIO - MAZZINI
+2022;83;Bitone;Savena;Mazzini;2;1470;PONTEVECCHIO - MAZZINI
+2022;83;Bitone;Savena;Mazzini;3 e oltre;1370;PONTEVECCHIO - MAZZINI
+2022;84;Cavedone;Savena;Mazzini;1;560;PONTEVECCHIO - MAZZINI
+2022;87;Monte Donato;Savena;San Ruffillo;1;329;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2022;87;Monte Donato;Savena;San Ruffillo;2;182;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2022;88;Via Toscana;Savena;San Ruffillo;3 e oltre;1232;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2022;90;Ponte Savena-La Bastia;Savena;San Ruffillo;1;284;LUNGO SAVENA
+2022;90;Ponte Savena-La Bastia;Savena;San Ruffillo;3 e oltre;166;LUNGO SAVENA
+2022;99;non indicata;Senza fissa dimora;Senza fissa dimora;1;504;
+2022;99;non indicata;Senza fissa dimora;Senza fissa dimora;3 e oltre;3;
+2023;01;Lavino di Mezzo;Borgo Panigale - Reno;Borgo Panigale;1;132;BIRRA - BARGELLINO - LAVINO
+2023;02;Via del Vivaio;Borgo Panigale - Reno;Borgo Panigale;1;168;BIRRA - BARGELLINO - LAVINO
+2023;02;Via del Vivaio;Borgo Panigale - Reno;Borgo Panigale;2;94;BIRRA - BARGELLINO - LAVINO
+2023;03;Bargellino;Borgo Panigale - Reno;Borgo Panigale;2;12;BIRRA - BARGELLINO - LAVINO
+2023;06;Lungo Reno;Borgo Panigale - Reno;Borgo Panigale;2;2;BIRRA - BARGELLINO - LAVINO
+2023;07;Ducati-Villaggio Ina;Borgo Panigale - Reno;Borgo Panigale;1;746;BORGO PANIGALE
+2023;07;Ducati-Villaggio Ina;Borgo Panigale - Reno;Borgo Panigale;2;449;BORGO PANIGALE
+2023;08;Borgo Centro;Borgo Panigale - Reno;Borgo Panigale;1;2072;BORGO PANIGALE
+2023;09;Triumvirato-Pietra;Borgo Panigale - Reno;Borgo Panigale;2;720;CASTELDEBOLE - PONTELUNGO
+2023;09;Triumvirato-Pietra;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;691;CASTELDEBOLE - PONTELUNGO
+2023;10;Rigosa;Borgo Panigale - Reno;Borgo Panigale;1;209;BORGO PANIGALE
+2023;10;Rigosa;Borgo Panigale - Reno;Borgo Panigale;3 e oltre;185;BORGO PANIGALE
+2023;11;Casteldebole;Borgo Panigale - Reno;Borgo Panigale;1;1099;CASTELDEBOLE - PONTELUNGO
+2023;12;Caserme Rosse-Manifattura;Navile;Bolognina;1;469;CORTICELLA - DOZZA
+2023;12;Caserme Rosse-Manifattura;Navile;Bolognina;2;263;CORTICELLA - DOZZA
+2023;13;CNR;Navile;Bolognina;1;23;BEVERARA
+2023;13;CNR;Navile;Bolognina;3 e oltre;5;BEVERARA
+2023;14;Arcoveggio;Navile;Bolognina;3 e oltre;1215;BOLOGNINA
+2023;15;Via Ferrarese;Navile;Bolognina;1;3671;BOLOGNINA
+2023;16;Ex Mercato Ortofrutticolo;Navile;Bolognina;1;356;BOLOGNINA
+2023;16;Ex Mercato Ortofrutticolo;Navile;Bolognina;2;131;BOLOGNINA
+2023;19;Savena Abbandonato;Navile;Corticella;3 e oltre;125;CORTICELLA - DOZZA
+2023;20;Croce Coperta;Navile;Corticella;3 e oltre;792;CORTICELLA - DOZZA
+2023;22;La Dozza;Navile;Corticella;3 e oltre;211;CORTICELLA - DOZZA
+2023;23;Laghetti del Rosario;Navile;Lame;1;105;BERTALIA - NOCE
+2023;23;Laghetti del Rosario;Navile;Lame;2;54;BERTALIA - NOCE
+2023;23;Laghetti del Rosario;Navile;Lame;3 e oltre;76;BERTALIA - NOCE
+2023;24;La Noce;Navile;Lame;2;214;BERTALIA - NOCE
+2023;25;Tiro A Segno;Navile;Lame;2;18;BERTALIA - NOCE
+2023;26;Pescarola;Navile;Lame;1;964;BERTALIA - NOCE
+2023;26;Pescarola;Navile;Lame;2;648;BERTALIA - NOCE
+2023;26;Pescarola;Navile;Lame;3 e oltre;569;BERTALIA - NOCE
+2023;27;Lazzaretto;Navile;Lame;2;96;BERTALIA - NOCE
+2023;27;Lazzaretto;Navile;Lame;3 e oltre;98;BERTALIA - NOCE
+2023;30;Marconi-1;Porto - Saragozza;Marconi;1;931;MALPIGHI
+2023;30;Marconi-1;Porto - Saragozza;Marconi;2;280;MALPIGHI
+2023;31;Prati di Caprara-Ospedale Maggiore;Porto - Saragozza;Saffi;1;122;SAFFI
+2023;31;Prati di Caprara-Ospedale Maggiore;Porto - Saragozza;Saffi;2;54;SAFFI
+2023;33;Zanardi;Porto - Saragozza;Saffi;1;2255;SAFFI
+2023;33;Zanardi;Porto - Saragozza;Saffi;2;802;SAFFI
+2023;34;Velodromo;Porto - Saragozza;Saffi;3 e oltre;708;SAFFI
+2023;37;Battindarno;Borgo Panigale - Reno;Barca;1;2147;BARCA
+2023;37;Battindarno;Borgo Panigale - Reno;Barca;3 e oltre;1126;BARCA
+2023;38;Canale di Reno;Borgo Panigale - Reno;Barca;2;899;BARCA
+2023;39;Agucchi;Borgo Panigale - Reno;Santa Viola;2;581;SANTA VIOLA
+2023;39;Agucchi;Borgo Panigale - Reno;Santa Viola;3 e oltre;558;SANTA VIOLA
+2023;42;Fiera;San Donato - San Vitale;San Donato;2;3;SAN DONATO VECCHIO
+2023;43;San Donnino;San Donato - San Vitale;San Donato;2;382;SAN DONATO VECCHIO
+2023;45;CAAB;San Donato - San Vitale;San Donato;3 e oltre;51;SAN DONATO NUOVO
+2023;46;Scalo Merci San Donato;San Donato - San Vitale;San Donato;3 e oltre;2;SAN DONATO NUOVO
+2023;47;Via del Lavoro;San Donato - San Vitale;San Donato;2;928;SAN DONATO VECCHIO
+2023;48;Michelino;San Donato - San Vitale;San Donato;2;580;SAN DONATO VECCHIO
+2023;49;Via Mondo;San Donato - San Vitale;San Donato;2;1087;SAN DONATO VECCHIO
+2023;50;Osservanza;Santo Stefano;Colli;3 e oltre;575;OSSERVANZA - PADERNO
+2023;51;San Michele in Bosco;Santo Stefano;Colli;1;547;OSSERVANZA - PADERNO
+2023;52;Paderno;Santo Stefano;Colli;2;172;OSSERVANZA - PADERNO
+2023;52;Paderno;Santo Stefano;Colli;3 e oltre;232;OSSERVANZA - PADERNO
+2023;53;Galvani-1;Santo Stefano;Galvani;3 e oltre;202;GALVANI
+2023;54;Galvani-2;Santo Stefano;Galvani;3 e oltre;1197;GALVANI
+2023;55;Giardini Margherita;Santo Stefano;Murri;3 e oltre;5;MURRI
+2023;57;Siepelunga;Santo Stefano;Murri;1;1057;MURRI
+2023;57;Siepelunga;Santo Stefano;Murri;3 e oltre;629;MURRI
+2023;58;Dagnini;Santo Stefano;Murri;2;1211;MURRI
+2023;59;Chiesanuova;Santo Stefano;Murri;3 e oltre;931;MURRI
+2023;60;Irnerio-1;Santo Stefano;Irnerio;1;1551;IRNERIO
+2023;61;Irnerio-2;Santo Stefano;Irnerio;1;4442;IRNERIO
+2023;63;Scandellara;San Donato - San Vitale;San Vitale;3 e oltre;118;CIRENAICA - MASSARENTI - SCANDELLARA
+2023;64;Via Larga;San Donato - San Vitale;San Vitale;1;450;CIRENAICA - MASSARENTI - SCANDELLARA
+2023;64;Via Larga;San Donato - San Vitale;San Vitale;3 e oltre;308;CIRENAICA - MASSARENTI - SCANDELLARA
+2023;68;Guelfa;San Donato - San Vitale;San Vitale;3 e oltre;812;CIRENAICA - MASSARENTI - SCANDELLARA
+2023;69;Croce del Biacco;San Donato - San Vitale;San Vitale;1;989;CROCE DEL BIACCO - ROVERI
+2023;69;Croce del Biacco;San Donato - San Vitale;San Vitale;3 e oltre;614;CROCE DEL BIACCO - ROVERI
+2023;70;Stradelli Guelfi;San Donato - San Vitale;San Vitale;2;42;CROCE DEL BIACCO - ROVERI
+2023;71;Stadio-Meloncello;Porto - Saragozza;Costa Saragozza;1;1105;SARAGOZZA - SAN LUCA
+2023;72;XXI Aprile;Porto - Saragozza;Costa Saragozza;1;4060;SARAGOZZA - SAN LUCA
+2023;72;XXI Aprile;Porto - Saragozza;Costa Saragozza;2;1577;SARAGOZZA - SAN LUCA
+2023;72;XXI Aprile;Porto - Saragozza;Costa Saragozza;3 e oltre;1553;SARAGOZZA - SAN LUCA
+2023;73;San Giuseppe;Porto - Saragozza;Costa Saragozza;1;1781;SARAGOZZA - SAN LUCA
+2023;74;Ravone;Porto - Saragozza;Costa Saragozza;3 e oltre;174;SARAGOZZA - SAN LUCA
+2023;76;San Luca;Porto - Saragozza;Costa Saragozza;1;126;SARAGOZZA - SAN LUCA
+2023;77;Malpighi-2;Porto - Saragozza;Malpighi;1;3892;MALPIGHI
+2023;78;Malpighi-1;Porto - Saragozza;Malpighi;3 e oltre;198;MALPIGHI
+2023;79;Fossolo;Savena;Mazzini;1;2066;FOSSOLO - DUE MADONNE
+2023;79;Fossolo;Savena;Mazzini;3 e oltre;1131;FOSSOLO - DUE MADONNE
+2023;80;Due Madonne;Savena;Mazzini;1;645;FOSSOLO - DUE MADONNE
+2023;81;Lungo Savena;Savena;Mazzini;2;8;FOSSOLO - DUE MADONNE
+2023;82;Pontevecchio;Savena;Mazzini;1;1778;PONTEVECCHIO - MAZZINI
+2023;82;Pontevecchio;Savena;Mazzini;2;658;PONTEVECCHIO - MAZZINI
+2023;82;Pontevecchio;Savena;Mazzini;3 e oltre;608;PONTEVECCHIO - MAZZINI
+2023;83;Bitone;Savena;Mazzini;1;3041;PONTEVECCHIO - MAZZINI
+2023;84;Cavedone;Savena;Mazzini;1;578;PONTEVECCHIO - MAZZINI
+2023;84;Cavedone;Savena;Mazzini;3 e oltre;477;PONTEVECCHIO - MAZZINI
+2023;85;Via Arno;Savena;Mazzini;1;1672;PONTEVECCHIO - MAZZINI
+2023;85;Via Arno;Savena;Mazzini;3 e oltre;907;PONTEVECCHIO - MAZZINI
+2023;87;Monte Donato;Savena;San Ruffillo;1;344;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2023;87;Monte Donato;Savena;San Ruffillo;3 e oltre;208;VIA TOSCANA - S. RUFFILLO - MONTE DONATO
+2023;90;Ponte Savena-La Bastia;Savena;San Ruffillo;3 e oltre;164;LUNGO SAVENA
