@@ -296,7 +296,7 @@ transport_2019 = transport_2019.join(incidents_2019)
 # calculate traffic-related incidents, injured, deaths per capita
 transport_2019['incident_per_1000'] = round(transport_2019['n_incident'] / (transport_2019['population']/1000),4)
 transport_2019['injured_per_1000'] = round(transport_2019['totale_fer'] / (transport_2019['population']/1000),4)
-transport_2019['injured_per_incident'] = round(transport_2019['totale_fer'] / (transport_2019['n_incident']/1000),4)
+transport_2019['injured_per_incident'] = round(transport_2019['totale_fer'] / (transport_2019['n_incident']),4)
 transport_2019['mortality_per_1000'] = round(transport_2019['totale_mor'] / (transport_2019['population']/1000),4)
 
     # vehicle traffic flows
