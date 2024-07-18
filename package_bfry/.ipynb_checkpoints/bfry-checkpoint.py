@@ -20,6 +20,13 @@ from sklearn.preprocessing import scale
 from sklearn.decomposition import PCA
 from scipy.cluster.hierarchy import linkage, dendrogram
 
+# CREATE CLASSES
+class Clusters:
+    # defines a class to hold results of cluster analysis
+    def __init__(self, centroids_tab, geo_tab):
+        self.centroids = centroids_tab
+        self.geo = geo_tab
+
 # DEFINE FUNCTIONS
 def trim_all_columns(df):
     """
@@ -133,7 +140,22 @@ def pca_scatter(pca, standardised_values, classifs):
     bar = pd.DataFrame(list(zip(foo[:, 0], foo[:, 1], classifs)), columns=["PC1", "PC2", "Class"])
     sns.lmplot(x = "PC1", y = "PC2", data = bar, hue="Class", fit_reg=False)
 
-# IMPORT / GENERATE DATASETS
+def km_cluster_analysis(df, num_clusters, base_map):
+    # perform k-means cluster analysis on df
+    k_means = cluster.KMeans(n_clusters=num_clusters, max_iter=50, random_state=1)
+    k_means.fit(df) 
+    labels = k_means.labels_
+    clusters = pd.DataFrame(labels, index=df.index, columns=['Cluster ID'])
+    # create map from the clusters
+    clusters_map = clusters.join(base_map)
+    clusters_map['Cluster ID'] = clusters_map['Cluster ID'].astype(str)
+    clusters_geo = gpd.GeoDataFrame(clusters_map, geometry="geometry").to_crs(epsg=6933)
+    clusters_geo.explore(column = 'Cluster ID', tooltip = ('zona_fiu','Cluster ID'))
+    # calculate the averages of each metric in each cluster to summarize the characteristics of the clusters across metrics
+    centroids = k_means.cluster_centers_
+    centroids_tab = pd.DataFrame(centroids,columns=df.columns)
+    # create an instance of the cluster class with these features
+    return Clusters(centroids_tab,clusters_geo)
 
 # IMPORT / GENERATE DATASETS
 
