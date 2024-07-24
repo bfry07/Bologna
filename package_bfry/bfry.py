@@ -135,10 +135,15 @@ def pca_summary(pca, standardised_data, out=True):
     return summary
 
 def pca_scatter(pca, standardised_values, classifs):
-    """ Creates a scatter plot of clusters of the principal components analysis given data and a number of classification groups """
+    """ Creates a scatter plot of clusters of the principal components analysis given data and a number of classification groups 
     foo = pca.transform(standardised_values)
     bar = pd.DataFrame(list(zip(foo[:, 0], foo[:, 1], classifs)), columns=["PC1", "PC2", "Class"])
+    sns.lmplot(x = "PC1", y = "PC2", data = bar, hue="Class", fit_reg=False)"""
+    foo = pca.transform(standardised_values)
+    bar = pd.DataFrame(list(zip(foo[:, 0], foo[:, 1], classifs['Cluster ID'], classifs['zona_fiu'])), columns=["PC1", "PC2", "Class", 'zona_fiu'])
     sns.lmplot(x = "PC1", y = "PC2", data = bar, hue="Class", fit_reg=False)
+    for x, y, z in zip(bar['PC1'], bar['PC2'], bar['zona_fiu']):
+        plt.text(x = x, y = y, s=z)
 
 def km_cluster_analysis(df, num_clusters, base_map):
     # perform k-means cluster analysis on df
@@ -191,6 +196,17 @@ pop_agg = population.groupby(['Anno', 'Zona di prossimità'])['Residenti'].sum()
 pop_2019 = pop_agg[['2019']].rename(columns={'2019':'population'})
 # join the base map data with the population data
 base_map_2019 = base_map_zone.join(pop_2019)
+
+# add in age data
+# subset to 2019 and group by zone and age category
+pop_age = population.loc[population['Anno'] == '2019'].groupby(['Zona di prossimità','Età'])['Residenti'].sum().to_frame()
+# join the raw population counts
+pop_age = pop_age.join(pop_2019)
+# calculate the percentage each age group represents in the zone
+pop_age['percent'] = round((pop_age['Residenti']/pop_age['population'])*100,0)
+# pivot the table to make the rows turn to columns
+pop_age_percent = pop_age.pivot_table('percent', ['Zona di prossimità'], 'Età')
+base_map_2019 = base_map_2019.join(pop_age_percent)
 
     # import household data
 # number of resident households / families per neighborhood
@@ -340,6 +356,8 @@ traffic_zone_2019['zona_fiu'] = traffic_zone_2019['zona_fiu'].str.upper()
 transport_2019 = transport_2019.join(traffic_zone_2019.set_index('zona_fiu'))
 # calculate avg daily traffic flow per capita in the cumulative map
 transport_2019['traffic_per_1000'] = round(transport_2019['avg_daily_traffic'] / (transport_2019['population']/1000),4)
+# also calculate incident standardized by traffic level
+transport_2019['incident_per_traffic'] = round(transport_2019['n_incident']/transport_2019['avg_daily_traffic'],4)
 
     # import bike parking dataset
 bike_racks = read_data_link("https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/rastrelliere-per-biciclette/exports/geojson?lang=it&timezone=Europe%2FBerlin", "geojson")
@@ -351,6 +369,26 @@ transport_2019 = transport_2019.join(bike_racks_agg)
 # calculate number of bike parking spots per capita
 transport_2019['bike_parking_per_1000'] = round(transport_2019['n_bike_parking'] / (transport_2019['population']/1000),4)
 transport_2019['bike_parking_per_household'] = round(transport_2019['n_bike_parking'] / (transport_2019['households']/1000),4)
+
+    # bike lanes
+# base dataset : bike_lanes
+# limit to the earliest bike lanes possible
+# *** NOT AVAILABLE FOR 2019 ? ***
+bike_lanes = bike_lanes[bike_lanes['anno'] == 'Precedente 31/12/2021']
+#bike_lanes.explore(column = 'dtipologia2')
+# sum up all bike lanes by zone
+length_all_bike_lanes = bike_lanes.groupby(['zona_fiu'])['length'].sum().to_frame().reset_index().set_index('zona_fiu').rename(columns={'length':'length_all_bike_m'})
+# sum bike lanes by type 
+length_bike_lanes_grouped = bike_lanes.groupby(['zona_fiu','dtipologia2'])['length'].sum().to_frame().reset_index().set_index('zona_fiu')
+# sum up the length of bike lanes that are "most safe"
+    # to verify if these are the best to choose? 
+    # i made a decision based on my personal feelings, maybe there is a more rigorous standard to follow
+length_safe_bike_lanes = length_bike_lanes_grouped[length_bike_lanes_grouped['dtipologia2'].isin(['sede propria', 'ciclabile contigua al pedonale','promiscuo ciclopedonale', 'area pedonale','pavimentato','sterrato'])].groupby(['zona_fiu'])['length'].sum().to_frame().rename(columns={'length':'length_safe_bike_m'})
+# join the bike lanes data and calculate bike lane length per capita and percent "safe" lanes
+transport_2019 = transport_2019.join(length_all_bike_lanes)
+transport_2019 = transport_2019.join(length_safe_bike_lanes)
+transport_2019['bike_m_per_capita'] = round(transport_2019['length_all_bike_m']/transport_2019['population'],4)
+transport_2019['percent_safe_bike'] = round((transport_2019['length_safe_bike_m']/transport_2019['length_all_bike_m'])*100,0)
 
     # bus stops (most meaningful mass transit access proxy)
 mobility_offer = read_data_link("https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/workshop-bcn-mappatura-poi-completa_mobility/exports/geojson?lang=it&timezone=Europe%2FRome", 'geojson')
