@@ -287,7 +287,7 @@ wifi = wifi.to_crs(epsg=6933)
 # aggregate the count of wifi hotspots at the neighborhood level
 wifi_agg = gpd.overlay(base_map_2019, wifi, how='intersection', keep_geom_type=False).groupby('zona_pross').count()
 # rename and subset the data just to the count of the hotspots per neighborhood
-wifi_agg = wifi_agg.rename(columns={'hostname':'hotspot_count'})['hotspot_count']
+wifi_agg = wifi_agg.rename(columns={'hostname':'hotspot_count'})['hotspot_count'].to_frame()
 
     # import participatory budget data
 budg_geo = read_data_link("https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/bilancio-partecipativo/exports/geojson?lang=it&timezone=Europe%2FRome",'geojson')
@@ -314,6 +314,40 @@ furniture_state_2019 = total_furniture.join(not_good_furniture)
 # divide to get the percentage of furniture not good per zone
 furniture_state_2019['p_furn_not_good'] = furniture_state_2019['not_good_furn']/furniture_state_2019['total_furn']
 
+    # import gyms / sports centers data and aggregate by FIU zone
+gyms = read_data_link('https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/impianti_sportivi_comunali/exports/csv?lang=it&timezone=Europe%2FBerlin&use_labels=true&delimiter=%3B','csv')
+gyms_agg = gyms.groupby('Zona di prossimità')['COMPLESSO SPORTIVO'].nunique().to_frame()
+
+    # import schools data
+schools = read_data_link('https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/elenco-delle-scuole/exports/csv?lang=it&timezone=Europe%2FBerlin&use_labels=true&delimiter=%3B','csv')
+# join in the FIU zone using the statistical area - FIU crosswalk dataset
+schools = schools.set_index('area statistica').join(fiu_xwalk.set_index('area_statistica'))
+# aggregate and rename the columns
+schools_agg = schools.groupby('zona_fiu')['CIVKEY'].nunique().to_frame().rename(columns={'CIVKEY':'school_count'})
+# calculate schools per child aged 0-14
+# process the population by age dataset for this calculation
+pop_age_zone = pop_age.reset_index().set_index('Zona di prossimità')
+# subset just to the rows and columns that give the number of children by FIU zone in 2019
+children_2019 = pop_age_zone.loc[pop_age_zone['Età'] == '00-14'][['Residenti']].rename(columns={'Residenti':'n_children'})
+# join the children data to the schools data
+schools_agg = schools_agg.join(children_2019)
+schools_agg['school_per_1000_child'] = schools_agg['school_count']/(schools_agg['n_children']/1000)
+
+    # create a dataset for metrics concerning features and amenities of each zone
+# join the metrics calculated above to the base population / household data
+amenities_2019 = base_map_2019[['geometry','population','households']].join(airbnb_agg)
+amenities_2019 = amenities_2019.join(wifi_agg)
+amenities_2019 = amenities_2019.join(furniture_state_2019)
+amenities_2019 = amenities_2019.join(gyms_agg)
+amenities_2019 = amenities_2019.join(schools_agg)
+# standardize the features data by population / households
+amenities_2019['furn_per_1000'] = amenities_2019['total_furn'] / (amenities_2019['population']/1000)
+amenities_2019['wifi_per_1000'] = amenities_2019['hotspot_count'] / (amenities_2019['population']/1000)
+amenities_2019['airbnb_per_household'] = amenities_2019['airbnb_count'] / amenities_2019['households']
+amenities_2019['gyms_per_1000'] = amenities_2019['COMPLESSO SPORTIVO']/(amenities_2019['population']/1000)
+# fill the NaN columns where no features are present in a given zone
+amenities_2019 = amenities_2019.fillna(0)
+
     # import bike lane geojson
 bike_lanes = read_data_link("https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/piste-ciclopedonali/exports/geojson?lang=it&timezone=Europe%2FRome", "geojson")
 bike_lanes = bike_lanes.to_crs(epsg=6933)
@@ -327,10 +361,7 @@ incidents_agg = traffic_accidents.groupby(['nomezona','anno'])[['n_incident','to
 incidents_2019 = incidents_agg.query("anno == '2019'").reset_index().set_index('nomezona')[['n_incident','totale_fer','totale_mor']]
 
     # start creating transport dataframe to hold all of the transport related data elements and standardize them by population
-transport_2019 = base_map_2019
-transport_2019.index = transport_2019.index.str.upper()
-# join the incident data to the base map
-transport_2019 = transport_2019.join(incidents_2019)
+transport_2019 = base_map_2019[['geometry','population','households']].join(incidents_2019)
 # calculate traffic-related incidents, injured, deaths per capita
 transport_2019['incident_per_1000'] = round(transport_2019['n_incident'] / (transport_2019['population']/1000),4)
 transport_2019['injured_per_1000'] = round(transport_2019['totale_fer'] / (transport_2019['population']/1000),4)
@@ -354,6 +385,8 @@ traffic_zone_2019 = traffic_2019_geo.sjoin(base_map_zone, how = "left", predicat
 traffic_zone_2019['zona_fiu'] = traffic_zone_2019['zona_fiu'].str.upper()
 # join the traffic data to the base map
 transport_2019 = transport_2019.join(traffic_zone_2019.set_index('zona_fiu'))
+# calculate the average daily traffic level across zones and replace the NaN values with this value to keep standardization
+transport_2019[['avg_daily_traffic']] = transport_2019[['avg_daily_traffic']].fillna(traffic_zone_2019[['avg_daily_traffic']].mean())
 # calculate avg daily traffic flow per capita in the cumulative map
 transport_2019['traffic_per_1000'] = round(transport_2019['avg_daily_traffic'] / (transport_2019['population']/1000),4)
 # also calculate incident standardized by traffic level
@@ -383,12 +416,12 @@ length_bike_lanes_grouped = bike_lanes.groupby(['zona_fiu','dtipologia2'])['leng
 # sum up the length of bike lanes that are "most safe"
     # to verify if these are the best to choose? 
     # i made a decision based on my personal feelings, maybe there is a more rigorous standard to follow
-length_safe_bike_lanes = length_bike_lanes_grouped[length_bike_lanes_grouped['dtipologia2'].isin(['sede propria', 'ciclabile contigua al pedonale','promiscuo ciclopedonale', 'area pedonale','pavimentato','sterrato'])].groupby(['zona_fiu'])['length'].sum().to_frame().rename(columns={'length':'length_safe_bike_m'})
-# join the bike lanes data and calculate bike lane length per capita and percent "safe" lanes
+length_protected_bike_lanes = length_bike_lanes_grouped[length_bike_lanes_grouped['dtipologia2'].isin(['sede propria', 'ciclabile contigua al pedonale','promiscuo ciclopedonale', 'area pedonale','pavimentato','sterrato'])].groupby(['zona_fiu'])['length'].sum().to_frame().rename(columns={'length':'length_protected_bike_m'})
+# join the bike lanes data and calculate bike lane length per capita and percent "protected" lanes
 transport_2019 = transport_2019.join(length_all_bike_lanes)
-transport_2019 = transport_2019.join(length_safe_bike_lanes)
+transport_2019 = transport_2019.join(length_protected_bike_lanes)
 transport_2019['bike_m_per_capita'] = round(transport_2019['length_all_bike_m']/transport_2019['population'],4)
-transport_2019['percent_safe_bike'] = round((transport_2019['length_safe_bike_m']/transport_2019['length_all_bike_m'])*100,0)
+transport_2019['percent_protected_bike'] = round((transport_2019['length_protected_bike_m']/transport_2019['length_all_bike_m'])*100,0)
 
     # bus stops (most meaningful mass transit access proxy)
 mobility_offer = read_data_link("https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/workshop-bcn-mappatura-poi-completa_mobility/exports/geojson?lang=it&timezone=Europe%2FRome", 'geojson')
@@ -406,3 +439,14 @@ tper_stops_zone['tper_stops_per_1000'] = round(tper_stops_zone['n_tper_stops']/(
 #tper_stops_zone.tper_stops_per_1000.plot()
 # given variance seems significant, append to the transportation data
 transport_2019 = transport_2019.join(tper_stops_zone[['tper_stops_per_1000']])
+
+    # create a dataset of all the standardized metrics that we want to analyze
+# join the transport and amenities datasets to the base socioeconomic data and drop the overlapping columns
+all_metrics = base_map_2019.join(transport_2019, rsuffix='_drop')
+all_metrics.drop(all_metrics.filter(regex='_drop$').columns, axis=1, inplace=True)
+all_metrics = all_metrics.join(amenities_2019, rsuffix='_drop')
+all_metrics.drop(all_metrics.filter(regex='_drop$').columns, axis=1, inplace=True)
+# drop the columns we don't want to use in our analysis
+all_metrics.drop(['geometry','households','n_taxpayers', 'n_workers', 'n_students', 'taxpayers_per_cap', 'n_incident', 'totale_fer', 'totale_mor', 'avg_daily_traffic', 'n_bike_parking', 'bike_parking_per_household', 'length_all_bike_m', 'length_protected_bike_m', 'airbnb_count', 'hotspot_count', 'total_furn', 'not_good_furn', 'COMPLESSO SPORTIVO', 'school_count', 'n_children'], axis=1, inplace=True)
+# conver the geo data frame to a regular data frame to perform pandas operations
+all_metrics = pd.DataFrame(all_metrics)
