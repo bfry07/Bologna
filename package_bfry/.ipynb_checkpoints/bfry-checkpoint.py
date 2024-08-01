@@ -135,12 +135,9 @@ def pca_summary(pca, standardised_data, out=True):
     return summary
 
 def pca_scatter(pca, standardised_values, classifs):
-    """ Creates a scatter plot of clusters of the principal components analysis given data and a number of classification groups 
+    """ Creates a scatter plot of clusters of the principal components analysis given data and a number of classification groups """
     foo = pca.transform(standardised_values)
-    bar = pd.DataFrame(list(zip(foo[:, 0], foo[:, 1], classifs)), columns=["PC1", "PC2", "Class"])
-    sns.lmplot(x = "PC1", y = "PC2", data = bar, hue="Class", fit_reg=False)"""
-    foo = pca.transform(standardised_values)
-    bar = pd.DataFrame(list(zip(foo[:, 0], foo[:, 1], classifs['Cluster ID'], classifs['zona_fiu'])), columns=["PC1", "PC2", "Class", 'zona_fiu'])
+    bar = pd.DataFrame(list(zip(foo[:, 0], foo[:, 1], classifs['Cluster ID'], classifs['zona_fiu'])), columns=["PC1", "PC2", "Class", "zona_fiu"])
     sns.lmplot(x = "PC1", y = "PC2", data = bar, hue="Class", fit_reg=False)
     for x, y, z in zip(bar['PC1'], bar['PC2'], bar['zona_fiu']):
         plt.text(x = x, y = y, s=z)
@@ -161,6 +158,54 @@ def km_cluster_analysis(df, num_clusters, base_map):
     centroids_tab = pd.DataFrame(centroids,columns=df.columns)
     # create an instance of the cluster class with these features
     return Clusters(centroids_tab,clusters_geo)
+
+def cluster_line_chart(cluster_data, analysis_data, cluster_id, metrics):
+    # args
+        # cluster_data takes a dataset resulting from the km_cluster_analysis function
+        # analysis_data takes a dataset that has been standardized to z-scores
+        # cluster_id takes a string containing the numeric cluster ID you want to visualize or 'x' if you want to compare clusters
+    if cluster_id == 'x':
+        # show the cluster centroid data
+        ax = cluster_data.centroids[metrics].T.plot(marker ='o')
+        # set the x and y axis labels
+        plt.xlabel('Metrics') 
+        plt.ylabel('Average Z-Score') 
+        # format and position the legend
+        plt.legend(title = 'Cluster ID', loc='center left', bbox_to_anchor=(1, 0.5))
+        # create a dashed line at 0 to enable reference for above or below average z-score
+        plt.axhline(y = 0, color = 'k', linestyle = 'dashed')
+        # format the x axis labels
+        plt.setp(ax.get_xticklabels(), rotation=30, horizontalalignment='right')
+        # set the x axis ticks to show all labels in the data
+        plt.xticks(range(0,len(metrics)),metrics)
+        # display the graph
+        plt.show()
+    else:
+        # create visualizations to compare zones to their clsuter-mates and the average for the cluster
+        # extract the cluster ID as its own column and rename
+        cleaned_centroids = cluster_data.centroids.reset_index().rename(columns={'index':'Cluster ID'})
+        # set the cluster ID as a string to match the zone-level data
+        cleaned_centroids['Cluster ID'] = cleaned_centroids['Cluster ID'].astype(str)
+        # append the cluster centroids to the zone-level standardized z-score data
+        plot_data = pd.concat([analysis_data.join(cluster_data.geo[['Cluster ID']]), cleaned_centroids], axis=0)
+        # Plot the socioeconomic metrics profile for the zones in the 0 cluster
+        # subset to the desired cluster - in this case 0
+        plot_data_id = plot_data.loc[plot_data['Cluster ID'] == cluster_id]
+        # subset to the metrics to display
+        ax = plot_data_id[metrics].T.plot(marker ='o')
+        # add axis labels
+        plt.xlabel('Metrics') 
+        plt.ylabel('Z-Score') 
+        # format the legend
+        plt.legend(title = 'Zone Name + Cluster ID', loc='center left', bbox_to_anchor=(1, 0.5))
+        # add a reference line to allow comparison to average
+        plt.axhline(y = 0, color = 'k', linestyle = 'dashed')
+        # format the x axis labels
+        plt.setp(ax.get_xticklabels(), rotation=30, horizontalalignment='right')
+        # set the x axis ticks to show all labels in the data
+        plt.xticks(range(0,len(metrics)),metrics)
+        # display the graph
+        plt.show()
 
 # IMPORT / GENERATE DATASETS
 
@@ -307,12 +352,12 @@ furniture_2019_zona = gpd.overlay(base_map_2019.reset_index()[['zona_fiu','geome
 # calculate the percentage of not "good" condition street furniture by zone
 # get total street furniture count per zone
 total_furniture = furniture_2019_zona['zona_fiu'].value_counts().to_frame().rename(columns={'count':'total_furn'})
-# get the count of street furniture in coniditon less than "buono" by zone
-not_good_furniture = (furniture_2019_zona.loc[furniture_2019_zona['classe_conservazione'] != 'BUONO'])['zona_fiu'].value_counts().to_frame().rename(columns={'count':'not_good_furn'})
+# get the count of street furniture in coniditon "buono" by zone
+good_furniture = (furniture_2019_zona.loc[furniture_2019_zona['classe_conservazione'] == 'BUONO'])['zona_fiu'].value_counts().to_frame().rename(columns={'count':'good_furn'})
 # join the two figures just calculated together
-furniture_state_2019 = total_furniture.join(not_good_furniture)
+furniture_state_2019 = total_furniture.join(good_furniture)
 # divide to get the percentage of furniture not good per zone
-furniture_state_2019['p_furn_not_good'] = furniture_state_2019['not_good_furn']/furniture_state_2019['total_furn']
+furniture_state_2019['p_furn_good'] = furniture_state_2019['good_furn']/furniture_state_2019['total_furn']
 
     # import gyms / sports centers data and aggregate by FIU zone
 gyms = read_data_link('https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/impianti_sportivi_comunali/exports/csv?lang=it&timezone=Europe%2FBerlin&use_labels=true&delimiter=%3B','csv')
@@ -447,6 +492,6 @@ all_metrics.drop(all_metrics.filter(regex='_drop$').columns, axis=1, inplace=Tru
 all_metrics = all_metrics.join(amenities_2019, rsuffix='_drop')
 all_metrics.drop(all_metrics.filter(regex='_drop$').columns, axis=1, inplace=True)
 # drop the columns we don't want to use in our analysis
-all_metrics.drop(['geometry','households','n_taxpayers', 'n_workers', 'n_students', 'taxpayers_per_cap', 'n_incident', 'totale_fer', 'totale_mor', 'avg_daily_traffic', 'n_bike_parking', 'bike_parking_per_household', 'length_all_bike_m', 'length_protected_bike_m', 'airbnb_count', 'hotspot_count', 'total_furn', 'not_good_furn', 'COMPLESSO SPORTIVO', 'school_count', 'n_children'], axis=1, inplace=True)
+all_metrics.drop(['geometry','households','n_taxpayers', 'n_workers', 'n_students', 'taxpayers_per_cap', 'n_incident', 'totale_fer', 'totale_mor', 'avg_daily_traffic', 'n_bike_parking', 'bike_parking_per_household', 'length_all_bike_m', 'length_protected_bike_m', 'airbnb_count', 'hotspot_count', 'total_furn', 'good_furn', 'COMPLESSO SPORTIVO', 'school_count', 'n_children'], axis=1, inplace=True)
 # conver the geo data frame to a regular data frame to perform pandas operations
 all_metrics = pd.DataFrame(all_metrics)
