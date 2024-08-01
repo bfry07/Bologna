@@ -140,7 +140,7 @@ def pca_scatter(pca, standardised_values, classifs):
     bar = pd.DataFrame(list(zip(foo[:, 0], foo[:, 1], classifs['Cluster ID'], classifs['zona_fiu'])), columns=["PC1", "PC2", "Class", "zona_fiu"])
     sns.lmplot(x = "PC1", y = "PC2", data = bar, hue="Class", fit_reg=False)
     for x, y, z in zip(bar['PC1'], bar['PC2'], bar['zona_fiu']):
-        plt.text(x = x, y = y, s=z)
+        plt.text(x = x, y = y, s=z, horizontalalignment='center', verticalalignment='top')
 
 def km_cluster_analysis(df, num_clusters, base_map):
     # perform k-means cluster analysis on df
@@ -187,12 +187,13 @@ def cluster_line_chart(cluster_data, analysis_data, cluster_id, metrics):
         # set the cluster ID as a string to match the zone-level data
         cleaned_centroids['Cluster ID'] = cleaned_centroids['Cluster ID'].astype(str)
         # append the cluster centroids to the zone-level standardized z-score data
-        plot_data = pd.concat([analysis_data.join(cluster_data.geo[['Cluster ID']]), cleaned_centroids], axis=0)
+        plot_data = pd.concat([cleaned_centroids, analysis_data.join(cluster_data.geo[['Cluster ID']])], axis=0)
         # Plot the socioeconomic metrics profile for the zones in the 0 cluster
         # subset to the desired cluster - in this case 0
         plot_data_id = plot_data.loc[plot_data['Cluster ID'] == cluster_id]
-        # subset to the metrics to display
-        ax = plot_data_id[metrics].T.plot(marker ='o')
+        # subset to the metrics to display and create plot object
+        # arguments add circular points and a spectral color mapping to the plot to enhance readiability of the figure
+        ax = plot_data_id[metrics].T.plot(marker ='o', colormap = 'nipy_spectral')
         # add axis labels
         plt.xlabel('Metrics') 
         plt.ylabel('Z-Score') 
