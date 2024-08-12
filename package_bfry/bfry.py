@@ -508,6 +508,6 @@ all_metrics.drop(all_metrics.filter(regex='_drop$').columns, axis=1, inplace=Tru
 all_metrics = all_metrics.join(amenities_2019, rsuffix='_drop')
 all_metrics.drop(all_metrics.filter(regex='_drop$').columns, axis=1, inplace=True)
 # drop the columns we don't want to use in our analysis
-all_metrics.drop(['geometry','households','n_taxpayers', 'n_workers', 'n_students', 'taxpayers_per_cap', 'n_incident', 'totale_fer', 'totale_mor', 'avg_daily_traffic', 'n_bike_parking', 'bike_parking_per_household', 'length_all_bike_m', 'length_protected_bike_m', 'airbnb_count', 'hotspot_count', 'total_furn', 'good_furn', 'COMPLESSO SPORTIVO', 'school_count', 'n_children', 'avg_household_size'], axis=1, inplace=True)
+all_metrics.drop(['geometry','households','n_taxpayers', 'n_workers', 'n_students', 'taxpayers_per_cap', 'n_incident', 'totale_fer', 'totale_mor', 'avg_daily_traffic', 'n_bike_parking', 'bike_parking_per_household', 'length_all_bike_m', 'length_protected_bike_m', 'airbnb_count', 'hotspot_count', 'total_furn', 'good_furn', 'COMPLESSO SPORTIVO', 'school_count', 'n_children', 'avg_household_size', 'mortality_per_1000','incident_per_1000','injured_per_1000'], axis=1, inplace=True)
 # conver the geo data frame to a regular data frame to perform pandas operations
 all_metrics = pd.DataFrame(all_metrics)
