@@ -19,11 +19,14 @@ from sklearn import cluster
 from sklearn.preprocessing import scale
 from sklearn.decomposition import PCA
 from scipy.cluster.hierarchy import linkage, dendrogram
+from math import dist
+from pprint import pprint
 
 # CREATE CLASSES
 class Clusters:
     # defines a class to hold results of cluster analysis
-    def __init__(self, centroids_tab, geo_tab):
+    def __init__(self, kmeans, centroids_tab, geo_tab):
+        self.model = kmeans
         self.centroids = centroids_tab
         self.geo = geo_tab
 
@@ -156,14 +159,13 @@ def km_cluster_analysis(df, num_clusters, base_map):
     clusters_map = clusters.join(base_map)
     clusters_map['Cluster'] = clusters_map['Cluster'].astype(str)
     clusters_geo = gpd.GeoDataFrame(clusters_map, geometry="geometry").to_crs(epsg=6933)
-    clusters_geo.explore(column = 'Cluster', tooltip = ('zona_fiu','Cluster'))
     # calculate the averages of each metric in each cluster to summarize the characteristics of the clusters across metrics
     centroids = k_means.cluster_centers_
     centroids_tab = pd.DataFrame(centroids,columns=df.columns)
     # create an instance of the cluster class with these features
-    return Clusters(centroids_tab,clusters_geo)
+    return Clusters(k_means, centroids_tab, clusters_geo)
 
-def cluster_line_chart(cluster_data, analysis_data, cluster_id, metrics):
+def cluster_line_chart(cluster_data, analysis_data, cluster_id, metrics, colors):
     # args
         # cluster_data takes a dataset resulting from the km_cluster_analysis function
         # analysis_data takes a dataset that has been standardized to z-scores
@@ -200,7 +202,7 @@ def cluster_line_chart(cluster_data, analysis_data, cluster_id, metrics):
         plot_data_id = plot_data.loc[plot_data['Cluster'] == cluster_id]
         # subset to the metrics to display and create plot object
         # arguments add circular points and a spectral color mapping to the plot to enhance readiability of the figure
-        ax = plot_data_id[metrics].T.plot(marker ='o', colormap = 'nipy_spectral')
+        ax = plot_data_id[metrics].T.plot(marker ='o', colormap = colors)
         # format axis limits and labels
         plt.ylim(-3,5)
         plt.xlabel('Metrics') 
