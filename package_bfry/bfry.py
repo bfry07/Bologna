@@ -26,9 +26,9 @@ from pprint import pprint
 class Clusters:
     # defines a class to hold results of cluster analysis
     def __init__(self, kmeans, centroids_tab, geo_tab):
-        self.model = kmeans
-        self.centroids = centroids_tab
-        self.geo = geo_tab
+        self.model = kmeans # holds the kmeans cluster model
+        self.centroids = centroids_tab # holds the centroids dataframe which holds the average values for all metrics in a given cluster
+        self.geo = geo_tab # holds the geo-referenced dataframe consisting of the zone metrics, for visualization purposes
 
 # DEFINE FUNCTIONS
 def trim_all_columns(df):
@@ -86,37 +86,15 @@ def create_geo_df(df):
     """
     Takes a df of a certain format and transforms it into a geopandas compatible data frame
     """
+    # extract the latitude and longitude from the geo point field
     df[['y','x']] = df['Geo Point'].str.split(', ', expand = True)
+    # create and return a geo-referenced dataframe that can be used with geopandas functionalities
     df_geo = gpd.GeoDataFrame(df, geometry=gpd.points_from_xy(df.x, df.y), crs="EPSG:4326")
     return df_geo
 
-def hinton(matrix, max_weight=None, ax=None):
-    """Draw Hinton diagram for visualizing a weight matrix."""
-    ax = ax if ax is not None else plt.gca()
-    if not max_weight:
-        max_weight = 2**np.ceil(np.log(np.abs(matrix).max())/np.log(2))
-    ax.patch.set_facecolor('lightgray')
-    ax.set_aspect('equal', 'box')
-    ax.xaxis.set_major_locator(plt.NullLocator())
-    ax.yaxis.set_major_locator(plt.NullLocator())
-    for (x, y), w in np.ndenumerate(matrix):
-        color = 'red' if w > 0 else 'blue'
-        size = np.sqrt(np.abs(w))
-        rect = plt.Rectangle([x - size / 2, y - size / 2], size, size,
-        facecolor=color, edgecolor=color)
-        ax.add_patch(rect)
-    nticks = matrix.shape[0]
-    ax.xaxis.tick_top()
-    ax.set_xticks(range(nticks))
-    ax.set_xticklabels(list(matrix.columns), rotation=90)
-    ax.set_yticks(range(nticks))
-    ax.set_yticklabels(matrix.columns)
-    ax.grid(False)
-    ax.autoscale_view()
-    ax.invert_yaxis()
-
 def screeplot(pca, standardised_values):
     """ Creates a plot that shows results of principal components in descending order by variation """
+    # set the y values as the variance for the pca model
     y = np.std(pca.transform(standardised_values), axis=0)**2
     x = np.arange(len(y)) + 1
     plt.plot(x, y, "o-")
@@ -137,11 +115,11 @@ def pca_summary(pca, standardised_data, out=True):
         display(summary)
     return summary
 
-def pca_scatter(pca, standardised_values, classifs):
+def pca_scatter(pca, standardised_values, classifs, palette_list):
     """ Creates a scatter plot of clusters of the principal components analysis given data and a number of classification groups """
     foo = pca.transform(standardised_values)
     bar = pd.DataFrame(list(zip(foo[:, 0], foo[:, 1], classifs['Cluster'], classifs['zona_fiu'])), columns=["Prinicpal Component 1", "Prinicpal Component 2", "Cluster", "zona_fiu"])
-    sns.lmplot(x = "Prinicpal Component 1", y = "Prinicpal Component 2", data = bar, hue="Cluster", fit_reg=False)
+    sns.lmplot(x = "Prinicpal Component 1", y = "Prinicpal Component 2", data = bar, hue="Cluster", palette = palette_list, fit_reg=False)
     for x, y, z in zip(bar['Prinicpal Component 1'], bar['Prinicpal Component 2'], bar['zona_fiu']):
         plt.text(x = x, y = y, s=z, horizontalalignment='center', verticalalignment='top')
 
@@ -170,6 +148,8 @@ def cluster_line_chart(cluster_data, analysis_data, cluster_id, metrics, colors)
         # cluster_data takes a dataset resulting from the km_cluster_analysis function
         # analysis_data takes a dataset that has been standardized to z-scores
         # cluster_id takes a string containing the numeric Cluster you want to visualize or 'x' if you want to compare clusters
+        # metrics takes a list of metrics to include in the visualization, to be displayed on the x axis
+        # colors takes a matplotlib color map type. depending on the number of zones plotted, different color maps are more appropriate
     if cluster_id == 'x':
         # show the cluster centroid data
         ax = cluster_data.centroids[metrics].T.plot(marker ='o')
@@ -217,6 +197,23 @@ def cluster_line_chart(cluster_data, analysis_data, cluster_id, metrics, colors)
         plt.xticks(range(0,len(metrics)),metrics)
         # display the graph
         plt.show()
+
+def create_zone_highlight_map(cluster_model, zone, cluster_color, highlight_color):
+    # args
+        # cluster_model takes a cluster class item that has been generated to set the zones into clusters based on the input metrics
+        # zone takes a string with the name of the zone to be highlighted, this must match the name of the zone in the geographic dataset in the cluster model
+        # cluster_color takes a string that indicates the color that the non-highlighted cluster members should be displayed in
+        # highlight_color takes a string that indicates the color that the highlighted zone should be displayed in
+    # set the dataset of analysis as the cluster model's geographic referenced dataframe
+    df_zone_highlight = cluster_model.geo
+    # set the default value to be 0, the background zones
+    df_zone_highlight['highlight_zone'] = '0'
+    # assign the value of the highlight zone column to 1 for those zones that are in the cluster
+    df_zone_highlight.loc[cluster_model.geo['Cluster'] == (df_zone_highlight.loc[df_zone_highlight.index == zone]['Cluster'].item()), 'highlight_zone'] = '1'
+    # finally, assign the value of 2 specifically to the zone we wish to highlight
+    df_zone_highlight.loc[df_zone_highlight.index == zone, 'highlight_zone'] = '2'
+    # display the map which will highlight the cluster from the other zones, and the zone of interest within the cluster
+    return df_zone_highlight.explore(column = 'highlight_zone', cmap = ['lightgrey',cluster_color,highlight_color], tiles= "CartoDB positron")
 
 # IMPORT / GENERATE DATASETS
 
@@ -410,10 +407,6 @@ amenities_2019['gyms_per_1000'] = amenities_2019['COMPLESSO SPORTIVO']/(amenitie
 # fill the NaN columns where no features are present in a given zone
 amenities_2019 = amenities_2019.fillna(0)
 
-    # import bike lane geojson
-bike_lanes = read_data_link("https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/piste-ciclopedonali/exports/geojson?lang=it&timezone=Europe%2FRome", "geojson")
-bike_lanes = bike_lanes.to_crs(epsg=6933)
-
     # import traffic accidents dataset
 traffic_accidents = read_data_link("https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/incidenti_new/exports/geojson?lang=it&timezone=Europe%2FRome","geojson")
 traffic_accidents = traffic_accidents.to_crs(epsg=6933)
@@ -467,7 +460,9 @@ transport_2019['bike_parking_per_1000'] = round(transport_2019['n_bike_parking']
 transport_2019['bike_parking_per_household'] = round(transport_2019['n_bike_parking'] / (transport_2019['households']/1000),4)
 
     # bike lanes
-# base dataset : bike_lanes
+    # import bike lane geojson
+bike_lanes = read_data_link("https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/piste-ciclopedonali/exports/geojson?lang=it&timezone=Europe%2FRome", "geojson")
+bike_lanes = bike_lanes.to_crs(epsg=6933)
 # limit to the earliest bike lanes possible
 # *** NOT AVAILABLE FOR 2019 ? ***
 bike_lanes = bike_lanes[bike_lanes['anno'] == 'Precedente 31/12/2021']
